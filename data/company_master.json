@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T01:04:46.162604+00:00",
+    "generated_at": "2026-08-10T11:29:11.405821+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11376
+    "companies": 11380
   },
   "companies": [
     {
@@ -4216,7 +4216,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "12月31日",
-      "location": "港区芝浦一丁目１番１号",
+      "location": "港区芝五丁目３４番２号",
       "industry": "サービス業",
       "corporate_number": "6011101045308"
     },
@@ -6067,20 +6067,6 @@
       "location": "水戸市泉町三丁目１番２７号",
       "industry": "小売業",
       "corporate_number": "1050001002254"
-    },
-    {
-      "edinet_code": "E03370",
-      "sec_code": "26860",
-      "ticker": "2686",
-      "name": "株式会社ジーフット",
-      "name_en": "GFOOT CO.,LTD.",
-      "name_kana": "カブシキガイシャジーフット",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "2月28日",
-      "location": "中央区新川一丁目１４番１号",
-      "industry": "小売業",
-      "corporate_number": "1180001004741"
     },
     {
       "edinet_code": "E03372",
@@ -19759,20 +19745,6 @@
       "location": "品川区上大崎３－１－１ＪＲ東急目黒ビル１３階",
       "industry": "情報・通信業",
       "corporate_number": "9011001066277"
-    },
-    {
-      "edinet_code": "E35544",
-      "sec_code": "44940",
-      "ticker": "4494",
-      "name": "バリオセキュア株式会社",
-      "name_en": null,
-      "name_kana": "バリオセキュアカブシキカイシャ",
-      "listing": "上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "2月末日",
-      "location": "千代田区神田錦町一丁目６番地",
-      "industry": "情報・通信業",
-      "corporate_number": "6010001170604"
     },
     {
       "edinet_code": "E35578",
@@ -48125,20 +48097,6 @@
       "corporate_number": "7290801005328"
     },
     {
-      "edinet_code": "E04182",
-      "sec_code": "90670",
-      "ticker": "9067",
-      "name": "株式会社丸運",
-      "name_en": "MARUWN CORPORATION",
-      "name_kana": "カブシキガイシャマルウン",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "中央区日本橋小網町７番２号",
-      "industry": "陸運業",
-      "corporate_number": "5010001141787"
-    },
-    {
       "edinet_code": "E04178",
       "sec_code": "90680",
       "ticker": "9068",
@@ -55317,6 +55275,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "ドイツ連邦共和国６０３２３フランクフルト市　ボッケンハイマーラントシュトラッセ４２－４４",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42060",
+      "sec_code": null,
+      "ticker": null,
+      "name": "アリーナ・ホールディングス・マネジメント・エルエルシー",
+      "name_en": null,
+      "name_kana": "アリーナホールディングスマネジメントエルエルシー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "アメリカ合衆国、１０００３、ニューヨーク州、ニューヨーク市、フィフス・アベニュー１１９　８階",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
@@ -64547,6 +64519,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E35544",
+      "sec_code": null,
+      "ticker": null,
+      "name": "バリオセキュア株式会社",
+      "name_en": null,
+      "name_kana": "バリオセキュアカブシキカイシャ",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "2月末日",
+      "location": "千代田区神田錦町一丁目６番地",
+      "industry": "情報・通信業",
+      "corporate_number": "6010001170604"
+    },
+    {
       "edinet_code": "E14980",
       "sec_code": null,
       "ticker": null,
@@ -69775,6 +69761,20 @@
       "name": "三宅　洋",
       "name_en": null,
       "name_kana": "ミヤケ　ヒロシ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E41054",
+      "sec_code": null,
+      "ticker": null,
+      "name": "三宅　祐介",
+      "name_en": null,
+      "name_kana": "ミヤケ　ユウスケ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -77593,6 +77593,20 @@
       "location": "渋谷区神宮前五丁目５２番２号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1010405022934"
+    },
+    {
+      "edinet_code": "E42059",
+      "sec_code": null,
+      "ticker": null,
+      "name": "公益財団法人サンクゼール財団",
+      "name_en": null,
+      "name_kana": "コウエキザイダンホウジンサンクゼールザイダン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "上水内郡信濃町大字平岡２２４９番地１",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "9100005013103"
     },
     {
       "edinet_code": "E39129",
@@ -98086,7 +98100,7 @@
       "listing": "非上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "渋谷区千駄ヶ谷５－３３－８",
+      "location": "港区港南１－８－１５Ｗビル",
       "industry": "陸運業",
       "corporate_number": "7011001068366"
     },
@@ -110607,6 +110621,20 @@
       "corporate_number": "6010401073811"
     },
     {
+      "edinet_code": "E03370",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ジーフット",
+      "name_en": "GFOOT CO.,LTD.",
+      "name_kana": "カブシキガイシャジーフット",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "2月28日",
+      "location": "中央区新川一丁目１４番１号",
+      "industry": "小売業",
+      "corporate_number": "1180001004741"
+    },
+    {
       "edinet_code": "E03244",
       "sec_code": null,
       "ticker": null,
@@ -116025,6 +116053,20 @@
       "corporate_number": "5010001029578"
     },
     {
+      "edinet_code": "E04182",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社丸運",
+      "name_en": "MARUWN CORPORATION",
+      "name_kana": "カブシキガイシャマルウン",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "中央区日本橋小網町７番２号",
+      "industry": "陸運業",
+      "corporate_number": "5010001141787"
+    },
+    {
       "edinet_code": "E37264",
       "sec_code": null,
       "ticker": null,
@@ -121421,11 +121463,11 @@
       "name": "株式会社Ａｙａｋａ",
       "name_en": null,
       "name_kana": "カブシキガイシャアヤカ",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "12月31日",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
       "location": "札幌市中央区南十六条西９丁目１番１３ー７０５",
-      "industry": "その他金融業",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6430001081065"
     },
     {
@@ -156901,6 +156943,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "Ｆｌｏｏｒ　４，　Ｗｉｌｌｏｗ　Ｈｏｕｓｅ，　Ｃｒｉｃｋｅｔ　Ｓｑｕａｒｅ，　Ｐ　Ｏ　Ｂｏｘ　２８０４，　Ｇｒａｎｄ　Ｃａｙｍａｎ　ＫＹ１－１１１２，　Ｃａｙｍａｎ　Ｉｓｌａｎｄｓ",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42122",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＳＩＲＩＵＳ　ＳＥＣＵＲＩＴＹ　ＳＹＳＴＥＭ　ＣＯＭＰＡＮＹ　ＬＩＭＩＴＥＤ",
+      "name_en": null,
+      "name_kana": "シリウス　セキュリティ　システム　カンパニー　リミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "Ｖｉｓｔｒａ　Ｃｏｒｐｏｒａｔｅ　Ｓｅｒｖｉｃｅｓ　Ｃｅｎｔｒｅ，　Ｗｉｃｋｈａｍｓ　Ｃａｙ　Ⅱ，　Ｒｏａｄ　Ｔｏｗｎ，　Ｔｏｒｔｏｌａ，　ＶＧ１１１０，　Ｂｒｉｔｉｓｈ　Ｖｉｒｇｉｎ　Ｉｓｌａｎｄｓ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
