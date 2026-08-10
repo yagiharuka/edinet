@@ -1,0 +1,67 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "styles.css"
+      - "app.js"
+      - "assets/**"
+      - "data/**"
+      - ".nojekyll"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Sync EDINET data"]
+    types: [completed]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          ref: main
+
+      - name: Validate site data
+        run: |
+          python -m json.tool data/financials.json >/dev/null
+          python -m json.tool data/company_master.json >/dev/null
+
+      - name: Build static artifact
+        shell: bash
+        run: |
+          mkdir -p _site/assets _site/data
+          cp index.html styles.css app.js .nojekyll _site/
+          cp assets/favicon.svg _site/assets/
+          cp data/financials.json data/company_master.json _site/data/
+
+      - name: Configure Pages
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "setup_required",
+    "generated_at": null,
+    "last_scan_date": null,
+    "source": "EDINET API v2",
+    "source_url": "https://disclosure2dl.edinet-fsa.go.jp/guide/static/disclosure/WZEK0110.html",
+    "method": "EDINETのXBRL変換CSVを本サイトが加工",
+    "coverage": {
+      "companies": 0,
+      "periods": 0,
+      "universe": 72,
+      "dates_scanned": 0,
+      "documents_processed_this_run": 0,
+      "documents_pending": 0,
+      "bootstrap_complete": false
+    },
+    "warnings": [],
+    "pending_dates": [],
+    "pending_documents": [],
+    "invalidated_documents_this_run": 0
+  },
+  "companies": []
+}

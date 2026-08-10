@@ -1,0 +1,82 @@
+name: Sync EDINET data
+
+on:
+  schedule:
+    # 07:15 JST: previous-day data is normally finalised after midnight processing.
+    - cron: "15 22 * * *"
+    # 19:30 JST on weekdays: pick up filings submitted during the business day.
+    - cron: "30 10 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "Scan this many calendar days (0 = automatic)"
+        required: false
+        default: "0"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/edinet_sync.py"
+      - "config/company_universe.json"
+      - "tests/test_edinet_sync.py"
+      - ".github/workflows/sync-edinet.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: edinet-data-sync
+  cancel-in-progress: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
+      LOOKBACK_DAYS: ${{ inputs.lookback_days || '0' }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.13"
+
+      - name: Run offline tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Refresh EDINET data
+        shell: bash
+        run: |
+          if [[ -n "${EDINET_API_KEY}" ]]; then
+            args=()
+            if [[ "${LOOKBACK_DAYS}" =~ ^[0-9]+$ ]] && [[ "${LOOKBACK_DAYS}" -gt 0 ]]; then
+              args+=(--lookback-days "${LOOKBACK_DAYS}")
+            fi
+            python scripts/edinet_sync.py "${args[@]}"
+          else
+            echo "EDINET_API_KEY is not configured; refreshing the public company master only."
+            python scripts/edinet_sync.py --master-only
+          fi
+
+      - name: Validate generated JSON
+        run: |
+          python -m json.tool data/financials.json >/dev/null
+          python -m json.tool data/company_master.json >/dev/null
+
+      - name: Commit changed data
+        shell: bash
+        run: |
+          if git diff --quiet -- data/financials.json data/company_master.json; then
+            echo "No data changes."
+            exit 0
+          fi
+          git config user.name "edinet-data-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/financials.json data/company_master.json
+          git commit -m "Update EDINET financial data"
+          git push

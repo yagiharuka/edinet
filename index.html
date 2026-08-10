@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <meta name="theme-color" content="#0b3150">
+    <meta
+      name="description"
+      content="EDINETの開示書類をもとに、上場会社の財務情報を検索・比較できる非公式ビューアです。"
+    >
+    <title>EDINET 財務ビューア</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">本文へ移動</a>
+
+    <header class="site-header">
+      <div class="shell header-inner">
+        <button class="brand" type="button" data-route="home" aria-label="トップへ戻る">
+          <span class="brand-mark" aria-hidden="true">E</span>
+          <span>
+            <span class="brand-name">EDINET 財務ビューア</span>
+            <span class="brand-sub">Financial filings, made readable.</span>
+          </span>
+        </button>
+        <nav class="main-nav" aria-label="メインメニュー">
+          <button type="button" class="nav-button is-current" data-route="home">企業を探す</button>
+          <button type="button" class="nav-button" data-route="compare">
+            比較する <span class="nav-count" id="nav-compare-count">0</span>
+          </button>
+          <button type="button" class="nav-button" data-route="about">データについて</button>
+        </nav>
+      </div>
+    </header>
+
+    <div id="global-status" class="global-status" role="status" aria-live="polite">
+      <div class="shell global-status-inner">
+        <span class="status-dot" aria-hidden="true"></span>
+        <span id="global-status-text">データを読み込んでいます</span>
+      </div>
+    </div>
+
+    <main id="main-content" tabindex="-1">
+      <section id="view-home" class="view" aria-labelledby="home-title">
+        <div class="hero">
+          <div class="shell hero-grid">
+            <div class="hero-copy">
+              <p class="eyebrow">EDINET FINANCIAL VIEWER</p>
+              <h1 id="home-title">会社の財務を、<br>5年分まとめて見る。</h1>
+              <p class="hero-lead">
+                会社名・証券コード・EDINETコードから検索。一次開示の数字を、期間・会計基準・連結区分とともに確認できます。
+              </p>
+              <form id="search-form" class="search-box" role="search">
+                <label for="company-search">企業を検索</label>
+                <div class="search-row">
+                  <span class="search-icon" aria-hidden="true"></span>
+                  <input
+                    id="company-search"
+                    name="query"
+                    type="search"
+                    autocomplete="off"
+                    enterkeyhint="search"
+                    placeholder="例：トヨタ、7203、E02144"
+                  >
+                  <button type="submit" class="primary-button">検索</button>
+                </div>
+              </form>
+            </div>
+
+            <aside class="hero-summary" aria-label="データ収録状況">
+              <p class="summary-kicker">DATA COVERAGE</p>
+              <dl class="summary-list">
+                <div>
+                  <dt>財務データ収録</dt>
+                  <dd><strong id="summary-companies">—</strong><span>社</span></dd>
+                </div>
+                <div>
+                  <dt>収録決算期</dt>
+                  <dd><strong id="summary-periods">—</strong><span>期</span></dd>
+                </div>
+                <div>
+                  <dt>最終更新</dt>
+                  <dd class="summary-date" id="summary-date">確認中</dd>
+                </div>
+              </dl>
+              <p class="summary-source">出典：金融庁 EDINET API v2</p>
+            </aside>
+          </div>
+        </div>
+
+        <div class="shell content-shell">
+          <div id="setup-banner" class="notice notice-setup" hidden>
+            <span class="notice-icon" aria-hidden="true">i</span>
+            <div>
+              <strong>財務データを準備中です</strong>
+              <p>企業名簿の検索は利用できます。APIの初回取得が完了すると、財務推移と企業比較が表示されます。</p>
+            </div>
+          </div>
+
+          <div id="sync-warning" class="notice notice-warning" hidden>
+            <span class="notice-icon" aria-hidden="true">!</span>
+            <div>
+              <strong>一部データの更新に失敗しました</strong>
+              <p>取得できた範囲と前回の正常値を表示しています。時間をおいて再取得し、重要な数値はEDINET原本でも確認してください。</p>
+            </div>
+          </div>
+
+          <section class="results-section" aria-labelledby="results-title">
+            <div class="section-heading results-heading">
+              <div>
+                <p class="section-kicker">COMPANIES</p>
+                <h2 id="results-title">企業一覧</h2>
+                <p id="results-summary" class="section-description" aria-live="polite">読み込み中です</p>
+              </div>
+              <button type="button" class="text-button" data-route="about">数字の見方と注意点</button>
+            </div>
+
+            <div class="filter-panel" role="group" aria-label="企業一覧の絞り込み">
+              <label>
+                <span>業種</span>
+                <select id="industry-filter">
+                  <option value="">すべての業種</option>
+                </select>
+              </label>
+              <label>
+                <span>会計基準</span>
+                <select id="standard-filter">
+                  <option value="">すべて</option>
+                  <option value="日本基準">日本基準</option>
+                  <option value="IFRS">IFRS</option>
+                  <option value="米国基準">米国基準</option>
+                </select>
+              </label>
+              <label>
+                <span>収録状況</span>
+                <select id="data-filter">
+                  <option value="available">財務データあり</option>
+                  <option value="all">企業名簿すべて</option>
+                </select>
+              </label>
+              <label>
+                <span>並び順</span>
+                <select id="sort-filter">
+                  <option value="ticker">証券コード順</option>
+                  <option value="name">会社名順</option>
+                  <option value="revenue">売上高等の大きい順</option>
+                  <option value="margin">営業利益率の高い順</option>
+                </select>
+              </label>
+            </div>
+
+            <div id="company-results" class="company-results" aria-busy="true"></div>
+            <div class="load-more-wrap">
+              <button id="load-more" class="secondary-button" type="button" hidden>さらに表示</button>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <section id="view-company" class="view" aria-labelledby="company-title" hidden>
+        <div class="shell detail-shell">
+          <button type="button" class="back-button" data-route="home">← 企業一覧へ</button>
+          <div id="company-content"></div>
+        </div>
+      </section>
+
+      <section id="view-compare" class="view" aria-labelledby="compare-title" hidden>
+        <div class="shell detail-shell">
+          <button type="button" class="back-button" data-route="home">← 企業を選び直す</button>
+          <div class="section-heading compare-heading">
+            <div>
+              <p class="section-kicker">COMPARE</p>
+              <h1 id="compare-title">企業を比較する</h1>
+              <p class="section-description">最大4社。決算期や会計基準の違いに注意してご覧ください。</p>
+            </div>
+          </div>
+          <div id="compare-content"></div>
+        </div>
+      </section>
+
+      <section id="view-about" class="view" aria-labelledby="about-title" hidden>
+        <div class="shell about-shell">
+          <button type="button" class="back-button" data-route="home">← 企業一覧へ</button>
+          <div class="about-hero">
+            <p class="section-kicker">ABOUT THE DATA</p>
+            <h1 id="about-title">数字を、正しく読むために。</h1>
+            <p>
+              このサイトは、金融庁EDINETの法定開示書類を見やすく加工した非公式ビューアです。投資助言や企業評価を目的とするものではありません。
+            </p>
+          </div>
+          <div id="about-content"></div>
+        </div>
+      </section>
+    </main>
+
+    <aside id="compare-dock" class="compare-dock" aria-label="比較する企業" hidden>
+      <div class="shell compare-dock-inner">
+        <div>
+          <span class="dock-label">比較リスト</span>
+          <div id="compare-chips" class="compare-chips"></div>
+        </div>
+        <button id="open-compare" class="primary-button" type="button">選んだ会社を比較</button>
+      </div>
+    </aside>
+
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <div>
+          <p class="footer-brand">EDINET 財務ビューア</p>
+          <p>EDINET閲覧サイトの情報をもとに本サイトが加工・作成</p>
+        </div>
+        <div class="footer-links">
+          <a href="https://disclosure2.edinet-fsa.go.jp/" target="_blank" rel="noreferrer">EDINET公式サイト ↗</a>
+          <button type="button" data-route="about">データについて</button>
+          <a href="https://github.com/yagiharuka/edinet" target="_blank" rel="noreferrer">GitHub ↗</a>
+        </div>
+      </div>
+    </footer>
+
+    <div id="live-region" class="sr-only" aria-live="polite"></div>
+    <noscript>
+      <div class="noscript">このサイトを利用するにはJavaScriptを有効にしてください。</div>
+    </noscript>
+    <script src="app.js" defer></script>
+  </body>
+</html>
