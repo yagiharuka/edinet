@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T22:57:55.401534+00:00",
+    "generated_at": "2026-08-11T11:10:37.084733+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11380
+    "companies": 11374
   },
   "companies": [
     {
@@ -103103,20 +103103,6 @@
       "corporate_number": "2010401015916"
     },
     {
-      "edinet_code": "E00350",
-      "sec_code": null,
-      "ticker": null,
-      "name": "東福製粉株式会社",
-      "name_en": null,
-      "name_kana": "トウフクセイフンカブシキガイシャ",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月末日",
-      "location": "福岡市中央区那の津４丁目９番２０号",
-      "industry": "食料品",
-      "corporate_number": "6290001008982"
-    },
-    {
       "edinet_code": "E00200",
       "sec_code": null,
       "ticker": null,
@@ -106603,20 +106589,6 @@
       "corporate_number": "5010001126664"
     },
     {
-      "edinet_code": "E05620",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社アイレップ",
-      "name_en": "IREP Co.,Ltd",
-      "name_kana": "カブシキガイシャアイレップ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "9月30日",
-      "location": "千代田区永田町二丁目１１番１号",
-      "industry": "サービス業",
-      "corporate_number": "6010001145333"
-    },
-    {
       "edinet_code": "E05352",
       "sec_code": null,
       "ticker": null,
@@ -109373,20 +109345,6 @@
       "location": "横浜市中区北仲通５－５７－２－２８０８",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6020001022936"
-    },
-    {
-      "edinet_code": "E20669",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ケイビー恒産",
-      "name_en": null,
-      "name_kana": "カブシキガイシャケイビーコウサン",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "京都市伏見区山崎町３４３番地１－５０３",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "2130002013737"
     },
     {
       "edinet_code": "E40163",
@@ -123863,20 +123821,6 @@
       "location": "江東区豊洲三丁目３番３号",
       "industry": "情報・通信業",
       "corporate_number": "9010601021385"
-    },
-    {
-      "edinet_code": "E04809",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ＮＴＴデータＮＪＫ",
-      "name_en": "NTT DATA NJK CORPORATION",
-      "name_kana": "カブシキガイシャエヌティティデータエヌジェーケー",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "中央区新富２丁目３番４号",
-      "industry": "情報・通信業",
-      "corporate_number": "3013201000954"
     },
     {
       "edinet_code": "E40614",
@@ -147959,20 +147903,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E01104",
-      "sec_code": null,
-      "ticker": null,
-      "name": "鬼怒川ゴム工業株式会社",
-      "name_en": "KINUGAWA RUBBER INDUSTRIAL CO.,LTD.",
-      "name_kana": "キヌガワゴムコウギョウカブシキガイシャ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "千葉市稲毛区長沼町３３０番地",
-      "industry": "輸送用機器",
-      "corporate_number": "7010001172987"
-    },
-    {
       "edinet_code": "E04670",
       "sec_code": null,
       "ticker": null,
@@ -151792,20 +151722,6 @@
       "fiscal_year_end": null,
       "location": "中央区八重洲一丁目４番１６号　東京建物八重洲ビル３階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E35183",
-      "sec_code": null,
-      "ticker": null,
-      "name": "Ｇ１０　ＣＡＰＩＴＡＬ　ＬＩＭＩＴＥＤ",
-      "name_en": null,
-      "name_kana": "ジーテン　キャピタル　リミテッド",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "４ｔｈ　Ｆｌｏｏｒ，　３　Ｍｏｒｅ　Ｌｏｎｄｏｎ　Ｒｉｖｅｒｓｉｄｅ，　Ｌｏｎｄｏｎ，　Ｅｎｇｌａｎｄ，　ＳＥ１　２ＡＱ，　ｔｈｅ　Ｕｎｉｔｅｄ　Ｋｉｎｇｄｏｍ",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
     {
