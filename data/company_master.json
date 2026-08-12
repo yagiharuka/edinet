@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T23:05:04.443750+00:00",
+    "generated_at": "2026-08-12T11:13:51.533468+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11374
+    "companies": 11377
   },
   "companies": [
     {
@@ -14898,7 +14898,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "1月末日",
-      "location": "港区芝四丁目３番５号ファースト岡田ビル５Ｆ",
+      "location": "千代田区神田神保町一丁目１番１号　フロントプレイス神田神保町１２階",
       "industry": "情報・通信業",
       "corporate_number": "1010401055616"
     },
@@ -46956,7 +46956,7 @@
       "name_en": "RISE Inc.",
       "name_kana": "カブシキガイシャライズ",
       "listing": "上場",
-      "has_consolidated": "有",
+      "has_consolidated": "無",
       "fiscal_year_end": "3月31日",
       "location": "港区虎ノ門一丁目１４番１号　郵政福祉琴平ビル８階",
       "industry": "不動産業",
@@ -57710,7 +57710,7 @@
       "listing": "非上場",
       "has_consolidated": "無",
       "fiscal_year_end": "3月31日",
-      "location": "東京都中央区日本橋堀留町一丁目９番８号",
+      "location": "東京都中央区日本橋堀留町一丁目９番６号",
       "industry": "その他金融業",
       "corporate_number": "9010001253166"
     },
@@ -68311,6 +68311,20 @@
       "location": "イタリア　２０１２３　ミラノ　ピアッツァーレ・ルイージ・カドルナ３",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42120",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ルナ株式会社",
+      "name_en": null,
+      "name_kana": "ルナカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区丸の内二丁目７番２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010001264818"
     },
     {
       "edinet_code": "E05907",
@@ -123137,6 +123151,20 @@
       "corporate_number": "4010801003799"
     },
     {
+      "edinet_code": "E42057",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＫＯＭＰＥＩＴＯ",
+      "name_en": "KOMPEITO Inc.",
+      "name_kana": "カブシキカイシャコンペイトウ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "8月31日",
+      "location": "品川区西五反田２丁目２８番５号",
+      "industry": "サービス業",
+      "corporate_number": "1010401101634"
+    },
+    {
       "edinet_code": "E38569",
       "sec_code": null,
       "ticker": null,
@@ -157307,6 +157335,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "ケイマン諸島ＫＹ１－１１０３，グランド・ケイマン，ジョージ・タウン，ワン・キャピタル・プレイス４階、ピーオーボックス８４７、トリデント・トラスト・カンパニー（ケイマン）",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42119",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ｓｉｔｕａｔｉｏｎａｌ　Ａｗａｒｅｎｅｓｓ　ＬＰ",
+      "name_en": null,
+      "name_kana": "シチュエーショナル　アウェアネス　エルピー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "９　Ｅａｓｔ　Ｌｏｏｃｋｅｒｍａｎ　Ｓｔｒｅｅｔ，　Ｓｕｉｔｅ　３１１，　Ｄｏｖｅｒ，　Ｄｅｌａｗａｒｅ　１９９０１",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
