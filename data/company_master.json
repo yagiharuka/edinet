@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T23:03:38.762988+00:00",
+    "generated_at": "2026-08-13T11:14:25.865401+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11377
+    "companies": 11376
   },
   "companies": [
     {
@@ -28279,7 +28279,7 @@
       "name": "株式会社アイ・グリッド・ソリューションズ",
       "name_en": null,
       "name_kana": "カブシキガイシャアイグリッドソリューションズ",
-      "listing": "非上場",
+      "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "6月30日",
       "location": "千代田区麹町三丁目７番地４",
@@ -61159,20 +61159,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E36354",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ジョン・ハートレー・ティッド・キンバル（Ｊｏｈｎ　Ｈａｒｔｌｅｙ　Ｔｉｄｄ　Ｋｉｍｂａｌｌ）",
-      "name_en": null,
-      "name_kana": "ジョンハートレーティッドキンバル",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（非居住者）（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E05913",
       "sec_code": null,
       "ticker": null,
@@ -75859,6 +75845,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E34501",
+      "sec_code": null,
+      "ticker": null,
+      "name": "佐久間　亮輔",
+      "name_en": null,
+      "name_kana": "サクマ　リョウスケ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E32317",
       "sec_code": null,
       "ticker": null,
@@ -88081,20 +88081,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E36924",
-      "sec_code": null,
-      "ticker": null,
-      "name": "室町機械株式会社",
-      "name_en": null,
-      "name_kana": "ムロマチキカイカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "中央区日本橋室町四丁目２番１号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "1010001058580"
-    },
-    {
       "edinet_code": "E36939",
       "sec_code": null,
       "ticker": null,
@@ -98005,20 +97991,6 @@
       "location": "千代田区丸の内二丁目１番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010001094082"
-    },
-    {
-      "edinet_code": "E01168",
-      "sec_code": null,
-      "ticker": null,
-      "name": "日本研紙株式会社",
-      "name_en": "NIHON KENSHI CO.,LTD.",
-      "name_kana": "ニホンケンシカブシキガイシャ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "福山市草戸町三丁目１３番２５号",
-      "industry": "ガラス・土石製品",
-      "corporate_number": "7120001049043"
     },
     {
       "edinet_code": "E04828",
@@ -108365,6 +108337,20 @@
       "location": "岡崎市薮田一丁目１番地１２",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4180301000454"
+    },
+    {
+      "edinet_code": "E42000",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社オリバー",
+      "name_en": "OLIVER CORPORATION",
+      "name_kana": "カブシキガイシャオリバー",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "12月31日",
+      "location": "岡崎市薮田一丁目１番地１２",
+      "industry": "サービス業",
+      "corporate_number": "6010001217933"
     },
     {
       "edinet_code": "E39877",
@@ -124647,6 +124633,20 @@
       "location": "港区白金台三丁目１０番１０号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3010401179719"
+    },
+    {
+      "edinet_code": "E42127",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＴＡＫＡＲＡ",
+      "name_en": null,
+      "name_kana": "カブシキカイシャタカラ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区新橋６丁目８番１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5010601036429"
     },
     {
       "edinet_code": "E01490",
@@ -148813,20 +148813,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E31177",
-      "sec_code": null,
-      "ticker": null,
-      "name": "齋藤修",
-      "name_en": null,
-      "name_kana": "サイトウオサム",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E39298",
       "sec_code": null,
       "ticker": null,
@@ -154942,7 +154928,7 @@
       "fiscal_year_end": null,
       "location": "東京都杉並区久我山五丁目２９番６号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
+      "corporate_number": "7011301031726"
     },
     {
       "edinet_code": "E38274",
