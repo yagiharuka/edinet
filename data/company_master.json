@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T23:04:23.368880+00:00",
+    "generated_at": "2026-08-14T11:12:37.630625+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11376
+    "companies": 11379
   },
   "companies": [
     {
@@ -13940,11 +13940,11 @@
       "edinet_code": "E05601",
       "sec_code": "38100",
       "ticker": "3810",
-      "name": "サイバーステップ株式会社",
-      "name_en": "CyberStep,Inc.",
-      "name_kana": "サイバーステップカブシキカイシャ",
+      "name": "サイバーステップホールディングス株式会社",
+      "name_en": "CyberStep Holdings, Inc.",
+      "name_kana": "サイバーステップホールディングスカブシキカイシャ",
       "listing": "上場",
-      "has_consolidated": "無",
+      "has_consolidated": "有",
       "fiscal_year_end": "5月31日",
       "location": "杉並区和泉１－２２－１９",
       "industry": "情報・通信業",
@@ -53779,6 +53779,20 @@
       "location": null,
       "industry": "個人（組合発行者を除く）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E40405",
+      "sec_code": null,
+      "ticker": null,
+      "name": "かがやきホールディングス株式会社",
+      "name_en": null,
+      "name_kana": "カガヤキホールディングスカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "6月30日",
+      "location": "新宿区西新宿二丁目６番１号",
+      "industry": "サービス業",
+      "corporate_number": "5011101091121"
     },
     {
       "edinet_code": "E36215",
@@ -108465,6 +108479,20 @@
       "corporate_number": "2011001138751"
     },
     {
+      "edinet_code": "E40968",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社オーディオストック",
+      "name_en": "Audiostock Inc.",
+      "name_kana": "カブシキガイシャオーディオストック",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "9月30日",
+      "location": "岡山市北区富田町一丁目６－１０東光第一ビル２Ｆ",
+      "industry": "情報・通信業",
+      "corporate_number": "1260001010384"
+    },
+    {
       "edinet_code": "E33400",
       "sec_code": null,
       "ticker": null,
@@ -111461,6 +111489,20 @@
       "corporate_number": "4120001039195"
     },
     {
+      "edinet_code": "E42099",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社テクノクラフト",
+      "name_en": "Techno Craft Corporation",
+      "name_kana": "カブシキガイシャテクノクラフト",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "9月30日",
+      "location": "新潟市西蒲区越前浜字浜手６９８５番地２",
+      "industry": "サービス業",
+      "corporate_number": "8110001008288"
+    },
+    {
       "edinet_code": "E26079",
       "sec_code": null,
       "ticker": null,
@@ -113881,6 +113923,20 @@
       "location": "千代田区神田三崎町３－１－１６　神保町北東急ビル９階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7011101032123"
+    },
+    {
+      "edinet_code": "E41959",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ベルテックス",
+      "name_en": null,
+      "name_kana": "カブシキガイシャベルテックス",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "11月30日",
+      "location": "新宿区西新宿６－８－１住友不動産新宿オークタワー９階",
+      "industry": "不動産業",
+      "corporate_number": "1011101058355"
     },
     {
       "edinet_code": "E40905",
@@ -150491,20 +150547,6 @@
       "location": "千代田区丸の内３丁目２ー２　２階",
       "industry": "その他金融業",
       "corporate_number": "9010001226782"
-    },
-    {
-      "edinet_code": "E34216",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＣＨＩＮ　ＹＥＵ　ＹＡＯ",
-      "name_en": null,
-      "name_kana": "チン　ユーヤオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（非居住者）（組合発行者を除く）",
-      "corporate_number": null
     },
     {
       "edinet_code": "E39827",
