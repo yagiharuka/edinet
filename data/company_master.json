@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T22:38:15.365232+00:00",
+    "generated_at": "2026-08-17T10:53:12.738427+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11379
+    "companies": 11382
   },
   "companies": [
     {
@@ -11104,7 +11104,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "文京区音羽二丁目１番４号",
+      "location": "文京区音羽一丁目１６番３号",
       "industry": "卸売業",
       "corporate_number": "2010001170789"
     },
@@ -22794,7 +22794,7 @@
       "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "3月31日",
-      "location": "久世郡久御山町大字田井小字新荒見７７番地",
+      "location": "久世郡久御山町田井新荒見７７番地",
       "industry": "化学",
       "corporate_number": "9130001033317"
     },
@@ -38157,20 +38157,6 @@
       "corporate_number": "6021001032396"
     },
     {
-      "edinet_code": "E35560",
-      "sec_code": "73170",
-      "ticker": "7317",
-      "name": "株式会社松屋アールアンドディ",
-      "name_en": "Matsuya R&D Co.,Ltd",
-      "name_kana": "カブシキガイシャマツヤアールアンドディ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "大野市鍬掛第２０号１番地２",
-      "industry": "機械",
-      "corporate_number": "3210001009917"
-    },
-    {
       "edinet_code": "E36657",
       "sec_code": "73180",
       "ticker": "7318",
@@ -45169,20 +45155,6 @@
       "location": "水戸市城南二丁目７番５号",
       "industry": "小売業",
       "corporate_number": "6050001000897"
-    },
-    {
-      "edinet_code": "E02691",
-      "sec_code": "82830",
-      "ticker": "8283",
-      "name": "株式会社ＰＡＬＴＡＣ",
-      "name_en": "PALTAC CORPORATION",
-      "name_kana": "カブシキガイシャパルタック",
-      "listing": "上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月31日",
-      "location": "大阪市中央区本町橋２番４６号",
-      "industry": "卸売業",
-      "corporate_number": "2120001077528"
     },
     {
       "edinet_code": "E02692",
@@ -81333,20 +81305,6 @@
       "corporate_number": "7200001006952"
     },
     {
-      "edinet_code": "E34843",
-      "sec_code": null,
-      "ticker": null,
-      "name": "合同会社あっとプラニング",
-      "name_en": null,
-      "name_kana": "ゴウドウカイシャアットプラニング",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "千代田区九段南一丁目６番１７号千代田会館",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "3011603002032"
-    },
-    {
       "edinet_code": "E41352",
       "sec_code": null,
       "ticker": null,
@@ -100457,6 +100415,20 @@
       "corporate_number": "3120002036408"
     },
     {
+      "edinet_code": "E21195",
+      "sec_code": null,
+      "ticker": null,
+      "name": "有限会社日新企興",
+      "name_en": null,
+      "name_kana": "ユウゲンガイシャニッシンキコウ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "札幌市中央区伏見４丁目４番２７号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "9430002015060"
+    },
+    {
       "edinet_code": "E27743",
       "sec_code": null,
       "ticker": null,
@@ -106013,6 +105985,20 @@
       "location": "名古屋市名東区貴船二丁目１８０９番地",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7180001135762"
+    },
+    {
+      "edinet_code": "E34843",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社あっとプラニング",
+      "name_en": null,
+      "name_kana": "カブシキガイシャ　アットプラニング",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区九段南一丁目６番１７号千代田会館",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "3011603002032"
     },
     {
       "edinet_code": "E41080",
@@ -119063,6 +119049,20 @@
       "corporate_number": "5010001005331"
     },
     {
+      "edinet_code": "E35560",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社松屋アールアンドディ",
+      "name_en": "Matsuya R&D Co.,Ltd",
+      "name_kana": "カブシキガイシャマツヤアールアンドディ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "大野市鍬掛第２０号１番地２",
+      "industry": "機械",
+      "corporate_number": "3210001009917"
+    },
+    {
       "edinet_code": "E31897",
       "sec_code": null,
       "ticker": null,
@@ -124089,6 +124089,20 @@
       "corporate_number": "4012401043498"
     },
     {
+      "edinet_code": "E02691",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＰＡＬＴＡＣ",
+      "name_en": "PALTAC CORPORATION",
+      "name_kana": "カブシキガイシャパルタック",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月31日",
+      "location": "大阪市中央区本町橋２番４６号",
+      "industry": "卸売業",
+      "corporate_number": "2120001077528"
+    },
+    {
       "edinet_code": "E39610",
       "sec_code": null,
       "ticker": null,
@@ -124521,6 +124535,20 @@
       "location": "港区六本木一丁目９番９号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1010401133223"
+    },
+    {
+      "edinet_code": "E42058",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社Ｓｋｙｆａｌｌ",
+      "name_en": null,
+      "name_kana": "カブシキカイシャスカイフォール",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "9月末日",
+      "location": "東京都港区赤坂９丁目７番１号　ミッドタウン・タワー１９階",
+      "industry": "サービス業",
+      "corporate_number": "9011001119027"
     },
     {
       "edinet_code": "E38853",
@@ -129275,6 +129303,20 @@
       "name": "河野　広勝",
       "name_en": null,
       "name_kana": "カワノ　ヒロカツ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E35310",
+      "sec_code": null,
+      "ticker": null,
+      "name": "河野　恭佑",
+      "name_en": null,
+      "name_kana": "コウノ　キョウスケ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
