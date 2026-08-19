@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T22:43:14.844465+00:00",
+    "generated_at": "2026-08-19T10:51:09.372301+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11383
+    "companies": 11384
   },
   "companies": [
     {
@@ -65131,6 +65131,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "ケイマン諸島、ＫＹ１－１１０４、グランドケイマン、ジョージタウン、サウスチャーチストリート、アグランドハウス、私書箱３０９、メープルズ・コーポレート・サービシーズ・リミテッド",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42050",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ビーシーピーイー　ネオン　ケイマン　エルピー",
+      "name_en": null,
+      "name_kana": "ビーシーピーイー　ネオン　ケイマン　エルピー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ケイマン諸島、グランド・ケイマン、ＫＹ１－１１０４、アグランド・ハウス、私書箱３０９",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
