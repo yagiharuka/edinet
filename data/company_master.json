@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T22:44:12.447248+00:00",
+    "generated_at": "2026-08-20T10:53:40.326223+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11384
+    "companies": 11387
   },
   "companies": [
     {
@@ -13464,9 +13464,9 @@
       "edinet_code": "E05443",
       "sec_code": "37500",
       "ticker": "3750",
-      "name": "株式会社ＡＤＲ１２０Ｓ",
-      "name_en": "ADR120S, Inc.",
-      "name_kana": "カブシキガイシャエーティーアールヒャクニジュウエス",
+      "name": "ＡＤＲバイオメディカルホールディングス株式会社",
+      "name_en": "ADR Biomedical Holdings Inc.",
+      "name_kana": "エーディーアールバイオメディカルホールディングス",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
@@ -69895,6 +69895,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E27042",
+      "sec_code": null,
+      "ticker": null,
+      "name": "三木　富士彦",
+      "name_en": null,
+      "name_kana": "ミキ　フジヒコ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E22787",
       "sec_code": null,
       "ticker": null,
@@ -108701,6 +108715,20 @@
       "location": "港区六本木一丁目４番５号",
       "industry": "サービス業",
       "corporate_number": "7010401180409"
+    },
+    {
+      "edinet_code": "E34260",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社カプセルコーポレーション",
+      "name_en": null,
+      "name_kana": "カブシキガイシャカプセルコーポレーション",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区芝５丁目２７－３",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "1010401127885"
     },
     {
       "edinet_code": "E35432",
@@ -158105,6 +158133,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "Ｐｒｉｎｓｅｎｇｒａｃｈｔ　７６９　Ａ，　１０１７ＪＺ　Ａｍｓｔｅｒｄａｍ，　Ｔｈｅ　Ｎｅｔｈｅｒｌａｎｄｓ",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E37075",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ｔｅａｃｈｅｒ　Ｒｅｔｉｒｅｍｅｎｔ　Ｓｙｓｔｅｍ　ｏｆ　Ｔｅｘａｓ",
+      "name_en": null,
+      "name_kana": "ティーチャーリタイアメントシステムオズテキサス",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "アメリカ合衆国テキサス州７８７２３オースティン、ミューラー・ブルバード４６５５",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
