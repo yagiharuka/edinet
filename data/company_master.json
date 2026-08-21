@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T22:46:51.839474+00:00",
+    "generated_at": "2026-08-21T10:54:25.483045+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11387
+    "companies": 11383
   },
   "companies": [
     {
@@ -1010,7 +1010,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "江東区東陽２－４－２",
+      "location": "千代田区丸の内１－１１－１",
       "industry": "建設業",
       "corporate_number": "8010601001272"
     },
@@ -43388,7 +43388,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "大阪市中央区北浜四丁目１番２３号",
+      "location": "大阪市中央区北浜四丁目１番１号",
       "industry": "その他製品",
       "corporate_number": "4120001077559"
     },
@@ -72359,20 +72359,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E40481",
-      "sec_code": null,
-      "ticker": null,
-      "name": "中村　祐輔",
-      "name_en": null,
-      "name_kana": "ナカムラ　ユウスケ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E36932",
       "sec_code": null,
       "ticker": null,
@@ -74415,20 +74401,6 @@
       "location": "京都市伏見区竹田鳥羽殿町六番地",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6130001012562"
-    },
-    {
-      "edinet_code": "E36071",
-      "sec_code": null,
-      "ticker": null,
-      "name": "京東株式会社",
-      "name_en": null,
-      "name_kana": "キョウトウカブシキカイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "中央区銀座七丁目１５番１１号６階",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "3011101072593"
     },
     {
       "edinet_code": "E31431",
@@ -78735,20 +78707,6 @@
       "name": "冨田　憲介",
       "name_en": null,
       "name_kana": "トミタ　ケンスケ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E11567",
-      "sec_code": null,
-      "ticker": null,
-      "name": "冨田　薫",
-      "name_en": null,
-      "name_kana": "トミタ　カオル",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -93005,7 +92963,7 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": null,
-      "industry": "個人（組合発行者を除く）",
+      "industry": "個人（非居住者）（組合発行者を除く）",
       "corporate_number": null
     },
     {
@@ -93021,6 +92979,20 @@
       "location": null,
       "industry": "個人（組合発行者を除く）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42049",
+      "sec_code": null,
+      "ticker": null,
+      "name": "岡谷不動産株式会社",
+      "name_en": null,
+      "name_kana": "オカヤフドウサンカブシキカイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "名古屋市中村区名駅南一丁目１６番３０号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "1180001029763"
     },
     {
       "edinet_code": "E38670",
@@ -111893,20 +111865,6 @@
       "location": "横浜市青葉区新石川四丁目３２番６号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3020001035825"
-    },
-    {
-      "edinet_code": "E36925",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社トミコーポレーション",
-      "name_en": null,
-      "name_kana": "カブシキガイシャトミコーポレーション",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "目黒区平町１－１０－９",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "1011001140551"
     },
     {
       "edinet_code": "E22124",
@@ -154341,20 +154299,6 @@
       "location": "中央区銀座一丁目６番１１号　アースタックス税理士法人内",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6010403025406"
-    },
-    {
-      "edinet_code": "E27314",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＭＡＲＩＬＹＮ　ＨＷＥＥＴＩＡＮＧ　ＴＡＮＧ",
-      "name_en": null,
-      "name_kana": "マリリン　ヒュティアン　タン",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（非居住者）（組合発行者を除く）",
-      "corporate_number": null
     },
     {
       "edinet_code": "E33728",
