@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T22:40:31.955150+00:00",
+    "generated_at": "2026-08-24T10:58:55.177570+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11383
+    "companies": 11385
   },
   "companies": [
     {
@@ -98954,7 +98954,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "杉並区成田西２－１－１１　Ｃ号棟",
+      "location": "台東区東上野２－１３－２上野スカイビル　Ａ１００９",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4011301029566"
     },
@@ -115449,6 +115449,20 @@
       "location": "港区港南二丁目１６番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3140001062337"
+    },
+    {
+      "edinet_code": "E41715",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社レイヤード",
+      "name_en": "LAYERED Inc.",
+      "name_kana": "カブシキガイシャレイヤード",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "6月30日",
+      "location": "福岡市博多区博多駅中央街８番２７号",
+      "industry": "情報・通信業",
+      "corporate_number": "2290001018911"
     },
     {
       "edinet_code": "E01013",
@@ -139042,6 +139056,20 @@
     },
     {
       "edinet_code": "E36710",
+      "sec_code": null,
+      "ticker": null,
+      "name": "菊谷　茂吉",
+      "name_en": null,
+      "name_kana": "キクタニ　モキチ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42139",
       "sec_code": null,
       "ticker": null,
       "name": "菊谷　茂吉",
