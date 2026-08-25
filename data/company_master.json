@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T22:46:21.950300+00:00",
+    "generated_at": "2026-08-25T10:56:29.812263+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11385
+    "companies": 11384
   },
   "companies": [
     {
@@ -6512,7 +6512,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "横浜市神奈川区金港町１番地４",
+      "location": "渋谷区桜丘町１番１号",
       "industry": "卸売業",
       "corporate_number": "4020001009043"
     },
@@ -75196,7 +75196,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "港区北青山二丁目５番１号",
+      "location": "港区赤坂二丁目１７番２２号　赤坂トラストタワー",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "2010401113315"
     },
@@ -85911,6 +85911,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E07590",
+      "sec_code": null,
+      "ticker": null,
+      "name": "大村　禎史",
+      "name_en": null,
+      "name_kana": "オオムラ　ヨシフミ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E38327",
       "sec_code": null,
       "ticker": null,
@@ -92833,20 +92847,6 @@
       "name": "岡村　邦彦",
       "name_en": null,
       "name_kana": "オカムラ　クニヒコ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E36964",
-      "sec_code": null,
-      "ticker": null,
-      "name": "岡田　亮介",
-      "name_en": null,
-      "name_kana": "オカダ　リョウスケ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -108197,20 +108197,6 @@
       "location": "千代田区大手町一丁目２番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4010001227538"
-    },
-    {
-      "edinet_code": "E05141",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社エル・シー・エーホールディングス",
-      "name_en": "LCA Holdings Corporation",
-      "name_kana": "カブシキガイシャエルシーエーホールディングス",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "5月20日",
-      "location": "東京都港区虎ノ門一丁目１７番１号",
-      "industry": "サービス業",
-      "corporate_number": "1010001138085"
     },
     {
       "edinet_code": "E37956",
