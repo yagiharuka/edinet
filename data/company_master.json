@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T22:47:00.829606+00:00",
+    "generated_at": "2026-08-26T10:57:23.876594+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11384
+    "companies": 11386
   },
   "companies": [
     {
@@ -28366,7 +28366,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "5月31日",
-      "location": "渋谷区渋谷二丁目２４番１２号",
+      "location": "港区赤坂二丁目４番６号",
       "industry": "サービス業",
       "corporate_number": "5010401102810"
     },
@@ -87661,20 +87661,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E10895",
-      "sec_code": null,
-      "ticker": null,
-      "name": "宇山　忠男",
-      "name_en": null,
-      "name_kana": "ウヤマ　タダオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E10896",
       "sec_code": null,
       "ticker": null,
@@ -115155,6 +115141,20 @@
       "location": "千代田区神田鍛冶町三丁目２番地４",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3010001080847"
+    },
+    {
+      "edinet_code": "E35041",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ラプリス",
+      "name_en": null,
+      "name_kana": "カブシキガイシャラプリス",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "福岡市中央区赤坂一丁目１４番２２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4290001072964"
     },
     {
       "edinet_code": "E31948",
@@ -144165,6 +144165,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42129",
+      "sec_code": null,
+      "ticker": null,
+      "name": "鈴木　俊介",
+      "name_en": null,
+      "name_kana": "スズキ　シュンスケ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E37365",
       "sec_code": null,
       "ticker": null,
@@ -152873,6 +152887,20 @@
       "corporate_number": "2010001089484"
     },
     {
+      "edinet_code": "E35628",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＩＷ．ＤＸパートナーズ株式会社",
+      "name_en": null,
+      "name_kana": "アイダブリューディーエックスカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区北青山二丁目５番１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "6010401149082"
+    },
+    {
       "edinet_code": "E35459",
       "sec_code": null,
       "ticker": null,
@@ -157908,7 +157936,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "神戸市中央区栄町通一丁目１番２４号",
+      "location": "神戸市中央区磯辺通２丁目２－２５",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1480001008539"
     },
