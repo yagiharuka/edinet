@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T03:20:24.711832+00:00",
+    "generated_at": "2026-08-27T20:36:49.791741+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11381
+    "companies": 11384
   },
   "companies": [
     {
@@ -55573,6 +55573,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42150",
+      "sec_code": null,
+      "ticker": null,
+      "name": "アークサービス株式会社",
+      "name_en": null,
+      "name_kana": "アークサービスカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区新橋６丁目２２番６号ＪＯＹＯビル６階",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "9010401111361"
+    },
+    {
       "edinet_code": "E36298",
       "sec_code": null,
       "ticker": null,
@@ -60370,7 +60384,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "港区北青山二丁目５番１号",
+      "location": "港区赤坂二丁目１７番２２号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010403027152"
     },
@@ -67991,6 +68005,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E41186",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ラックスシェア・プレシジョン・ケイマン・リミテッド",
+      "name_en": null,
+      "name_kana": "ラックスシェア　プレシジション　ケイマン　リミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ケイマン諸島、グランド・ケイマンＫＹ１－９００６、エッジウォーター・ウェイ１６５３、ジョージ・タウン、私書箱５２Ａ、スミス・ロード２６５、パーム・グローブ・ユニット４、ＩＣＳコーポレート・サービシズ（ケイマン）リミテッド気付",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E12450",
       "sec_code": null,
       "ticker": null,
@@ -75227,6 +75255,20 @@
       "location": "中央区日本橋本町２－７－１",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9010001037338"
+    },
+    {
+      "edinet_code": "E32057",
+      "sec_code": null,
+      "ticker": null,
+      "name": "伊藤忠自動車投資合同会社",
+      "name_en": null,
+      "name_kana": "イトウチュウジドウシャトウシゴウドウカイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区北青山二丁目１７番２２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010403014093"
     },
     {
       "edinet_code": "E02931",
