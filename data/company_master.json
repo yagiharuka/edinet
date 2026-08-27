@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T10:57:23.876594+00:00",
+    "generated_at": "2026-08-27T03:20:24.711832+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11386
+    "companies": 11381
   },
   "companies": [
     {
@@ -23661,7 +23661,7 @@
       "name_kana": "カブシキカイシャギークリー",
       "listing": "上場",
       "has_consolidated": "無",
-      "fiscal_year_end": "5月11日",
+      "fiscal_year_end": "5月31日",
       "location": "東京都渋谷区渋谷二丁目１７番１号",
       "industry": "サービス業",
       "corporate_number": "7011001072459"
@@ -68565,20 +68565,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E35154",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ロバート　コリック",
-      "name_en": null,
-      "name_kana": "ロバート　コリック",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（非居住者）（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E33591",
       "sec_code": null,
       "ticker": null,
@@ -78043,20 +78029,6 @@
       "corporate_number": "4110005011102"
     },
     {
-      "edinet_code": "E36960",
-      "sec_code": null,
-      "ticker": null,
-      "name": "公益財団法人穴見保雄財団",
-      "name_en": null,
-      "name_kana": "コウエキザイダンホウジンアナミヤスオザイダン",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "大分市西鶴崎１丁目７番１７号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "5320005009685"
-    },
-    {
       "edinet_code": "E39556",
       "sec_code": null,
       "ticker": null,
@@ -85119,20 +85091,6 @@
       "name": "大丸　孝之",
       "name_en": null,
       "name_kana": "ダイマル　タカユキ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E35098",
-      "sec_code": null,
-      "ticker": null,
-      "name": "大久保　俊幸",
-      "name_en": null,
-      "name_kana": "オオクボ　トシユキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -136465,20 +136423,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E27870",
-      "sec_code": null,
-      "ticker": null,
-      "name": "穴見　保雄",
-      "name_en": null,
-      "name_kana": "アナミ　ヤスオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E27871",
       "sec_code": null,
       "ticker": null,
@@ -144325,20 +144269,6 @@
       "name": "鈴木　敏明",
       "name_en": null,
       "name_kana": "スズキ　トシアキ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E27829",
-      "sec_code": null,
-      "ticker": null,
-      "name": "鈴木　教義",
-      "name_en": null,
-      "name_kana": "スズキ　ノリヨシ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
