@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T20:36:49.791741+00:00",
+    "generated_at": "2026-08-28T06:08:45.046165+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11384
+    "companies": 11381
   },
   "companies": [
     {
@@ -77469,6 +77469,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E41897",
+      "sec_code": null,
+      "ticker": null,
+      "name": "八木　隆夫",
+      "name_en": null,
+      "name_kana": "ヤギ　タカオ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E27586",
       "sec_code": null,
       "ticker": null,
@@ -83061,20 +83075,6 @@
       "name": "吉田　自由児",
       "name_en": null,
       "name_kana": "ヨシダ　ジユウジ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E34419",
-      "sec_code": null,
-      "ticker": null,
-      "name": "吉田　融正",
-      "name_en": null,
-      "name_kana": "ヨシダ　ミチマサ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -94107,20 +94107,6 @@
       "name": "川西　徹",
       "name_en": null,
       "name_kana": "カワニシ　トオル",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E10782",
-      "sec_code": null,
-      "ticker": null,
-      "name": "川路　耕一",
-      "name_en": null,
-      "name_kana": "カワジ　コウイチ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -123697,20 +123683,6 @@
       "corporate_number": "9010001067938"
     },
     {
-      "edinet_code": "E36776",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ＮＥＸＴ－О",
-      "name_en": null,
-      "name_kana": "カブシキカイシャネクストオー",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "千代田区丸の内一丁目９番２号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "6010001217933"
-    },
-    {
       "edinet_code": "E42056",
       "sec_code": null,
       "ticker": null,
@@ -136681,20 +136653,6 @@
       "name": "竹内　惠司",
       "name_en": null,
       "name_kana": "タケウチ　ケイジ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E36676",
-      "sec_code": null,
-      "ticker": null,
-      "name": "竹内　猛",
-      "name_en": null,
-      "name_kana": "タケウチ　タケシ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
