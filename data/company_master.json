@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T00:38:19.929420+00:00",
+    "generated_at": "2026-08-31T17:39:22.911025+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11382
+    "companies": 11389
   },
   "companies": [
     {
@@ -688,7 +688,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "千代田区丸の内二丁目３番２号",
+      "location": "千代田区大手町一丁目５番１号",
       "industry": "鉱業",
       "corporate_number": "5010001008730"
     },
@@ -3267,20 +3267,6 @@
       "location": "中央区日本橋本町二丁目２番２号",
       "industry": "医薬品",
       "corporate_number": "4011101053527"
-    },
-    {
-      "edinet_code": "E05676",
-      "sec_code": "21620",
-      "ticker": "2162",
-      "name": "ｎｍｓホールディングス株式会社",
-      "name_en": "nms Holdings Corporation",
-      "name_kana": "エヌエムエスホールディングスカブシキガイシャ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "新宿区西新宿三丁目２０番２号",
-      "industry": "サービス業",
-      "corporate_number": "7011101037766"
     },
     {
       "edinet_code": "E05717",
@@ -40756,7 +40742,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "９９４　Ｂｅｎｄｅｍｅｅｒ　Ｒｏａｄ　Ｂ－Ｃｅｎｔｒａｌ　＃０１－０３　Ｓｉｎｇａｐｏｒｅ　３３９９４３",
+      "location": "４　Ｕｂｉ　Ｖｉｅｗ，　Ｉｎｆｉｎｉｔｕｕｍ，　Ｓｉｎｇａｐｏｒｅ　４０８５５７",
       "industry": "外国法人・組合",
       "corporate_number": null
     },
@@ -49002,7 +48988,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "千代田区大手町一丁目７番２号東京サンケイビル１５階",
+      "location": "港区芝浦一丁目１番１号",
       "industry": "サービス業",
       "corporate_number": "2010001221609"
     },
@@ -70217,6 +70203,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E23673",
+      "sec_code": null,
+      "ticker": null,
+      "name": "三田　聖二",
+      "name_en": null,
+      "name_kana": "サンダ　セイジ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（非居住者）（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E37044",
       "sec_code": null,
       "ticker": null,
@@ -71917,6 +71917,20 @@
       "name": "中川　高志",
       "name_en": null,
       "name_kana": "ナカガワ　タカシ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42055",
+      "sec_code": null,
+      "ticker": null,
+      "name": "中川　龍太郎",
+      "name_en": null,
+      "name_kana": "ナカガワ　リュウタロウ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -75963,6 +75977,20 @@
       "name": "佐瀬　守男",
       "name_en": null,
       "name_kana": "サセ　モリオ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42152",
+      "sec_code": null,
+      "ticker": null,
+      "name": "佐田建設伸佐会持株会　理事長　平方　宏",
+      "name_en": null,
+      "name_kana": "サタケンセツシンサカイモチカブカイ　リジチョウ　ヒラカタ　ヒロシ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -103901,6 +103929,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42061",
+      "sec_code": null,
+      "ticker": null,
+      "name": "松村　康平",
+      "name_en": null,
+      "name_kana": "マツムラ　コウヘイ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E38022",
       "sec_code": null,
       "ticker": null,
@@ -109879,6 +109921,20 @@
       "corporate_number": "9010401082371"
     },
     {
+      "edinet_code": "E42155",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社サムライキャピタル",
+      "name_en": null,
+      "name_kana": "カブシキガイシャサムライキャピタル",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "渋谷区道玄坂一丁目１０番８号渋谷道玄坂東急ビル２Ｆ－Ｃ",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "1010701034344"
+    },
+    {
       "edinet_code": "E04001",
       "sec_code": null,
       "ticker": null,
@@ -111078,7 +111134,7 @@
       "listing": "非上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "港区芝公園二丁目４番１号Ａ－１０階",
+      "location": "港区芝浦一丁目１番１号　ブルーフロント芝浦タワーＳ２６階",
       "industry": "サービス業",
       "corporate_number": "9010401077017"
     },
@@ -111123,6 +111179,20 @@
       "location": "足利市南大町４４３",
       "industry": "輸送用機器",
       "corporate_number": "7060001018855"
+    },
+    {
+      "edinet_code": "E42076",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社タマス",
+      "name_en": null,
+      "name_kana": "カブシキカイシャタマス",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "杉並区阿佐谷南１丁目７番１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "2011301004281"
     },
     {
       "edinet_code": "E04967",
@@ -150241,6 +150311,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42170",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ｂｌａｃｋｗｅｌｌ　Ｃｌｏｕｄ　Ｃｏ．，　Ｌｉｍｉｔｅｄ",
+      "name_en": null,
+      "name_kana": "ブラックウェル　クラウド　カンパニー　リミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ＵＮＩＴ　ＮＯ．　１２　ＯＮ　２９ＴＨ　ＦＬＯＯＲ，　ＯＮＥ　ＭＩＤＴＯＷＮ，　ＮＯ．１１　ＨＯＩ　ＳＨＩＮＧ　ＲＯＡＤ，　ＴＳＵＥＮ　ＷＡＮ，　ＮＥＷ　ＴＥＲＲＩＴＯＲＩＥＳ，　Ｈｏｎｇ　Ｋｏｎｇ",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E38522",
       "sec_code": null,
       "ticker": null,
@@ -159283,6 +159367,20 @@
       "location": "東京都港区虎ノ門３丁目５番１号虎ノ門３７森ビル",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7010401179599"
+    },
+    {
+      "edinet_code": "E05676",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ｎｍｓホールディングス株式会社",
+      "name_en": "nms Holdings Corporation",
+      "name_kana": "エヌエムエスホールディングスカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "新宿区西新宿三丁目２０番２号",
+      "industry": "サービス業",
+      "corporate_number": "7011101037766"
     },
     {
       "edinet_code": "E41002",
