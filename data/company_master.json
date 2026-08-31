@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T00:22:38.286125+00:00",
+    "generated_at": "2026-08-31T00:38:19.929420+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11381
+    "companies": 11382
   },
   "companies": [
     {
@@ -89431,6 +89431,20 @@
       "name": "小川　武重",
       "name_en": null,
       "name_kana": "オガワ　タケシゲ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42124",
+      "sec_code": null,
+      "ticker": null,
+      "name": "小川　浩二",
+      "name_en": null,
+      "name_kana": "オガワ　コウジ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
