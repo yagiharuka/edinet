@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T01:18:51.785204+00:00",
+    "generated_at": "2026-09-01T14:59:32.203457+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11385
+    "companies": 11388
   },
   "companies": [
     {
@@ -75621,6 +75621,20 @@
       "corporate_number": "7120001044515"
     },
     {
+      "edinet_code": "E42106",
+      "sec_code": null,
+      "ticker": null,
+      "name": "住吉　秀一",
+      "name_en": null,
+      "name_kana": "スミヨシ　ヒデカズ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E09828",
       "sec_code": null,
       "ticker": null,
@@ -107746,7 +107760,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "埼玉県草加市北谷二丁目１８番４０号",
+      "location": "草加市北谷二丁目１８番４０号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7010401113491"
     },
@@ -126587,6 +126601,20 @@
       "name": "植木　威行",
       "name_en": null,
       "name_kana": "ウエキ　タケユキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E21526",
+      "sec_code": null,
+      "ticker": null,
+      "name": "植村　久子",
+      "name_en": null,
+      "name_kana": "ウエムラ　ヒサコ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -157517,6 +157545,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "Ｓｅａ　Ｍｅａｄｏｗ　Ｈｏｕｓｅ，　Ｐ．Ｏ．　Ｂｏｘ　１１６，　Ｒｏａｄ　Ｔｏｗｎ，　Ｔｏｒｔｏｌａ，　Ｂｒｉｔｉｓｈ　Ｖｉｒｇｉｎ　Ｉｓｌａｎｄｓ",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42145",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ｓｕｄｉａｎ　Ｉｎｖｅｓｔｍｅｎｔ　Ｃｏ．　Ｌｉｍｉｔｅｄ",
+      "name_en": null,
+      "name_kana": "スディアン　インベストメント　カンパニー　リミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "Ｃｏａｓｔａｌ　Ｂｕｉｌｄｉｎｇ，　Ｗｉｃｋｈａｍ’ｓ　Ｃａｙ　ＩＩ，　Ｐ．Ｏ．　Ｂｏｘ　２２２１，　Ｒｏａｄ　Ｔｏｗｎ，　Ｔｏｒｔｏｌａ，　ＶＧ１１１０，　Ｂｒｉｔｉｓｈ　Ｖｉｒｇｉｎ　Ｉｓｌａｎｄｓ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
