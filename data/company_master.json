@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T17:39:22.911025+00:00",
+    "generated_at": "2026-09-01T01:18:51.785204+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11389
+    "companies": 11385
   },
   "companies": [
     {
@@ -14108,9 +14108,9 @@
       "edinet_code": "E05674",
       "sec_code": "38400",
       "ticker": "3840",
-      "name": "パス株式会社",
-      "name_en": "PATH corporation",
-      "name_kana": "パスカブシキガイシャ",
+      "name": "株式会社ヴィクトン",
+      "name_en": "VIXTON corporation",
+      "name_kana": "カブシキガイシャヴィクトン",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
@@ -96943,20 +96943,6 @@
       "corporate_number": "7270001000651"
     },
     {
-      "edinet_code": "E35923",
-      "sec_code": null,
-      "ticker": null,
-      "name": "日下　寛之",
-      "name_en": null,
-      "name_kana": "クサカ　ヒロユキ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E35924",
       "sec_code": null,
       "ticker": null,
@@ -107567,20 +107553,6 @@
       "location": "大阪市中央区備後町三丁目６番２号ＫＦセンタービル",
       "industry": "サービス業",
       "corporate_number": "9120001076820"
-    },
-    {
-      "edinet_code": "E05491",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ウィズ",
-      "name_en": "WiZ CO., LTD.",
-      "name_kana": "カブシキガイシャウィズ",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月31日",
-      "location": "台東区寿三丁目１４番１１号",
-      "industry": "その他製品",
-      "corporate_number": "5010001037564"
     },
     {
       "edinet_code": "E09037",
@@ -126321,20 +126293,6 @@
       "name": "森坂　拓実",
       "name_en": null,
       "name_kana": "モリサカ　タクミ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E36182",
-      "sec_code": null,
-      "ticker": null,
-      "name": "森垣　昭",
-      "name_en": null,
-      "name_kana": "モリガキ　アキラ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -146831,20 +146789,6 @@
       "name": "馬場　利明",
       "name_en": null,
       "name_kana": "ババ　トシアキ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E27134",
-      "sec_code": null,
-      "ticker": null,
-      "name": "馬場　功淳",
-      "name_en": null,
-      "name_kana": "ババ　ナルアツ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
