@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T14:59:32.203457+00:00",
+    "generated_at": "2026-09-02T00:16:50.768521+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11388
+    "companies": 11384
   },
   "companies": [
     {
@@ -23749,20 +23749,6 @@
       "location": "平塚市追分２番１号",
       "industry": "ゴム製品",
       "corporate_number": "4010401030574"
-    },
-    {
-      "edinet_code": "E01088",
-      "sec_code": "51030",
-      "ticker": "5103",
-      "name": "昭和ホールディングス株式会社",
-      "name_en": "Showa Holdings Co.,Ltd.",
-      "name_kana": "ショウワホールディングスカブシキガイシャ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "柏市十余二３４８番地",
-      "industry": "ゴム製品",
-      "corporate_number": "3040001065779"
     },
     {
       "edinet_code": "E01090",
@@ -60750,20 +60736,6 @@
       "fiscal_year_end": null,
       "location": "アメリカ合衆国ペンシルベニア州ラドナー市、キング・オブ・プルシア・ロード２０１番、スイート６００",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E32004",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ジェイコブソン　陽子",
-      "name_en": null,
-      "name_kana": "ジェイコブソン　ヨウコ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
       "corporate_number": null
     },
     {
@@ -99099,6 +99071,20 @@
       "corporate_number": "4010401013769"
     },
     {
+      "edinet_code": "E01088",
+      "sec_code": null,
+      "ticker": null,
+      "name": "昭和ホールディングス株式会社",
+      "name_en": "Showa Holdings Co.,Ltd.",
+      "name_kana": "ショウワホールディングスカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "柏市十余二３４８番地",
+      "industry": "ゴム製品",
+      "corporate_number": "3040001065779"
+    },
+    {
       "edinet_code": "E31658",
       "sec_code": null,
       "ticker": null,
@@ -114427,20 +114413,6 @@
       "location": "京都市上京区出町今出川上る青龍町２３１番地",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3130001003894"
-    },
-    {
-      "edinet_code": "E36863",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社マルハン太平洋クラブインベストメント",
-      "name_en": null,
-      "name_kana": "カブシキカイシャマルハンタイヘイヨウクラブインベストメント",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "千代田区丸の内一丁目１１番１号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "1010001219117"
     },
     {
       "edinet_code": "E01027",
@@ -146825,20 +146797,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E31206",
-      "sec_code": null,
-      "ticker": null,
-      "name": "馬場　稔正",
-      "name_en": null,
-      "name_kana": "ババ　トシマサ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E39551",
       "sec_code": null,
       "ticker": null,
@@ -148763,20 +148721,6 @@
       "name": "齊藤　精良",
       "name_en": null,
       "name_kana": "サイトウ　セイリョウ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E36752",
-      "sec_code": null,
-      "ticker": null,
-      "name": "齋藤　佐和子",
-      "name_en": null,
-      "name_kana": "サイトウ　サワコ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
