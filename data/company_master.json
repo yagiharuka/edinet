@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T00:16:50.768521+00:00",
+    "generated_at": "2026-09-02T14:34:45.538007+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11384
+    "companies": 11386
   },
   "companies": [
     {
@@ -20778,7 +20778,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "板橋区舟渡三丁目９番６号",
+      "location": "新宿区西新宿一丁目２６番２号　新宿野村ビル１１階",
       "industry": "化学",
       "corporate_number": "5011401000351"
     },
@@ -72275,6 +72275,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E10900",
+      "sec_code": null,
+      "ticker": null,
+      "name": "中村　敬",
+      "name_en": null,
+      "name_kana": "ナカムラ　タカシ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E30394",
       "sec_code": null,
       "ticker": null,
@@ -121583,6 +121597,20 @@
       "corporate_number": "2010001225493"
     },
     {
+      "edinet_code": "E41975",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＢＣＪ－１１０",
+      "name_en": null,
+      "name_kana": "カブシキカイシャビーシージェイワンハンドレッドテン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区丸の内一丁目１番１号パレスビル５階",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4010001266040"
+    },
+    {
       "edinet_code": "E37208",
       "sec_code": null,
       "ticker": null,
@@ -123846,7 +123874,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "白河市向新蔵１１１番地",
+      "location": "港区六本木六丁目１２番３号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8011101096431"
     },
