@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T00:18:34.593719+00:00",
+    "generated_at": "2026-09-03T14:38:53.782646+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11386
+    "companies": 11392
   },
   "companies": [
     {
@@ -26964,7 +26964,7 @@
       "name_en": null,
       "name_kana": "カブシキガイシャクラダシ",
       "listing": "上場",
-      "has_consolidated": "無",
+      "has_consolidated": "有",
       "fiscal_year_end": "6月30日",
       "location": "品川区上大崎三丁目２番１号",
       "industry": "小売業",
@@ -48764,7 +48764,7 @@
       "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "3月末日",
-      "location": "名古屋市中村区平池町四丁目６０番地の１２　グローバルゲート２６階",
+      "location": "名古屋市中区錦三丁目２５番１号　ザ・ランドマーク名古屋栄　２９階",
       "industry": "サービス業",
       "corporate_number": "6210001015400"
     },
@@ -99715,6 +99715,20 @@
       "corporate_number": "2012402015911"
     },
     {
+      "edinet_code": "E23776",
+      "sec_code": null,
+      "ticker": null,
+      "name": "有限会社カイカイキキ",
+      "name_en": null,
+      "name_kana": "ユウゲンガイシャカイカイキキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区元麻布二丁目３番３０号元麻布クレストビル２階",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5010402035398"
+    },
+    {
       "edinet_code": "E09245",
       "sec_code": null,
       "ticker": null,
@@ -149373,6 +149387,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42183",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＡＰＯ　Ｃｏｒｐ．",
+      "name_en": null,
+      "name_kana": "エーピーオー　コーポレーション",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "アメリカ合衆国　デラウェア州　１９８０８　ウィルミントン　リトルフォールズドライブ　２５１　コーポレーションサービスカンパニー",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E41508",
       "sec_code": null,
       "ticker": null,
@@ -149651,6 +149679,48 @@
       "location": "千代田区丸の内一丁目８番１号丸の内トラストタワーＮ館",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9010001098999"
+    },
+    {
+      "edinet_code": "E42180",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ａｐｏｌｌｏ　Ａｄｖｉｓｏｒｓ　Ｘ　（ＥＨ－ＧＰ），　ＬＬＣ",
+      "name_en": null,
+      "name_kana": "アポロ　アドバイザース　テン　イーエイチ　ジーピー　エルエルシー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ケイマン諸島　ＫＹ１－９００８　グランドケイマン　ジョージタウン　エルギンアベニュー　１９０　ウォーカーズコーポレートリミテッド",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42182",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ａｐｏｌｌｏ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ，　Ｉｎｃ．",
+      "name_en": null,
+      "name_kana": "アポロ　アセット　マネジメント　インク",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "アメリカ合衆国　デラウェア州　１９８０８　ウィルミントン　リトルフォールズドライブ　２５１　コーポレーションサービスカンパニー",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42177",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ａｐｏｌｌｏ　Ｐｒｉｎｃｉｐａｌ　Ｈｏｌｄｉｎｇｓ　Ａ　ＧＰ，　Ｌｔｄ．",
+      "name_en": null,
+      "name_kana": "アポロ　プリンシパル　ホールディングス　エー　ジーピー　リミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ケイマン諸島　ＫＹ１－９００８　グランドケイマン　ジョージタウン　エルギンアベニュー　１９０　ウォーカーズコーポレートリミテッド",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
     },
     {
       "edinet_code": "E40133",
@@ -154257,6 +154327,20 @@
       "location": "２６／ｆ，　Ｔｈｒｅｅ　Ｅｘｃｈａｎｇｅ　Ｓｑｕａｒｅ，　８　Ｃｏｎｎａｕｇｈｔ　Ｐｌａｃｅ，　Ｃｅｎｔｒａｌ，　Ｈｏｎｇ　Ｋｏｎｇ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42015",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ｌｕｍｉｎａ　Ｊａｐａｎ　Ａｃｑｕｉｓｉｔｉｏｎ株式会社",
+      "name_en": null,
+      "name_kana": "ルミナジャパンアクイジションカブシキカイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区虎ノ門二丁目１０番４号オークラプレステージタワー",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010401197337"
     },
     {
       "edinet_code": "E35984",
