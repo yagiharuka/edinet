@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T14:38:53.782646+00:00",
+    "generated_at": "2026-09-04T00:07:57.627114+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11392
+    "companies": 11387
   },
   "companies": [
     {
@@ -63959,20 +63959,6 @@
       "corporate_number": "3010401182953"
     },
     {
-      "edinet_code": "E06121",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ネスナ・エルエルピー",
-      "name_en": null,
-      "name_kana": "ネスナ　エルエルピー",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "英国ＷＣ２Ｈ９ＥＡロンドン、アッパー・セントマーティンズ・レーン５、オリオン・ハウス",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E33898",
       "sec_code": null,
       "ticker": null,
@@ -78281,20 +78267,6 @@
       "corporate_number": "5100005011705"
     },
     {
-      "edinet_code": "E32781",
-      "sec_code": null,
-      "ticker": null,
-      "name": "公益財団法人Ｔａｚａｋｉ財団",
-      "name_en": null,
-      "name_kana": "コウエキザイダンホウジンタザキザイダン",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "千代田区神田神保町一丁目１０５番地　神保町三井ビルディング１４階",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "5010005025623"
-    },
-    {
       "edinet_code": "E39563",
       "sec_code": null,
       "ticker": null,
@@ -83425,20 +83397,6 @@
       "name": "和井田　俶生",
       "name_en": null,
       "name_kana": "ワイダ　ヒデオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E10181",
-      "sec_code": null,
-      "ticker": null,
-      "name": "和井田　光生",
-      "name_en": null,
-      "name_kana": "ワイダ　ミツオ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -94359,20 +94317,6 @@
       "name": "市川　聡",
       "name_en": null,
       "name_kana": "イチカワ　サトシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E33641",
-      "sec_code": null,
-      "ticker": null,
-      "name": "市川俊雄",
-      "name_en": null,
-      "name_kana": "イチカワトシオ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -140327,20 +140271,6 @@
       "location": "東京都新宿区西新宿１－２６－２新宿野村ビル３２階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1011101080805"
-    },
-    {
-      "edinet_code": "E36542",
-      "sec_code": null,
-      "ticker": null,
-      "name": "行川　久代",
-      "name_en": null,
-      "name_kana": "ナメカワ　ヒサヨ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
     },
     {
       "edinet_code": "E37548",
