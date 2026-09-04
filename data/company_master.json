@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T00:07:57.627114+00:00",
+    "generated_at": "2026-09-04T14:25:46.517504+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11387
+    "companies": 11392
   },
   "companies": [
     {
@@ -57533,6 +57533,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E35940",
+      "sec_code": null,
+      "ticker": null,
+      "name": "オガサワラコーエルティーディー",
+      "name_en": null,
+      "name_kana": "オガサワラコーエルティーディー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ウィックハムス　ケイツー　ロードタウン　トートラ　ＶＧ１１１０　ビストラコーポレートサービスセンター",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E41970",
       "sec_code": null,
       "ticker": null,
@@ -94093,6 +94107,20 @@
       "name": "川端　久美子",
       "name_en": null,
       "name_kana": "カワバタ　クミコ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42134",
+      "sec_code": null,
+      "ticker": null,
+      "name": "川西　多美",
+      "name_en": null,
+      "name_kana": "カワニシ　タミ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -138117,6 +138145,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42165",
+      "sec_code": null,
+      "ticker": null,
+      "name": "舩越　裕勝",
+      "name_en": null,
+      "name_kana": "フナコシ　ヒロカツ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E01863",
       "sec_code": null,
       "ticker": null,
@@ -145355,6 +145397,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42132",
+      "sec_code": null,
+      "ticker": null,
+      "name": "間庭　裕喜",
+      "name_en": null,
+      "name_kana": "マニワ　ユウキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E39672",
       "sec_code": null,
       "ticker": null,
@@ -146369,6 +146425,20 @@
       "name": "須田　忠雄",
       "name_en": null,
       "name_kana": "スダ　タダオ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42159",
+      "sec_code": null,
+      "ticker": null,
+      "name": "須田　祐馬",
+      "name_en": null,
+      "name_kana": "スダ　ユウマ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
