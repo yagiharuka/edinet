@@ -1,11 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T23:57:22.633050+00:00",
+    "generated_at": "2026-09-07T15:56:17.298235+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11392
+    "companies": 11396
   },
   "companies": [
+    {
+      "edinet_code": "E42126",
+      "sec_code": "00000",
+      "ticker": "0000",
+      "name": "クラサスケミカル株式会社",
+      "name_en": "Crasus Chemical Inc.",
+      "name_kana": "クラサスケミカルカブシキガイシャ",
+      "listing": "上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "12月31日",
+      "location": "大分市大字中ノ洲２番地",
+      "industry": "化学",
+      "corporate_number": "5320001020638"
+    },
     {
       "edinet_code": "E00012",
       "sec_code": "13010",
@@ -6072,9 +6086,9 @@
       "edinet_code": "E02928",
       "sec_code": "26890",
       "ticker": "2689",
-      "name": "オルバヘルスケアホールディングス株式会社",
-      "name_en": "OLBA HEALTHCARE HOLDINGS,INC.",
-      "name_kana": "オルバヘルスケアホールディングスカブシキガイシャ",
+      "name": "オルバディーブイエックスヘルスケア株式会社",
+      "name_en": "OLBA DVx HEALTHCARE,Inc.",
+      "name_kana": "オルバディーブイエックスヘルスケアカブシキガイシャ",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "6月30日",
@@ -65471,6 +65485,20 @@
       "corporate_number": "5013202011148"
     },
     {
+      "edinet_code": "E41411",
+      "sec_code": null,
+      "ticker": null,
+      "name": "フィデリティ・マネジメント・アンド・リサーチ・ジャパン株式会社",
+      "name_en": null,
+      "name_kana": "フィデリティ　マネジメント　アンド　リサーチ　ジャパン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区虎ノ門４－１－１７神谷町プライムプレイス",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "2010401093276"
+    },
+    {
       "edinet_code": "E12481",
       "sec_code": null,
       "ticker": null,
@@ -106547,6 +106575,20 @@
       "corporate_number": "7020001030145"
     },
     {
+      "edinet_code": "E42121",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社アイビスホールディングス",
+      "name_en": "IBIS HOLDINGS Co.,Ltd",
+      "name_kana": "カブシキガイシャアイビスホールディングス",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "10月31日",
+      "location": "千代田区外神田二丁目１５番１２号",
+      "industry": "サービス業",
+      "corporate_number": "5180001143461"
+    },
+    {
       "edinet_code": "E27220",
       "sec_code": null,
       "ticker": null,
@@ -123977,6 +124019,20 @@
       "corporate_number": "6010401050975"
     },
     {
+      "edinet_code": "E42172",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＯＣＥＡＮ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャオーシャン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区虎ノ門５ー１１ー１オランダヒルズ森タワーＲｏｐ１１０７号室",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010401134273"
+    },
+    {
       "edinet_code": "E32182",
       "sec_code": null,
       "ticker": null,
@@ -125424,7 +125480,7 @@
       "ticker": null,
       "name": "株式会社ＹｏｕｒＴｕｒｎ",
       "name_en": null,
-      "name_kana": "カブシキカイシャユアターン",
+      "name_kana": "カブシキガイシャユアターン",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
