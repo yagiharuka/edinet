@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T15:56:17.298235+00:00",
+    "generated_at": "2026-09-08T00:26:46.119208+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11396
+    "companies": 11386
   },
   "companies": [
     {
@@ -59017,20 +59017,6 @@
       "corporate_number": "8120001102627"
     },
     {
-      "edinet_code": "E36399",
-      "sec_code": null,
-      "ticker": null,
-      "name": "グローバル・イノベーション・パートナーズ株式会社",
-      "name_en": null,
-      "name_kana": "グローバルイノベーションパートナーズカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区東新橋一丁目５番２号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "3010401060060"
-    },
-    {
       "edinet_code": "E32021",
       "sec_code": null,
       "ticker": null,
@@ -69055,20 +69041,6 @@
       "corporate_number": "1120005018685"
     },
     {
-      "edinet_code": "E32065",
-      "sec_code": null,
-      "ticker": null,
-      "name": "一般社団法人大川",
-      "name_en": null,
-      "name_kana": "イッパンシャダンホウジンオオカワ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "岡崎市薮田一丁目１０番地２０",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "6180305008459"
-    },
-    {
       "edinet_code": "E25343",
       "sec_code": null,
       "ticker": null,
@@ -73205,20 +73177,6 @@
       "name": "丸山　篤史",
       "name_en": null,
       "name_kana": "マルヤマ　アツシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E30233",
-      "sec_code": null,
-      "ticker": null,
-      "name": "丸山　雄平",
-      "name_en": null,
-      "name_kana": "マルヤマ　ユウヘイ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -83531,20 +83489,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E25387",
-      "sec_code": null,
-      "ticker": null,
-      "name": "和田　成史",
-      "name_en": null,
-      "name_kana": "ワダ　シゲフミ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E10313",
       "sec_code": null,
       "ticker": null,
@@ -91293,20 +91237,6 @@
       "name": "山尾　幸弘",
       "name_en": null,
       "name_kana": "ヤマオ　ユキヒロ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E27852",
-      "sec_code": null,
-      "ticker": null,
-      "name": "山岡　新太郎",
-      "name_en": null,
-      "name_kana": "ヤマオカ　シンタロウ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -106001,20 +105931,6 @@
       "corporate_number": "2010401093160"
     },
     {
-      "edinet_code": "E35391",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社　ＨＯＳＯＫＡＷＡ",
-      "name_en": null,
-      "name_kana": "カブシキガイシャホソカワ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "渋谷区道玄坂一丁目１９番１３号５Ｆ",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "4010901035577"
-    },
-    {
       "edinet_code": "E03174",
       "sec_code": null,
       "ticker": null,
@@ -111011,20 +110927,6 @@
       "location": "福岡市東区松田３丁目７７７番地",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9290001003394"
-    },
-    {
-      "edinet_code": "E22818",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ゼロシステム",
-      "name_en": null,
-      "name_kana": "カブシキカイシャゼロシステム",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "四日市市住吉町５番１０号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "7190001015559"
     },
     {
       "edinet_code": "E39948",
@@ -145747,20 +145649,6 @@
       "corporate_number": "3120001059681"
     },
     {
-      "edinet_code": "E23302",
-      "sec_code": null,
-      "ticker": null,
-      "name": "阪神酒販株式会社",
-      "name_en": null,
-      "name_kana": "ハンシンシュハンカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "神戸市兵庫区吉田町二丁目１３番６号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "2140001013902"
-    },
-    {
       "edinet_code": "E04104",
       "sec_code": null,
       "ticker": null,
@@ -149817,20 +149705,6 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "５１　ＢＲＡＳ　ＢＡＳＡＨ　ＲＤ，　０５　０１，　ＳＩＮＧＡＰＯＲＥ　１８９５５４",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E36408",
-      "sec_code": null,
-      "ticker": null,
-      "name": "Ａｓｌｅａｄ　Ｓｔｒａｔｅｇｉｃ　Ｖａｌｕｅ　Ｆｕｎｄ",
-      "name_en": null,
-      "name_kana": "アスリード　ストラテジック　バリュー　ファンド",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "１９０　Ｅｌｇｉｎ　Ａｖｅｎｕｅ，　Ｇｅｏｒｇｅ　Ｔｏｗｎ，Ｇｒａｎｄ　Ｃａｙｍａｎ，ＫＹ１－９００８，Ｃａｙｍａｎ　Ｉｓｌａｎｄｓ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
@@ -156173,20 +156047,6 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "アメリカ合衆国デラウェア州ニューキャッスル郡ウィルミントン市リトルフォールズドライブ２５１コーポレーションサービスカンパニー方",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E35216",
-      "sec_code": null,
-      "ticker": null,
-      "name": "Ｐｌｅｉａｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
-      "name_en": null,
-      "name_kana": "プレイアド　インベストメント　アドバイザーズ　リミテッド",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "２６ｔｈ　Ｆｌｏｏｒ，Ａｓｉａ　Ｐａｃｉｆｉｃ　Ｃｅｎｔｒｅ，８　Ｗｙｎｄｈａｍ　Ｓｔｒｅｅｔ，Ｃｅｎｔｒａｌ，Ｈｏｎｇ　Ｋｏｎｇ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
