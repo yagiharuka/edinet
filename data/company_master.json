@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T00:17:20.231946+00:00",
+    "generated_at": "2026-09-09T14:40:53.299925+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11387
+    "companies": 11391
   },
   "companies": [
     {
@@ -32734,7 +32734,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "12月31日",
-      "location": "港区芝大門二丁目３番６号",
+      "location": "東京都港区虎ノ門四丁目１番４０号",
       "industry": "サービス業",
       "corporate_number": "6011001056801"
     },
@@ -44312,7 +44312,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "中央区京橋三丁目１番１号",
+      "location": "中央区八重洲一丁目６番１号",
       "industry": "卸売業",
       "corporate_number": "5010001045369"
     },
@@ -99500,7 +99500,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "練馬区東大泉３－２７－８",
+      "location": "文京区本郷１－３３－９",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9011602001582"
     },
@@ -100088,7 +100088,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "練馬区東大泉３－２７－８",
+      "location": "文京区本郷１－３３－９",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7011602009289"
     },
@@ -100903,6 +100903,20 @@
       "location": "新宿区四谷一丁目６番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "2010005008201"
+    },
+    {
+      "edinet_code": "E42151",
+      "sec_code": null,
+      "ticker": null,
+      "name": "朝日生命第１回シニアローン流動化株式会社",
+      "name_en": null,
+      "name_kana": "アサヒセイメイダイイッカイシニアローンリュウドウカカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区丸の内一丁目４番１号東京共同会計事務所内",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "2010001267841"
     },
     {
       "edinet_code": "E04554",
@@ -112954,7 +112968,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "練馬区東大泉３－２７－８",
+      "location": "文京区本郷１ー３３ー９",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3011601005714"
     },
@@ -113321,6 +113335,20 @@
       "location": "名古屋市港区入船一丁目７番４１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4180001007287"
+    },
+    {
+      "edinet_code": "E42157",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社フューチャーエステート",
+      "name_en": null,
+      "name_kana": "カブシキカイシャフューチャーエステート",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区六本木６丁目２番３１号　六本木ヒルズノースタワー１６階",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "2010001083470"
     },
     {
       "edinet_code": "E35856",
@@ -124047,6 +124075,20 @@
       "corporate_number": "8010001151296"
     },
     {
+      "edinet_code": "E09249",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社Ｏｃｔａｇｏｎ　Ｌａｂ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャオクタゴンラボ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "広島市中区袋町８番８号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "1240001016400"
+    },
+    {
       "edinet_code": "E38454",
       "sec_code": null,
       "ticker": null,
@@ -125873,6 +125915,20 @@
       "name": "梅田　裕真",
       "name_en": null,
       "name_kana": "ウメダ　ユウマ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42135",
+      "sec_code": null,
+      "ticker": null,
+      "name": "梅野　久美恵",
+      "name_en": null,
+      "name_kana": "ウメノ　クミエ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
