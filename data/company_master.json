@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T14:39:23.472544+00:00",
+    "generated_at": "2026-09-09T00:17:20.231946+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11389
+    "companies": 11387
   },
   "companies": [
     {
@@ -79149,20 +79149,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E06532",
-      "sec_code": null,
-      "ticker": null,
-      "name": "前田耕作",
-      "name_en": null,
-      "name_kana": "マエダコウサク",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E00061",
       "sec_code": null,
       "ticker": null,
@@ -104523,20 +104509,6 @@
       "name": "林　規生",
       "name_en": null,
       "name_kana": "ハヤシ　ノリオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E26517",
-      "sec_code": null,
-      "ticker": null,
-      "name": "林　謙治",
-      "name_en": null,
-      "name_kana": "ハヤシ　ケンジ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
