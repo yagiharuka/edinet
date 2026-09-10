@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T00:16:45.146489+00:00",
+    "generated_at": "2026-09-10T14:31:37.794383+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11391
+    "companies": 11393
   },
   "companies": [
     {
@@ -22638,9 +22638,9 @@
       "name_en": "Cuorips Inc.",
       "name_kana": "クオリプスカブシキガイシャ",
       "listing": "上場",
-      "has_consolidated": "無",
+      "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "中央区日本橋本町三丁目１１番５号　日本橋ライフサイエンスビルディング２、５０７",
+      "location": "大阪府大阪市北区中之島四丁目３番５１号ＮａｋａｎｏｓｈｉｍａＱｒｏｓｓ８Ｆ　Ｏ－Ｎｅｘｕｓ内",
       "industry": "医薬品",
       "corporate_number": "7020001120540"
     },
@@ -65538,6 +65538,20 @@
       "fiscal_year_end": "12月31日",
       "location": null,
       "industry": "外国政府等",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E35865",
+      "sec_code": null,
+      "ticker": null,
+      "name": "フイジョウデサイエスプイオートモーティブカンパニーリミテッド",
+      "name_en": null,
+      "name_kana": "フイジョウデサイエスプイオートモーティブカンパニーリミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "惠州仲愷高新区和暢五路西１０３号",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
     {
@@ -154733,6 +154747,20 @@
       "location": "港区虎ノ門二丁目６番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9010401196592"
+    },
+    {
+      "edinet_code": "E42161",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＭＰ－２６０６株式会社",
+      "name_en": null,
+      "name_kana": "エムピーニロクゼロロクカブシキカイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区虎ノ門二丁目６番１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "9010401199570"
     },
     {
       "edinet_code": "E36814",
