@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T00:12:30.197859+00:00",
+    "generated_at": "2026-09-11T14:30:50.347753+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11388
+    "companies": 11389
   },
   "companies": [
     {
@@ -81543,20 +81543,6 @@
       "corporate_number": "4010003048643"
     },
     {
-      "edinet_code": "E08955",
-      "sec_code": null,
-      "ticker": null,
-      "name": "合同会社キーウェスト・ネットワーク",
-      "name_en": null,
-      "name_kana": "ゴウドウガイシャキーウェストネットワーク",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "渋谷区代官山町１７番１－３２０６号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "3011002023704"
-    },
-    {
       "edinet_code": "E37278",
       "sec_code": null,
       "ticker": null,
@@ -82325,20 +82311,6 @@
       "location": "千代田区大手町一丁目２番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010003046668"
-    },
-    {
-      "edinet_code": "E38968",
-      "sec_code": null,
-      "ticker": null,
-      "name": "合同会社ＳＹマネジメント",
-      "name_en": null,
-      "name_kana": "ゴウドウガイシャエスワイマネジメント",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区赤坂１丁目１１番４０号１７０１号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "7010403030586"
     },
     {
       "edinet_code": "E35848",
@@ -108843,6 +108815,20 @@
       "corporate_number": "6120001185772"
     },
     {
+      "edinet_code": "E08955",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社キーウェスト・ネットワーク",
+      "name_en": null,
+      "name_kana": "カブシキガイシャキーウェストネットワーク",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "渋谷区代官山町１７番１－３２０６号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "3011002023704"
+    },
+    {
       "edinet_code": "E05650",
       "sec_code": null,
       "ticker": null,
@@ -122740,7 +122726,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "世田谷区成城７丁目３４番１９号　ラ・ボール成城１０５",
+      "location": "世田谷区代田４－１０－２",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9011101080855"
     },
@@ -124495,6 +124481,20 @@
       "corporate_number": "7010601027277"
     },
     {
+      "edinet_code": "E38968",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＳＹマネジメント",
+      "name_en": null,
+      "name_kana": "カブシキガイシャエスワイマネジメント",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区赤坂１丁目１１番４０号１７０１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010403030586"
+    },
+    {
       "edinet_code": "E00198",
       "sec_code": null,
       "ticker": null,
@@ -124801,6 +124801,20 @@
       "location": "千代田区丸の内一丁目９番２号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7010001254067"
+    },
+    {
+      "edinet_code": "E42206",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＴＨＥ　ＣＡＥＬＵＳ",
+      "name_en": "THE CAELUS Inc.",
+      "name_kana": "カブシキガイシャザカイラス",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月31日",
+      "location": "成田市堀之内３８７－４",
+      "industry": "サービス業",
+      "corporate_number": "4040001142544"
     },
     {
       "edinet_code": "E40444",
