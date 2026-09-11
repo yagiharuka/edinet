@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T14:31:37.794383+00:00",
+    "generated_at": "2026-09-11T00:12:30.197859+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11393
+    "companies": 11388
   },
   "companies": [
     {
@@ -57869,20 +57869,6 @@
       "corporate_number": "6011301001473"
     },
     {
-      "edinet_code": "E34279",
-      "sec_code": null,
-      "ticker": null,
-      "name": "オートメックス株式会社",
-      "name_en": null,
-      "name_kana": "オートメックスカブシキカイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "中央区京橋一丁目５番１２号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "8010501031857"
-    },
-    {
       "edinet_code": "E09662",
       "sec_code": null,
       "ticker": null,
@@ -91119,20 +91105,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E34414",
-      "sec_code": null,
-      "ticker": null,
-      "name": "山口　茂樹",
-      "name_en": null,
-      "name_kana": "ヤマグチ　シゲキ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E21331",
       "sec_code": null,
       "ticker": null,
@@ -93435,20 +93407,6 @@
       "name": "岩野　達志",
       "name_en": null,
       "name_kana": "イワノ　タツシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E37003",
-      "sec_code": null,
-      "ticker": null,
-      "name": "岩間　健太郎",
-      "name_en": null,
-      "name_kana": "イワマ　ケンタロウ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -132615,20 +132573,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E32790",
-      "sec_code": null,
-      "ticker": null,
-      "name": "田中　幸夫",
-      "name_en": null,
-      "name_kana": "タナカ　ユキオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E37016",
       "sec_code": null,
       "ticker": null,
@@ -137563,20 +137507,6 @@
       "name": "細谷　可祝",
       "name_en": null,
       "name_kana": "ホソヤ　カシク",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E30707",
-      "sec_code": null,
-      "ticker": null,
-      "name": "細谷　圭二",
-      "name_en": null,
-      "name_kana": "ホソヤ　ケイジ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
