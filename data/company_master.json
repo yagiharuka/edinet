@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T00:00:58.259410+00:00",
+    "generated_at": "2026-09-14T00:14:17.122927+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
     "companies": 11389
@@ -55106,7 +55106,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "港区赤坂九丁目７番１号",
+      "location": "港区麻布台一丁目３番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010401072159"
     },
