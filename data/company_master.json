@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T00:40:26.550127+00:00",
+    "generated_at": "2026-09-15T15:06:28.487897+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11386
+    "companies": 11389
   },
   "companies": [
     {
@@ -8701,20 +8701,6 @@
       "corporate_number": "2050001002286"
     },
     {
-      "edinet_code": "E03005",
-      "sec_code": "30790",
-      "ticker": "3079",
-      "name": "ディーブイエックス株式会社",
-      "name_en": "DVx Inc.",
-      "name_kana": "ディーブイエックスカブシキガイシャ",
-      "listing": "上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月31日",
-      "location": "港区港南１丁目８番１５号",
-      "industry": "卸売業",
-      "corporate_number": "9011601006203"
-    },
-    {
       "edinet_code": "E03509",
       "sec_code": "30800",
       "ticker": "3080",
@@ -10143,20 +10129,6 @@
       "corporate_number": "6010001141308"
     },
     {
-      "edinet_code": "E24340",
-      "sec_code": "32710",
-      "ticker": "3271",
-      "name": "株式会社　ＴＨＥグローバル社",
-      "name_en": "The Global Ltd.",
-      "name_kana": "カブシキカイシャザグローバルシャ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "6月30日",
-      "location": "新宿区西新宿二丁目４番１号",
-      "industry": "不動産業",
-      "corporate_number": "5011101056883"
-    },
-    {
       "edinet_code": "E25870",
       "sec_code": "32760",
       "ticker": "3276",
@@ -10281,20 +10253,6 @@
       "location": "和歌山県和歌山市黒田１丁目２番１７号",
       "industry": "不動産業",
       "corporate_number": "1170001000122"
-    },
-    {
-      "edinet_code": "E30124",
-      "sec_code": "32940",
-      "ticker": "3294",
-      "name": "株式会社イーグランド",
-      "name_en": "e'grand Co.,Ltd",
-      "name_kana": "カブシキガイシャイーグランド",
-      "listing": "上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月31日",
-      "location": "千代田区神田美土代町１番地",
-      "industry": "不動産業",
-      "corporate_number": "9010001084487"
     },
     {
       "edinet_code": "E30598",
@@ -13053,20 +13011,6 @@
       "location": "千代田区富士見１－３－１１",
       "industry": "サービス業",
       "corporate_number": "6010001104149"
-    },
-    {
-      "edinet_code": "E30114",
-      "sec_code": "36810",
-      "ticker": "3681",
-      "name": "株式会社ブイキューブ",
-      "name_en": "V-cube, Inc.",
-      "name_kana": "カブシキガイシャブイキューブ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "12月31日",
-      "location": "港区白金一丁目１７番３号",
-      "industry": "情報・通信業",
-      "corporate_number": "8013201010775"
     },
     {
       "edinet_code": "E30085",
@@ -16821,20 +16765,6 @@
       "corporate_number": "2010401130731"
     },
     {
-      "edinet_code": "E36172",
-      "sec_code": "41710",
-      "ticker": "4171",
-      "name": "株式会社グローバルインフォメーション",
-      "name_en": "Global Information, Inc.",
-      "name_kana": "カブシキガイシャグローバルインフォメーション",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "12月31日",
-      "location": "川崎市麻生区万福寺一丁目２番３号アーシスビル７階",
-      "industry": "情報・通信業",
-      "corporate_number": "4020001065144"
-    },
-    {
       "edinet_code": "E36002",
       "sec_code": "41720",
       "ticker": "4172",
@@ -16944,7 +16874,7 @@
       "fiscal_year_end": "3月31日",
       "location": "川越市新宿町１丁目１０番地１",
       "industry": "小売業",
-      "corporate_number": null
+      "corporate_number": "5030001168960"
     },
     {
       "edinet_code": "E36372",
@@ -28819,20 +28749,6 @@
       "corporate_number": "2010401092006"
     },
     {
-      "edinet_code": "E30682",
-      "sec_code": "60960",
-      "ticker": "6096",
-      "name": "株式会社レアジョブ",
-      "name_en": "RareJob, Inc.",
-      "name_kana": "カブシキガイシャレアジョブ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "渋谷区神宮前六丁目２７番８号",
-      "industry": "サービス業",
-      "corporate_number": "8011001064760"
-    },
-    {
       "edinet_code": "E07801",
       "sec_code": "60980",
       "ticker": "6098",
@@ -29559,20 +29475,6 @@
       "location": "千代田区大手町一丁目２番１号",
       "industry": "サービス業",
       "corporate_number": "7010001079968"
-    },
-    {
-      "edinet_code": "E04878",
-      "sec_code": "61970",
-      "ticker": "6197",
-      "name": "株式会社ソラスト",
-      "name_en": "Solasto Corporation",
-      "name_kana": "カブシキガイシャソラスト",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "港区港南二丁目１５番３号",
-      "industry": "サービス業",
-      "corporate_number": "3010001032864"
     },
     {
       "edinet_code": "E32193",
@@ -35948,12 +35850,12 @@
       "edinet_code": "E34331",
       "sec_code": "70390",
       "ticker": "7039",
-      "name": "ブリッジインターナショナル株式会社",
+      "name": "ブリッジインターナショナルグループ株式会社",
       "name_en": null,
-      "name_kana": "ブリッジインターナショナルカブシキカイシャ",
+      "name_kana": "ブリッジインターナショナルグループカブシキカイシャ",
       "listing": "上場",
       "has_consolidated": "無",
-      "fiscal_year_end": "12月末日",
+      "fiscal_year_end": "12月31日",
       "location": "世田谷区太子堂４丁目１－１キャロットタワー",
       "industry": "サービス業",
       "corporate_number": "2010901015622"
@@ -63091,6 +62993,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E03005",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ディーブイエックス株式会社",
+      "name_en": "DVx Inc.",
+      "name_kana": "ディーブイエックスカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月31日",
+      "location": "港区港南１丁目８番１５号",
+      "industry": "卸売業",
+      "corporate_number": "9011601006203"
+    },
+    {
       "edinet_code": "E26109",
       "sec_code": null,
       "ticker": null,
@@ -81370,7 +81286,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "港区赤坂２丁目１０番２号吉川ビル２階",
+      "location": "港区赤坂２丁目１６番６号ＢＩＺＭＡＲＫＳ赤坂",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3010603006679"
     },
@@ -85797,6 +85713,20 @@
       "location": "名古屋市港区千鳥一丁目３番１７号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6180001006717"
+    },
+    {
+      "edinet_code": "E42201",
+      "sec_code": null,
+      "ticker": null,
+      "name": "大星ビル管理株式会社",
+      "name_en": null,
+      "name_kana": "タイセイビルカンリカブシキカイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "文京区小石川４丁目２２番２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "2010001004501"
     },
     {
       "edinet_code": "E40009",
@@ -105889,6 +105819,20 @@
       "corporate_number": "4130001021094"
     },
     {
+      "edinet_code": "E24340",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社　ＴＨＥグローバル社",
+      "name_en": "The Global Ltd.",
+      "name_kana": "カブシキカイシャザグローバルシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "6月30日",
+      "location": "新宿区西新宿二丁目４番１号",
+      "industry": "不動産業",
+      "corporate_number": "5011101056883"
+    },
+    {
       "edinet_code": "E40558",
       "sec_code": null,
       "ticker": null,
@@ -107385,6 +107329,20 @@
       "location": "港区北青山２－１１－１０－４０３",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6010401079602"
+    },
+    {
+      "edinet_code": "E30124",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社イーグランド",
+      "name_en": "e'grand Co.,Ltd",
+      "name_kana": "カブシキガイシャイーグランド",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月31日",
+      "location": "千代田区神田美土代町１番地",
+      "industry": "不動産業",
+      "corporate_number": "9010001084487"
     },
     {
       "edinet_code": "E36377",
@@ -109165,6 +109123,20 @@
       "corporate_number": "6010001036937"
     },
     {
+      "edinet_code": "E36172",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社グローバルインフォメーション",
+      "name_en": "Global Information, Inc.",
+      "name_kana": "カブシキガイシャグローバルインフォメーション",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "12月31日",
+      "location": "川崎市麻生区万福寺一丁目２番３号アーシスビル７階",
+      "industry": "情報・通信業",
+      "corporate_number": "4020001065144"
+    },
+    {
       "edinet_code": "E40651",
       "sec_code": null,
       "ticker": null,
@@ -110927,6 +110899,20 @@
       "location": "宮崎市大字赤江宮崎空港内",
       "industry": "空運業",
       "corporate_number": "2350001002669"
+    },
+    {
+      "edinet_code": "E04878",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ソラスト",
+      "name_en": "Solasto Corporation",
+      "name_kana": "カブシキガイシャソラスト",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "港区港南二丁目１５番３号",
+      "industry": "サービス業",
+      "corporate_number": "3010001032864"
     },
     {
       "edinet_code": "E02118",
@@ -113463,6 +113449,20 @@
       "corporate_number": "3010001028301"
     },
     {
+      "edinet_code": "E30114",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ブイキューブ",
+      "name_en": "V-cube, Inc.",
+      "name_kana": "カブシキガイシャブイキューブ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "12月31日",
+      "location": "港区白金一丁目１７番３号",
+      "industry": "情報・通信業",
+      "corporate_number": "8013201010775"
+    },
+    {
       "edinet_code": "E35283",
       "sec_code": null,
       "ticker": null,
@@ -115393,6 +115393,20 @@
       "location": "港区港南二丁目１６番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3140001062337"
+    },
+    {
+      "edinet_code": "E30682",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社レアジョブ",
+      "name_en": "RareJob, Inc.",
+      "name_kana": "カブシキガイシャレアジョブ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "渋谷区神宮前六丁目２７番８号",
+      "industry": "サービス業",
+      "corporate_number": "8011001064760"
     },
     {
       "edinet_code": "E41715",
@@ -122773,6 +122787,20 @@
       "corporate_number": "6120001264543"
     },
     {
+      "edinet_code": "E42191",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＩＴＧ－Ｇホールディングス",
+      "name_en": null,
+      "name_kana": "カブシキカイシャアイティージージーホールディングス",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "東京都千代田区丸の内一丁目９番２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010001267341"
+    },
+    {
       "edinet_code": "E39337",
       "sec_code": null,
       "ticker": null,
@@ -123051,6 +123079,20 @@
       "location": "西宮市神楽町５番５号ラ・ベルジュ夙川２Ｆ",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8140001132052"
+    },
+    {
+      "edinet_code": "E41939",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社Ｋ８９１",
+      "name_en": null,
+      "name_kana": "カブシキガイシャケーハチキュウイチ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "豊島区西池袋一丁目４番１０号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5013301055847"
     },
     {
       "edinet_code": "E39257",
@@ -159249,7 +159291,7 @@
       "name": "ａｋｉｐｐａ株式会社",
       "name_en": "akippa Inc.",
       "name_kana": "アキッパカブシキガイシャ",
-      "listing": "非上場",
+      "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "12月31日",
       "location": "大阪市浪速区難波中二丁目１０番７０号",
