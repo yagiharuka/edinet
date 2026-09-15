@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T16:24:29.805619+00:00",
+    "generated_at": "2026-09-15T00:40:26.550127+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11390
+    "companies": 11386
   },
   "companies": [
     {
@@ -52363,7 +52363,7 @@
       "has_consolidated": "有",
       "fiscal_year_end": "5月31日",
       "location": "函館市港町３丁目１８番１５号",
-      "industry": "卸売業",
+      "industry": "小売業",
       "corporate_number": "1440001001290"
     },
     {
@@ -56970,6 +56970,20 @@
       "fiscal_year_end": null,
       "location": "エスジー　ハンブロス　ハウス、エスピラナーデ１８、セントヘリア、ジャージー、ＪＥ４　８ＲＴ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42221",
+      "sec_code": null,
+      "ticker": null,
+      "name": "エスビー・エナジー・インク",
+      "name_en": null,
+      "name_kana": "エスビーエナジーインク",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "12月31日",
+      "location": "２１１　Ｅａｓｔ　７ｔｈ　Ｓｔｒｅｅｔ，　Ｓｕｉｔｅ　６２０，　Ａｕｓｔｉｎ，　Ｔｅｘａｓ　７８７０１",
+      "industry": "電気・ガス業",
       "corporate_number": null
     },
     {
@@ -63007,20 +63021,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E35468",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ディパーチャー・リミテッド",
-      "name_en": null,
-      "name_kana": "ディパーチャーリミテッド",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "英国領西インド諸島ケイマン諸島グランドケイマン、ジョージタウン、サウスチャーチストリート、クイーンズゲートハウス、私書箱１０９３",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "2700150005024"
-    },
-    {
       "edinet_code": "E41895",
       "sec_code": null,
       "ticker": null,
@@ -65875,20 +65875,6 @@
       "location": "新宿区西新宿六丁目２５番１３号",
       "industry": "機械",
       "corporate_number": "4011101018760"
-    },
-    {
-      "edinet_code": "E37276",
-      "sec_code": null,
-      "ticker": null,
-      "name": "フローバル株式会社",
-      "name_en": null,
-      "name_kana": "フローバルカブシキカイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "大阪市西区西本町１－１５－１０",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "5120001034550"
     },
     {
       "edinet_code": "E36914",
@@ -99643,20 +99629,6 @@
       "location": "港区南麻布１－２７－２２－２０１",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010402035726"
-    },
-    {
-      "edinet_code": "E36874",
-      "sec_code": null,
-      "ticker": null,
-      "name": "有限会社ケイアンドアイ",
-      "name_en": null,
-      "name_kana": "ユウゲンガイシャケイアンドアイ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "船橋市本町２－７－１７",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "7040002021851"
     },
     {
       "edinet_code": "E11447",
@@ -144851,20 +144823,6 @@
       "corporate_number": "8021001010747"
     },
     {
-      "edinet_code": "E11676",
-      "sec_code": null,
-      "ticker": null,
-      "name": "鎌田　信夫",
-      "name_en": null,
-      "name_kana": "カマタ　ノブオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E32503",
       "sec_code": null,
       "ticker": null,
@@ -146277,20 +146235,6 @@
       "location": "静岡市葵区鷹匠一丁目１番１号",
       "industry": "陸運業",
       "corporate_number": "8080001002864"
-    },
-    {
-      "edinet_code": "E35691",
-      "sec_code": null,
-      "ticker": null,
-      "name": "韓保維",
-      "name_en": null,
-      "name_kana": "ハンポールウェル",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（非居住者）（組合発行者を除く）",
-      "corporate_number": null
     },
     {
       "edinet_code": "E38771",
