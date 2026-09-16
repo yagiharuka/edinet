@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T00:24:11.372648+00:00",
+    "generated_at": "2026-09-16T15:03:12.984658+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
     "companies": 11386
@@ -50373,7 +50373,7 @@
       "name_kana": "カブシキガイシャ　トーシンホールディングス",
       "listing": "上場",
       "has_consolidated": "有",
-      "fiscal_year_end": "4月30日",
+      "fiscal_year_end": "5月8日",
       "location": "名古屋市中区栄３丁目４番２１号",
       "industry": "情報・通信業",
       "corporate_number": "3180001020233"
@@ -77312,7 +77312,7 @@
       "fiscal_year_end": null,
       "location": "千代田区丸の内一丁目４番１号東京共同会計事務所内",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
+      "corporate_number": "9010001267199"
     },
     {
       "edinet_code": "E04766",
