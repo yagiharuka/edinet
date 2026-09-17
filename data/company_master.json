@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T15:03:12.984658+00:00",
+    "generated_at": "2026-09-17T00:34:24.761974+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11386
+    "companies": 11384
   },
   "companies": [
     {
@@ -54201,20 +54201,6 @@
       "corporate_number": "5010501030647"
     },
     {
-      "edinet_code": "E35680",
-      "sec_code": null,
-      "ticker": null,
-      "name": "アイ・シグマ・パートナーズ株式会社",
-      "name_en": null,
-      "name_kana": "アイシグマパートナーズカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "千代田区大手町一丁目５番１号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "4010001154237"
-    },
-    {
       "edinet_code": "E36059",
       "sec_code": null,
       "ticker": null,
@@ -68059,20 +68045,6 @@
       "location": "英国ＥＣ２Ｒ　５ＡＡ、ロンドン、ワン・コールマン・ストリート",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
-    },
-    {
-      "edinet_code": "E37023",
-      "sec_code": null,
-      "ticker": null,
-      "name": "リーテイルブランディング株式会社",
-      "name_en": null,
-      "name_kana": "リーテイルブランディングカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区北青山二丁目１２番１６号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "9010401042202"
     },
     {
       "edinet_code": "E37798",
