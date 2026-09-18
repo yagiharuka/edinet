@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T15:06:19.390674+00:00",
+    "generated_at": "2026-09-18T00:22:15.001418+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11386
+    "companies": 11385
   },
   "companies": [
     {
@@ -29827,6 +29827,20 @@
       "corporate_number": "5120101043534"
     },
     {
+      "edinet_code": "E41959",
+      "sec_code": "623A0",
+      "ticker": "623A",
+      "name": "株式会社ベルテックス",
+      "name_en": null,
+      "name_kana": "カブシキガイシャベルテックス",
+      "listing": "上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "11月30日",
+      "location": "新宿区西新宿６－８－１住友不動産新宿オークタワー９階",
+      "industry": "不動産業",
+      "corporate_number": "1011101058355"
+    },
+    {
       "edinet_code": "E30917",
       "sec_code": "62400",
       "ticker": "6240",
@@ -29979,6 +29993,20 @@
       "location": "熊本市北区植木町一木１１１番地",
       "industry": "機械",
       "corporate_number": "4010701008411"
+    },
+    {
+      "edinet_code": "E42058",
+      "sec_code": "625A0",
+      "ticker": "625A",
+      "name": "株式会社Ｓｋｙｆａｌｌ",
+      "name_en": null,
+      "name_kana": "カブシキカイシャスカイフォール",
+      "listing": "上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "9月末日",
+      "location": "東京都港区赤坂９丁目７番１号　ミッドタウン・タワー１９階",
+      "industry": "サービス業",
+      "corporate_number": "9011001119027"
     },
     {
       "edinet_code": "E01731",
@@ -113827,20 +113855,6 @@
       "corporate_number": "7011101032123"
     },
     {
-      "edinet_code": "E41959",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ベルテックス",
-      "name_en": null,
-      "name_kana": "カブシキガイシャベルテックス",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "11月30日",
-      "location": "新宿区西新宿６－８－１住友不動産新宿オークタワー９階",
-      "industry": "不動産業",
-      "corporate_number": "1011101058355"
-    },
-    {
       "edinet_code": "E40905",
       "sec_code": null,
       "ticker": null,
@@ -120141,20 +120155,6 @@
       "corporate_number": "3011101044452"
     },
     {
-      "edinet_code": "E31204",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社総合生活サービス",
-      "name_en": null,
-      "name_kana": "カブシキガイシャソウゴウセイカツサービス",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "豊島区西池袋一丁目４番１０号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "3013301036287"
-    },
-    {
       "edinet_code": "E03918",
       "sec_code": null,
       "ticker": null,
@@ -124549,20 +124549,6 @@
       "location": "港区六本木一丁目９番９号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1010401133223"
-    },
-    {
-      "edinet_code": "E42058",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社Ｓｋｙｆａｌｌ",
-      "name_en": null,
-      "name_kana": "カブシキカイシャスカイフォール",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "9月末日",
-      "location": "東京都港区赤坂９丁目７番１号　ミッドタウン・タワー１９階",
-      "industry": "サービス業",
-      "corporate_number": "9011001119027"
     },
     {
       "edinet_code": "E38853",
