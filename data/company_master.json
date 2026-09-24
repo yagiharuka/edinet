@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T00:31:29.941311+00:00",
+    "generated_at": "2026-09-24T15:17:42.082931+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11387
+    "companies": 11393
   },
   "companies": [
     {
@@ -32426,7 +32426,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "6月末日",
-      "location": "豊島区東池袋三丁目１番１号サンシャイン６０・４６階",
+      "location": "豊島区東池袋三丁目１番１号サンシャイン６０・８階",
       "industry": "サービス業",
       "corporate_number": "4013301007221"
     },
@@ -65432,13 +65432,13 @@
       "edinet_code": "E30723",
       "sec_code": null,
       "ticker": null,
-      "name": "フィリップ証券株式会社",
+      "name": "フィリップ・キャピタル証券株式会社",
       "name_en": null,
-      "name_kana": "フィリップショウケンカブシキカイシャ",
+      "name_kana": "フィリップキャピタルショウケンカブシキカイシャ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "中央区日本橋兜町４－２",
+      "location": "港区虎ノ門１－２３－１虎ノ門ヒルズ森タワー８階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9010001052923"
     },
@@ -72211,6 +72211,20 @@
       "name": "中村　慶郎",
       "name_en": null,
       "name_kana": "ナカムラ　ヨシロウ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E11201",
+      "sec_code": null,
+      "ticker": null,
+      "name": "中村　憲司",
+      "name_en": null,
+      "name_kana": "ナカムラ　ケンジ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -107527,6 +107541,20 @@
       "corporate_number": "3290001024702"
     },
     {
+      "edinet_code": "E40881",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ウエストテイルズ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャウエストテイルズ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "岡山市北区中山下１丁目１１番１５号　新田第一ビル４０２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "6260001038834"
+    },
+    {
       "edinet_code": "E40873",
       "sec_code": null,
       "ticker": null,
@@ -125979,6 +126007,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E41956",
+      "sec_code": null,
+      "ticker": null,
+      "name": "梶尾　祐司",
+      "name_en": null,
+      "name_kana": "カジオ　ユウジ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E08036",
       "sec_code": null,
       "ticker": null,
@@ -142681,6 +142723,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E11194",
+      "sec_code": null,
+      "ticker": null,
+      "name": "遠藤　孝",
+      "name_en": null,
+      "name_kana": "エンドウ　タカシ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E36175",
       "sec_code": null,
       "ticker": null,
@@ -144031,6 +144087,20 @@
       "name": "金親晋午",
       "name_en": null,
       "name_kana": "カナオヤシンゴ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42133",
+      "sec_code": null,
+      "ticker": null,
+      "name": "金谷　元気",
+      "name_en": null,
+      "name_kana": "カナヤ　ゲンキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -147881,6 +147951,20 @@
       "name": "髙橋　知道",
       "name_en": null,
       "name_kana": "タカハシ　トモミチ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E33902",
+      "sec_code": null,
+      "ticker": null,
+      "name": "髙田　俊太",
+      "name_en": null,
+      "name_kana": "タカダ　シュンタ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -153134,7 +153218,7 @@
       "listing": "非上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "中央区銀座八丁目１３番１号",
+      "location": "中央区日本橋一丁目４番１号",
       "industry": "その他金融業",
       "corporate_number": "8010701022466"
     },
