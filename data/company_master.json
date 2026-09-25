@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T00:34:23.043295+00:00",
+    "generated_at": "2026-09-25T15:21:39.178037+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11385
+    "companies": 11389
   },
   "companies": [
     {
@@ -71505,6 +71505,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42219",
+      "sec_code": null,
+      "ticker": null,
+      "name": "中山　史裕",
+      "name_en": null,
+      "name_kana": "ナカヤマ　フミヒロ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E37889",
       "sec_code": null,
       "ticker": null,
@@ -85693,6 +85707,20 @@
       "name": "大島　義和",
       "name_en": null,
       "name_kana": "オオシマ　ヨシカズ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42200",
+      "sec_code": null,
+      "ticker": null,
+      "name": "大川　和昌",
+      "name_en": null,
+      "name_kana": "オオカワ　カズマサ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -109373,6 +109401,20 @@
       "location": "大阪市西区北堀江一丁目２１番２５号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "2140001081461"
+    },
+    {
+      "edinet_code": "E42233",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ケップルグループ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャケップルグループ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区虎ノ門五丁目９番１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "8011001154256"
     },
     {
       "edinet_code": "E11203",
@@ -137176,6 +137218,20 @@
       "fiscal_year_end": null,
       "location": null,
       "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E33843",
+      "sec_code": null,
+      "ticker": null,
+      "name": "篠﨑　明",
+      "name_en": null,
+      "name_kana": "シノザキ　アキラ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（非居住者）（組合発行者を除く）",
       "corporate_number": null
     },
     {
