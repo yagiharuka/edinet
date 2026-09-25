@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T15:17:42.082931+00:00",
+    "generated_at": "2026-09-25T00:34:23.043295+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11393
+    "companies": 11385
   },
   "companies": [
     {
@@ -91595,20 +91595,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E36195",
-      "sec_code": null,
-      "ticker": null,
-      "name": "山本　敬介",
-      "name_en": null,
-      "name_kana": "ヤマモト　ケイスケ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E34728",
       "sec_code": null,
       "ticker": null,
@@ -113547,20 +113533,6 @@
       "corporate_number": "3011001029248"
     },
     {
-      "edinet_code": "E34867",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ブライトリンクパートナーズ",
-      "name_en": null,
-      "name_kana": "カブシキガイシャブライトリンクパートナーズ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "世田谷区下馬５丁目２１－９",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "8013201017110"
-    },
-    {
       "edinet_code": "E41365",
       "sec_code": null,
       "ticker": null,
@@ -118053,20 +118025,6 @@
       "location": "大田区久が原六丁目２番１５号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010801020312"
-    },
-    {
-      "edinet_code": "E33609",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社悠晴",
-      "name_en": null,
-      "name_kana": "カブシキガイシャユハ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "立川市錦町二丁目３番２８号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "5011001068847"
     },
     {
       "edinet_code": "E03651",
@@ -130263,20 +130221,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E36995",
-      "sec_code": null,
-      "ticker": null,
-      "name": "清水　亘",
-      "name_en": null,
-      "name_kana": "シミズ　ワタル",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E30915",
       "sec_code": null,
       "ticker": null,
@@ -137011,20 +136955,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E34370",
-      "sec_code": null,
-      "ticker": null,
-      "name": "笠谷　喜代年",
-      "name_en": null,
-      "name_kana": "カサヤ　キヨトシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E41910",
       "sec_code": null,
       "ticker": null,
@@ -142729,20 +142659,6 @@
       "name": "遠藤　孝",
       "name_en": null,
       "name_kana": "エンドウ　タカシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E36175",
-      "sec_code": null,
-      "ticker": null,
-      "name": "遠藤　寿彦",
-      "name_en": null,
-      "name_kana": "エンドウ　トシヒコ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -155057,20 +154973,6 @@
       "corporate_number": "9010001202602"
     },
     {
-      "edinet_code": "E35751",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＮＡＶＥＲ　Ｊ．Ｈｕｂ株式会社",
-      "name_en": null,
-      "name_kana": "ネイバージェイハブカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "品川区上大崎二丁目１０番４４号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "9011101084807"
-    },
-    {
       "edinet_code": "E39104",
       "sec_code": null,
       "ticker": null,
@@ -155894,20 +155796,6 @@
       "fiscal_year_end": null,
       "location": "アイルランド、Ｄ０２　ＨＤ３２、ダブリン２、サー・ジョン・ロジャーソンズ・キー７８",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E34520",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＰＯＨ　ＦＯＷ　ＬＡＩ",
-      "name_en": null,
-      "name_kana": "ポー　フォライ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
       "corporate_number": null
     },
     {
