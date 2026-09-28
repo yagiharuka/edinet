@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T00:49:09.444299+00:00",
+    "generated_at": "2026-09-28T18:12:05.536168+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11389
+    "companies": 11398
   },
   "companies": [
     {
@@ -14237,7 +14237,7 @@
       "name": "Ａｂａｌａｎｃｅ株式会社",
       "name_en": "Abalance Corporation",
       "name_kana": "エーバランスカブシキカイシャ",
-      "listing": "上場",
+      "listing": "非上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
       "location": "品川区東品川二丁目２番４号天王洲ファーストタワー",
@@ -26694,9 +26694,9 @@
       "edinet_code": "E25156",
       "sec_code": "58420",
       "ticker": "5842",
-      "name": "インテグラル株式会社",
+      "name": "インテグラル・グループ株式会社",
       "name_en": null,
-      "name_kana": "インテグラルカブシキガイシャ",
+      "name_kana": "インテグラルグループカブシキガイシャ",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "12月31日",
@@ -30805,6 +30805,20 @@
       "location": "墨田区吾妻橋３丁目１１番１号",
       "industry": "機械",
       "corporate_number": "9010601010719"
+    },
+    {
+      "edinet_code": "E41715",
+      "sec_code": "634A0",
+      "ticker": "634A",
+      "name": "株式会社レイヤード",
+      "name_en": "LAYERED Inc.",
+      "name_kana": "カブシキガイシャレイヤード",
+      "listing": "上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "6月30日",
+      "location": "福岡市博多区博多駅中央街８番２７号",
+      "industry": "情報・通信業",
+      "corporate_number": "2290001018911"
     },
     {
       "edinet_code": "E01662",
@@ -46818,7 +46832,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "12月31日",
-      "location": "中央区八重洲一丁目９番９号",
+      "location": "中央区八重洲一丁目６番１号",
       "industry": "不動産業",
       "corporate_number": "6010001034998"
     },
@@ -63161,6 +63175,20 @@
       "corporate_number": "2011401004495"
     },
     {
+      "edinet_code": "E42195",
+      "sec_code": null,
+      "ticker": null,
+      "name": "トグルホールディングス株式会社",
+      "name_en": null,
+      "name_kana": "トグルホールディングスカイブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "9月30日",
+      "location": "港区六本木１－６－１",
+      "industry": "不動産業",
+      "corporate_number": "8010401153446"
+    },
+    {
       "edinet_code": "E02956",
       "sec_code": null,
       "ticker": null,
@@ -78211,6 +78239,20 @@
       "corporate_number": "7140005027241"
     },
     {
+      "edinet_code": "E42244",
+      "sec_code": null,
+      "ticker": null,
+      "name": "公益財団法人ＮＳＫナカニシ財団",
+      "name_en": null,
+      "name_kana": "コウエキザイダンホウジンエヌエスケイナカニシザイダン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "鹿沼市下日向７００",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "8060005009247"
+    },
+    {
       "edinet_code": "E33703",
       "sec_code": null,
       "ticker": null,
@@ -80723,6 +80765,20 @@
       "name": "原田　恵吾",
       "name_en": null,
       "name_kana": "ハラダ　ケイゴ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42187",
+      "sec_code": null,
+      "ticker": null,
+      "name": "原田　明治",
+      "name_en": null,
+      "name_kana": "ハラダ　アキハル",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -99351,6 +99407,20 @@
       "corporate_number": "4010802017641"
     },
     {
+      "edinet_code": "E21532",
+      "sec_code": null,
+      "ticker": null,
+      "name": "有限会社いつわ企画",
+      "name_en": null,
+      "name_kana": "ユウゲンガイシャイツワキカク",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "札幌市中央区北６条西１６丁目１番地５",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "1430002002066"
+    },
+    {
       "edinet_code": "E36858",
       "sec_code": null,
       "ticker": null,
@@ -99769,6 +99839,20 @@
       "location": "宇陀郡曽爾村大字今井６３４番地",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4150002000830"
+    },
+    {
+      "edinet_code": "E22121",
+      "sec_code": null,
+      "ticker": null,
+      "name": "有限会社タスク企画",
+      "name_en": null,
+      "name_kana": "ユウゲンガイシャタスクキカク",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "札幌市北区あいの里３条７丁目１番１１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "2430002042887"
     },
     {
       "edinet_code": "E15711",
@@ -109524,7 +109608,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "目黒区上目黒三丁目３７番１４ー２０２",
+      "location": "渋谷区大山町３５番１８―２０７号グランドメゾン渋谷大山町",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1011001176678"
     },
@@ -110171,6 +110255,20 @@
       "location": "台東区蔵前三丁目１３番１４号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3010401080439"
+    },
+    {
+      "edinet_code": "E42031",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社シティインデックスフィフス",
+      "name_en": null,
+      "name_kana": "カブシキガイシャシティインデックスフィフス",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "渋谷区南平台町３－８",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5011001092137"
     },
     {
       "edinet_code": "E39776",
@@ -115465,20 +115563,6 @@
       "corporate_number": "8011001064760"
     },
     {
-      "edinet_code": "E41715",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社レイヤード",
-      "name_en": "LAYERED Inc.",
-      "name_kana": "カブシキガイシャレイヤード",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "6月30日",
-      "location": "福岡市博多区博多駅中央街８番２７号",
-      "industry": "情報・通信業",
-      "corporate_number": "2290001018911"
-    },
-    {
       "edinet_code": "E01013",
       "sec_code": null,
       "ticker": null,
@@ -116289,6 +116373,20 @@
       "location": "駒ヶ根市北町２０番６号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6100001021260"
+    },
+    {
+      "edinet_code": "E42117",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社倉敷ロイヤルアートホテル",
+      "name_en": null,
+      "name_kana": "カブシキカイシャクラシキロイヤルアートホテル",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "倉敷市阿知三丁目２１番１９号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4130001048294"
     },
     {
       "edinet_code": "E34777",
@@ -122939,6 +123037,20 @@
       "location": "港区虎ノ門一丁目３番１号",
       "industry": "その他金融業",
       "corporate_number": "4010401194072"
+    },
+    {
+      "edinet_code": "E42224",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＪＧ４４",
+      "name_en": null,
+      "name_kana": "カブシキガイシャジェイジーヨンジュウヨン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区虎ノ門一丁目３番１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "6010401202031"
     },
     {
       "edinet_code": "E05110",
@@ -149499,6 +149611,20 @@
       "corporate_number": "6010003041811"
     },
     {
+      "edinet_code": "E37376",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＡＳＯ　ＧＲＯＵＰ　Ｌｉｍｉｔｅｄ",
+      "name_en": null,
+      "name_kana": "アソグループリミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "Ｖｉｓｔｒａ　Ｃｏｒｐｏｒａｔｅ　Ｓｅｒｖｉｃｅｓ　Ｃｅｎｔｒｅ，　Ｗｉｃｋｈａｍｓ　Ｃａｙ　ＩＩ，Ｒｏａｄ　Ｔｏｗｎ，　Ｔｏｒｔｏｌａ，　ＶＧ１１１０，　Ｂｒｉｔｉｓｈ　Ｖｉｒｇｉｎ　Ｉｓｌａｎｄｓ",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E41937",
       "sec_code": null,
       "ticker": null,
@@ -149775,20 +149901,6 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "５１　ＢＲＡＳ　ＢＡＳＡＨ　ＲＤ，　０５　０１，　ＳＩＮＧＡＰＯＲＥ　１８９５５４",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E37376",
-      "sec_code": null,
-      "ticker": null,
-      "name": "Ａｓｏ　Ｇｒｏｕｐ　Ｌｉｍｉｔｅｄ",
-      "name_en": null,
-      "name_kana": "アソグループリミテッド",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "３ｒｄ　Ｆｌｏｏｒ　Ｊ＆Ｃ　Ｂｕｉｌｄｉｎｇ　Ｒｏａｄ　Ｔｏｗｎ　Ｔｏｒｔｏｌａ　Ｂｒｉｔｉｓｈ　Ｖｉｒｇｉｎ　Ｉｓｌａｎｄｓ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
@@ -154859,6 +154971,20 @@
       "location": "中野区若宮三丁目１２番２号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "5011201025425"
+    },
+    {
+      "edinet_code": "E42213",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＭａｂＧｅｎｅｓｉｓ株式会社",
+      "name_en": "MabGenesis Inc.",
+      "name_kana": "マブジェネシスカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月末日",
+      "location": "横浜市港北区新横浜３－７－１８",
+      "industry": "医薬品",
+      "corporate_number": "5010001201475"
     },
     {
       "edinet_code": "E38953",
