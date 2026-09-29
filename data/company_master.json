@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T18:12:05.536168+00:00",
+    "generated_at": "2026-09-29T02:00:00.562597+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11398
+    "companies": 11389
   },
   "companies": [
     {
@@ -3407,20 +3407,6 @@
       "location": "大阪市北区中崎西三丁目１番２号",
       "industry": "サービス業",
       "corporate_number": "6120001140744"
-    },
-    {
-      "edinet_code": "E21381",
-      "sec_code": "21800",
-      "ticker": "2180",
-      "name": "株式会社サニーサイドアップグループ",
-      "name_en": "SUNNY SIDE UP GROUP Inc.",
-      "name_kana": "カブシキガイシャサニーサイドアップグループ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "6月末日",
-      "location": "渋谷区千駄ヶ谷四丁目２３番５号",
-      "industry": "サービス業",
-      "corporate_number": "1011001044042"
     },
     {
       "edinet_code": "E21261",
@@ -8494,9 +8480,9 @@
       "edinet_code": "E03003",
       "sec_code": "30550",
       "ticker": "3055",
-      "name": "株式会社ほくやく・竹山ホールディングス",
-      "name_en": "HOKUYAKU TAKEYAMA Holdings,Inc.",
-      "name_kana": "カブシキガイシャホクヤクタケヤマホールディングス",
+      "name": "株式会社ＴＳＵＭＵＧＵ　ＨＯＬＤＩＮＧＳ",
+      "name_en": "TSUMUGU Holdings, Inc.",
+      "name_kana": "カブシキガイシャツムグホールディングス",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
@@ -14229,20 +14215,6 @@
       "location": "大阪市北区大深町３番１号",
       "industry": "情報・通信業",
       "corporate_number": "2120001034108"
-    },
-    {
-      "edinet_code": "E05713",
-      "sec_code": "38560",
-      "ticker": "3856",
-      "name": "Ａｂａｌａｎｃｅ株式会社",
-      "name_en": "Abalance Corporation",
-      "name_kana": "エーバランスカブシキカイシャ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "品川区東品川二丁目２番４号天王洲ファーストタワー",
-      "industry": "情報・通信業",
-      "corporate_number": "9010501023597"
     },
     {
       "edinet_code": "E05719",
@@ -104671,20 +104643,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E36580",
-      "sec_code": null,
-      "ticker": null,
-      "name": "柳　先",
-      "name_en": null,
-      "name_kana": "ヤナギ　セン",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E37386",
       "sec_code": null,
       "ticker": null,
@@ -109921,18 +109879,18 @@
       "corporate_number": "3010001017304"
     },
     {
-      "edinet_code": "E03419",
+      "edinet_code": "E21381",
       "sec_code": null,
       "ticker": null,
-      "name": "株式会社サッポロドラッグストアー",
-      "name_en": "SAPPORODRUG STORE CO.,LTD.",
-      "name_kana": "カブシキカイシャ　サッポロドラッグストアー",
+      "name": "株式会社サニーサイドアップグループ",
+      "name_en": "SUNNY SIDE UP GROUP Inc.",
+      "name_kana": "カブシキガイシャサニーサイドアップグループ",
       "listing": "非上場",
       "has_consolidated": "有",
-      "fiscal_year_end": "5月15日",
-      "location": "札幌市東区８条東４丁目１番２０号",
-      "industry": "小売業",
-      "corporate_number": "9430001020202"
+      "fiscal_year_end": "6月末日",
+      "location": "渋谷区千駄ヶ谷四丁目２３番５号",
+      "industry": "サービス業",
+      "corporate_number": "1011001044042"
     },
     {
       "edinet_code": "E02734",
@@ -112497,20 +112455,6 @@
       "corporate_number": "8010001212461"
     },
     {
-      "edinet_code": "E37076",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ネットアイアールディー",
-      "name_en": null,
-      "name_kana": "カブシキガイシャネットアイアールディー",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "京都市下京区中堂寺粟田町９３番地　京都リサーチパークサイエンスセンタービル４号館",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "7130001018427"
-    },
-    {
       "edinet_code": "E38539",
       "sec_code": null,
       "ticker": null,
@@ -113307,20 +113251,6 @@
       "location": "品川区西五反田８丁目１－１３",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "2010001230353"
-    },
-    {
-      "edinet_code": "E27567",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社フォトクリエイト",
-      "name_en": "Photocreate Co.,Ltd.",
-      "name_kana": "カブシキカイシャフォトクリエイト",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "6月30日",
-      "location": "新宿区西新宿六丁目１６番６号",
-      "industry": "サービス業",
-      "corporate_number": "2011101034099"
     },
     {
       "edinet_code": "E21219",
@@ -135373,40 +135303,12 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E07825",
-      "sec_code": null,
-      "ticker": null,
-      "name": "神山　和郎",
-      "name_en": null,
-      "name_kana": "カミヤマ　カズオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E07951",
       "sec_code": null,
       "ticker": null,
       "name": "神山　茂",
       "name_en": null,
       "name_kana": "カミヤマ　シゲル",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E37065",
-      "sec_code": null,
-      "ticker": null,
-      "name": "神山　隆志",
-      "name_en": null,
-      "name_kana": "カミヤマ　タカシ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -149345,20 +149247,6 @@
       "corporate_number": "7010001227956"
     },
     {
-      "edinet_code": "E36902",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＡＫコーポレーション株式会社",
-      "name_en": null,
-      "name_kana": "エイケイコーポレーションカブシキカイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "小田原市西大友２０５番地２",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "1021001073395"
-    },
-    {
       "edinet_code": "E37649",
       "sec_code": null,
       "ticker": null,
@@ -149679,6 +149567,20 @@
       "location": "港区赤坂二丁目３番５号赤坂スターゲートプラザ",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010001166071"
+    },
+    {
+      "edinet_code": "E05713",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ａｂａｌａｎｃｅ株式会社",
+      "name_en": "Abalance Corporation",
+      "name_kana": "エーバランスカブシキカイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "品川区東品川二丁目２番４号天王洲ファーストタワー",
+      "industry": "情報・通信業",
+      "corporate_number": "9010501023597"
     },
     {
       "edinet_code": "E39388",
@@ -152985,20 +152887,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E36779",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＩＲＥ　ＩＯＪ合同会社",
-      "name_en": null,
-      "name_kana": "アイアールイー　アイオージェーゴウドウガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区六本木六丁目１０番１号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "5010403025407"
-    },
-    {
       "edinet_code": "E11923",
       "sec_code": null,
       "ticker": null,
@@ -154495,20 +154383,6 @@
       "location": "中央区日本橋馬喰町１ー７ー２",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "5010001180810"
-    },
-    {
-      "edinet_code": "E36778",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＭＡＲ　ＩＯＪ合同会社",
-      "name_en": null,
-      "name_kana": "エムエーアール　アイオージェーゴウドウガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "中央区銀座一丁目６番１１号　アースタックス税理士法人内",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "6010403025406"
     },
     {
       "edinet_code": "E33728",
