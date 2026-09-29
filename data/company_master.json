@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T02:00:00.562597+00:00",
+    "generated_at": "2026-09-29T16:33:45.120055+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11389
+    "companies": 11394
   },
   "companies": [
     {
@@ -19182,7 +19182,7 @@
       "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "10月31日",
-      "location": "名古屋市中区錦二丁目５番１２号",
+      "location": "名古屋市中区新栄町一丁目１番地　明治安田生命名古屋ビル１５階",
       "industry": "情報・通信業",
       "corporate_number": "9180001066502"
     },
@@ -22863,7 +22863,7 @@
       "name_kana": "カブシキガイシャワクー",
       "listing": "上場",
       "has_consolidated": "無",
-      "fiscal_year_end": "9月末日",
+      "fiscal_year_end": "9月30日",
       "location": "世田谷区上馬２－１４－１",
       "industry": "化学",
       "corporate_number": "9010901023800"
@@ -26666,9 +26666,9 @@
       "edinet_code": "E25156",
       "sec_code": "58420",
       "ticker": "5842",
-      "name": "インテグラル・グループ株式会社",
+      "name": "インテグラル株式会社",
       "name_en": null,
-      "name_kana": "インテグラルグループカブシキガイシャ",
+      "name_kana": "インテグラルカブシキガイシャ",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "12月31日",
@@ -29349,6 +29349,20 @@
       "location": "千代田区富士見２丁目１４番３６号",
       "industry": "サービス業",
       "corporate_number": "1010001170889"
+    },
+    {
+      "edinet_code": "E42057",
+      "sec_code": "618A0",
+      "ticker": "618A",
+      "name": "株式会社ＫＯＭＰＥＩＴＯ",
+      "name_en": "KOMPEITO Inc.",
+      "name_kana": "カブシキカイシャコンペイトウ",
+      "listing": "上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "8月31日",
+      "location": "品川区西五反田２丁目２８番５号",
+      "industry": "サービス業",
+      "corporate_number": "1010401101634"
     },
     {
       "edinet_code": "E32153",
@@ -50685,20 +50699,6 @@
       "location": "高松市丸の内２番５号",
       "industry": "電気・ガス業",
       "corporate_number": "9470001001933"
-    },
-    {
-      "edinet_code": "E04506",
-      "sec_code": "95080",
-      "ticker": "9508",
-      "name": "九州電力株式会社",
-      "name_en": "Kyushu Electric Power Company, Incorporated",
-      "name_kana": "キュウシュウデンリョクカブシキガイシャ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "福岡市中央区渡辺通二丁目１番８２号",
-      "industry": "電気・ガス業",
-      "corporate_number": "4290001007004"
     },
     {
       "edinet_code": "E04500",
@@ -73591,6 +73591,20 @@
       "corporate_number": "5330001001133"
     },
     {
+      "edinet_code": "E04506",
+      "sec_code": null,
+      "ticker": null,
+      "name": "九州電力株式会社",
+      "name_en": "Kyushu Electric Power Company, Incorporated",
+      "name_kana": "キュウシュウデンリョクカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "福岡市中央区渡辺通二丁目１番８２号",
+      "industry": "電気・ガス業",
+      "corporate_number": "4290001007004"
+    },
+    {
       "edinet_code": "E35851",
       "sec_code": null,
       "ticker": null,
@@ -81227,6 +81241,20 @@
       "name": "古谷　昇",
       "name_en": null,
       "name_kana": "コタニ　ノボル",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42228",
+      "sec_code": null,
+      "ticker": null,
+      "name": "古賀　宣行",
+      "name_en": null,
+      "name_kana": "コガ　ノリユキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -109314,7 +109342,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "足立区梅田七丁目３２番６号",
+      "location": "足立区梅島一丁目１３番１７号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6011801025716"
     },
@@ -123277,20 +123305,6 @@
       "corporate_number": "4010801003799"
     },
     {
-      "edinet_code": "E42057",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ＫＯＭＰＥＩＴＯ",
-      "name_en": "KOMPEITO Inc.",
-      "name_kana": "カブシキカイシャコンペイトウ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "8月31日",
-      "location": "品川区西五反田２丁目２８番５号",
-      "industry": "サービス業",
-      "corporate_number": "1010401101634"
-    },
-    {
       "edinet_code": "E38569",
       "sec_code": null,
       "ticker": null,
@@ -133497,6 +133511,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42164",
+      "sec_code": null,
+      "ticker": null,
+      "name": "田谷野　貴正",
+      "name_en": null,
+      "name_kana": "タヤノ　タカマサ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E37881",
       "sec_code": null,
       "ticker": null,
@@ -136485,6 +136513,20 @@
       "name": "稲垣　裕介",
       "name_en": null,
       "name_kana": "イナガキ　ユウスケ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E40418",
+      "sec_code": null,
+      "ticker": null,
+      "name": "稲垣　靖",
+      "name_en": null,
+      "name_kana": "イナガキ　ヤスシ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -145263,6 +145305,20 @@
       "name": "長谷川　新里",
       "name_en": null,
       "name_kana": "ハセガワ　シンリ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42163",
+      "sec_code": null,
+      "ticker": null,
+      "name": "長谷川　智一",
+      "name_en": null,
+      "name_kana": "ハセガワ　トモカズ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -158149,6 +158205,20 @@
       "location": "Ｐｒｉｎｓｅｎｇｒａｃｈｔ　７６９　Ａ，　１０１７ＪＺ　Ａｍｓｔｅｒｄａｍ，　Ｔｈｅ　Ｎｅｔｈｅｒｌａｎｄｓ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42212",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＴＸ１株式会社",
+      "name_en": null,
+      "name_kana": "ティーエックスワンカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区六本木六丁目１０番１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5010401201983"
     },
     {
       "edinet_code": "E37075",
