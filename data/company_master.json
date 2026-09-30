@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T01:18:45.165811+00:00",
+    "generated_at": "2026-09-30T16:26:41.127015+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11392
+    "companies": 11399
   },
   "companies": [
     {
@@ -54056,7 +54056,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "シンガポール０６９５３６、セシル・ストリート１３５、フィリピン・エアラインズ・ビルディング＃１２－０１",
+      "location": "シンガポール０４８４２４、クロス・ストリート８、マニュライフ・タワー＃１７－０４",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
@@ -103985,6 +103985,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E38029",
+      "sec_code": null,
+      "ticker": null,
+      "name": "松村　里恵",
+      "name_en": null,
+      "name_kana": "マツムラ　リエ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E40044",
       "sec_code": null,
       "ticker": null,
@@ -104999,6 +105013,20 @@
       "name": "栁澤　考輝",
       "name_en": null,
       "name_kana": "ヤナギサワ　タカアキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42178",
+      "sec_code": null,
+      "ticker": null,
+      "name": "栂坂　昌業",
+      "name_en": null,
+      "name_kana": "トガサカ　マサナリ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -108068,7 +108096,7 @@
       "listing": "非上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "中央区日本橋蛎殻町二丁目１３番６号",
+      "location": "台東区台東一丁目６番４号",
       "industry": "卸売業",
       "corporate_number": "7010001089380"
     },
@@ -117061,6 +117089,20 @@
       "corporate_number": "9190001016704"
     },
     {
+      "edinet_code": "E31244",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社四条",
+      "name_en": null,
+      "name_kana": "カブシキガイシャシジョウ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "十日町市辰乙６０５番地７",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "9110001021463"
+    },
+    {
       "edinet_code": "E26837",
       "sec_code": null,
       "ticker": null,
@@ -123429,6 +123471,20 @@
       "location": "港区海岸一丁目２番２０号",
       "industry": "医薬品",
       "corporate_number": "8010401049314"
+    },
+    {
+      "edinet_code": "E42211",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＬＴＶ－Ｘ",
+      "name_en": null,
+      "name_kana": "カブシキカイシャエルティーブイエックス",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月31日",
+      "location": "港区芝５－１３－８",
+      "industry": "情報・通信業",
+      "corporate_number": "6120001146122"
     },
     {
       "edinet_code": "E34322",
@@ -130465,6 +130521,20 @@
       "name": "清水秀雄",
       "name_en": null,
       "name_kana": "シミズヒデオ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E11478",
+      "sec_code": null,
+      "ticker": null,
+      "name": "清藤　勉",
+      "name_en": null,
+      "name_kana": "セイトウ　ツトム",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -149681,6 +149751,20 @@
       "corporate_number": "3120001266699"
     },
     {
+      "edinet_code": "E42118",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ａｌｌｇａｎｉｚｅ　Ｈｏｌｄｉｎｇｓ株式会社",
+      "name_en": null,
+      "name_kana": "オルガナイズホールディングスカブシキカイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "9月30日",
+      "location": "東京都渋谷区広尾１－３－１",
+      "industry": "情報・通信業",
+      "corporate_number": "8010701041763"
+    },
+    {
       "edinet_code": "E42026",
       "sec_code": null,
       "ticker": null,
@@ -152689,6 +152773,20 @@
       "location": "アメリカ合衆国、デラウェア州、ニューカッスルカウンティ、ウィルミントン、１２０９オレンジストリート１９８０１",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42193",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＨｉＪｏＪｏ　Ｐａｒｔｎｅｒｓ株式会社",
+      "name_en": "HiJoJo Partners Inc.",
+      "name_kana": "ヒジョージョーパートナーズカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "10月31日",
+      "location": "港区西新橋一丁目７番２号",
+      "industry": "証券、商品先物取引業",
+      "corporate_number": "4010401135084"
     },
     {
       "edinet_code": "E38359",
