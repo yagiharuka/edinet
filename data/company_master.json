@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T16:33:45.120055+00:00",
+    "generated_at": "2026-09-30T01:18:45.165811+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11394
+    "companies": 11392
   },
   "companies": [
     {
@@ -56873,20 +56873,6 @@
       "location": "港区虎ノ門二丁目１０番４号オークラプレステージタワー２０階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6010005025721"
-    },
-    {
-      "edinet_code": "E36153",
-      "sec_code": null,
-      "ticker": null,
-      "name": "エスジー　クラインオート　ハンブロス　トラスト　カンパニー（シーアイ）リミテッド",
-      "name_en": null,
-      "name_kana": "エスジークラインオートハンブロストラストカンパニーシーアイリミテッド",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "エスジー　ハンブロス　ハウス、エスピラナーデ１８、セントヘリア、ジャージー、ＪＥ４　８ＲＴ",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
     },
     {
       "edinet_code": "E42221",
@@ -151165,20 +151151,6 @@
       "corporate_number": "3010001160723"
     },
     {
-      "edinet_code": "E03149",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＤＣＭくろがねや株式会社",
-      "name_en": "DCM KUROGANEYA.CO.,LTD.",
-      "name_kana": "ディーシーエムクロガネヤカブシキガイシャ",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "2月末日",
-      "location": "甲府市中小河原１丁目１３号１８番",
-      "industry": "小売業",
-      "corporate_number": "8090001000586"
-    },
-    {
       "edinet_code": "E37877",
       "sec_code": null,
       "ticker": null,
@@ -156387,6 +156359,20 @@
       "corporate_number": "5260001002700"
     },
     {
+      "edinet_code": "E42214",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＲＵＩＪＩＮＧ　ＦＩＮＡＮＣＩＡＬ　ＭＡＮＡＧＥＭＥＮＴ　ＰＥＴ　ＬＴＤ",
+      "name_en": null,
+      "name_kana": "ルイジン　ファナシャル　マネジメント　プライベート　リミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "８　ＫＡＫＩ　ＢＵＫＩＴ　ＡＶＥＮＵＥ　４、＃０８－３２、ＰＲＥＭＩＥＲ＠ＫＡＫＩ　ＢＵＫＩＴ、ＳＩＮＧＡＰＯＲＥ　４１５８７５",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E31598",
       "sec_code": null,
       "ticker": null,
@@ -157461,20 +157447,6 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "サウジアラビア王国４７１９－３４４６４、ダーラン８７８３",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E34416",
-      "sec_code": null,
-      "ticker": null,
-      "name": "Ｓｃｉｏｎ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ，ＬＬＣ",
-      "name_en": null,
-      "name_kana": "サイオンアセットマネジメントエルエルシー",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "米国デラウェア州ドーバー市、サウス・デュポント・ハイウェイ３５００番地、郵便番号１９９０１、Ｉｎｃｏｒｐｏｒａｔｉｎｇ　Ｓｅｒｖｉｃｅｓ，Ｌｔｄ．方",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
