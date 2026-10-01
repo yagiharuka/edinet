@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T16:26:41.127015+00:00",
+    "generated_at": "2026-10-01T01:18:30.518698+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11399
+    "companies": 11395
   },
   "companies": [
     {
@@ -2894,9 +2894,9 @@
       "edinet_code": "E00355",
       "sec_code": "21080",
       "ticker": "2108",
-      "name": "日本甜菜製糖株式会社",
-      "name_en": "Nippon Beet Sugar Manufacturing Co.,Ltd.",
-      "name_kana": "ニッポンテンサイセイトウカブシキカイシャ",
+      "name": "株式会社ニッテン",
+      "name_en": "Nitten Co.,Ltd.",
+      "name_kana": "カブシキガイシャニッテン",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
@@ -26988,9 +26988,9 @@
       "edinet_code": "E01354",
       "sec_code": "59020",
       "ticker": "5902",
-      "name": "ホッカンホールディングス株式会社",
-      "name_en": "HOKKAN HOLDINGS LIMITED",
-      "name_kana": "ホッカンホールディングスカブシキガイシャ",
+      "name": "ホッカン株式会社",
+      "name_en": "HOKKAN LIMITED",
+      "name_kana": "ホッカンカブシキガイシャ",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
@@ -31297,6 +31297,20 @@
       "corporate_number": "1070001015725"
     },
     {
+      "edinet_code": "E41786",
+      "sec_code": "640A0",
+      "ticker": "640A",
+      "name": "株式会社ＡＳＮＯＶＡ　Ｃｏｍｐａｎｉｅｓ",
+      "name_en": "ASNOVA Companies Inc.",
+      "name_kana": "カブシキガイシャアスノバカンパニーズ",
+      "listing": "上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "名古屋市中区錦三丁目２５番１号　ザ・ランドマーク名古屋栄２９階",
+      "industry": "サービス業",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E02403",
       "sec_code": "64120",
       "ticker": "6412",
@@ -31421,6 +31435,20 @@
       "location": "厚木市中町二丁目７番１０号",
       "industry": "機械",
       "corporate_number": "5021001020996"
+    },
+    {
+      "edinet_code": "E41694",
+      "sec_code": "642A0",
+      "ticker": "642A",
+      "name": "キューデンホールディングス株式会社",
+      "name_en": "KYUDEN Holdings inc.",
+      "name_kana": "キューデンホールディングスカブシキガイシャ",
+      "listing": "上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "福岡市中央区渡辺通二丁目１番８２号",
+      "industry": "電気・ガス業",
+      "corporate_number": null
     },
     {
       "edinet_code": "E02073",
@@ -48727,20 +48755,6 @@
       "corporate_number": "3180001022733"
     },
     {
-      "edinet_code": "E35797",
-      "sec_code": "92230",
-      "ticker": "9223",
-      "name": "株式会社ＡＳＮＯＶＡ",
-      "name_en": null,
-      "name_kana": "カブシキガイシャアスノバ",
-      "listing": "上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月末日",
-      "location": "名古屋市中区錦三丁目２５番１号　ザ・ランドマーク名古屋栄　２９階",
-      "industry": "サービス業",
-      "corporate_number": "6210001015400"
-    },
-    {
       "edinet_code": "E37810",
       "sec_code": "92250",
       "ticker": "9225",
@@ -58259,20 +58273,6 @@
       "location": "秩父市下影森１２４８番地",
       "industry": "電気機器",
       "corporate_number": "7030001090700"
-    },
-    {
-      "edinet_code": "E41694",
-      "sec_code": null,
-      "ticker": null,
-      "name": "キューデンホールディングス株式会社",
-      "name_en": "KYUDEN Holdings inc.",
-      "name_kana": "キューデンホールディングスカブシキガイシャ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "福岡市中央区渡辺通二丁目１番８２号",
-      "industry": "電気・ガス業",
-      "corporate_number": null
     },
     {
       "edinet_code": "E30475",
@@ -70175,6 +70175,20 @@
       "corporate_number": "4010001058009"
     },
     {
+      "edinet_code": "E42250",
+      "sec_code": null,
+      "ticker": null,
+      "name": "三菱オートリース株式会社",
+      "name_en": "Mitsubishi Auto Leasing Corporation",
+      "name_kana": "ミツビシオートリースカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月31日",
+      "location": "港区芝五丁目３３番１１号",
+      "industry": "その他金融業",
+      "corporate_number": "2010401028728"
+    },
+    {
       "edinet_code": "E00875",
       "sec_code": null,
       "ticker": null,
@@ -75991,6 +76005,20 @@
       "name": "佐藤　佳寿子",
       "name_en": null,
       "name_kana": "サトウ　カズコ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E07725",
+      "sec_code": null,
+      "ticker": null,
+      "name": "佐藤　利行",
+      "name_en": null,
+      "name_kana": "サトウ　トシユキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -98609,20 +98637,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E23147",
-      "sec_code": null,
-      "ticker": null,
-      "name": "早川　与規",
-      "name_en": null,
-      "name_kana": "ハヤカワ　トモノリ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E36577",
       "sec_code": null,
       "ticker": null,
@@ -99259,20 +99273,6 @@
       "name": "有田　一平",
       "name_en": null,
       "name_kana": "アリタ　イッペイ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E36563",
-      "sec_code": null,
-      "ticker": null,
-      "name": "有田　佳史",
-      "name_en": null,
-      "name_kana": "アリタ　ヨシヒト",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -103115,20 +103115,6 @@
       "location": "川崎市幸区堀川町７２番地３４",
       "industry": "建設業",
       "corporate_number": "2020001086464"
-    },
-    {
-      "edinet_code": "E36935",
-      "sec_code": null,
-      "ticker": null,
-      "name": "東芝ライテック株式会社",
-      "name_en": null,
-      "name_kana": "トウシバライテックカブシキカイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "横須賀市船越町一丁目２０１番１",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "5021001044112"
     },
     {
       "edinet_code": "E01301",
@@ -108981,20 +108967,6 @@
       "location": "港区南青山二丁目１２番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1011001119364"
-    },
-    {
-      "edinet_code": "E03469",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社クスリのアオキ",
-      "name_en": "KUSURI NO AOKI CO.,LTD.",
-      "name_kana": "カブシキガイシャクスリノアオキ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "5月20日",
-      "location": "白山市松本町２５１２番地",
-      "industry": "小売業",
-      "corporate_number": "2220001008745"
     },
     {
       "edinet_code": "E36794",
@@ -121443,18 +121415,18 @@
       "corporate_number": "9010401183269"
     },
     {
-      "edinet_code": "E41786",
+      "edinet_code": "E35797",
       "sec_code": null,
       "ticker": null,
-      "name": "株式会社ＡＳＮＯＶＡ　Ｃｏｍｐａｎｉｅｓ",
-      "name_en": "ASNOVA Companies Inc.",
-      "name_kana": "カブシキガイシャアスノバカンパニーズ",
+      "name": "株式会社ＡＳＮＯＶＡ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャアスノバ",
       "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "名古屋市中区錦三丁目２５番１号　ザ・ランドマーク名古屋栄２９階",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月末日",
+      "location": "名古屋市中区錦三丁目２５番１号　ザ・ランドマーク名古屋栄　２９階",
       "industry": "サービス業",
-      "corporate_number": null
+      "corporate_number": "6210001015400"
     },
     {
       "edinet_code": "E02514",
@@ -133139,20 +133111,6 @@
       "name": "田中　龍郎",
       "name_en": null,
       "name_kana": "タナカ　タツロウ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E11599",
-      "sec_code": null,
-      "ticker": null,
-      "name": "田中伸明",
-      "name_en": null,
-      "name_kana": "タナカノブアキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -154861,20 +154819,6 @@
       "corporate_number": "9010401199570"
     },
     {
-      "edinet_code": "E36814",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＭＳＤ企業投資株式会社",
-      "name_en": null,
-      "name_kana": "エムエスディキギョウトウシカブシキカイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "千代田区大手町一丁目９番２号　大手町フィナンシャルシティグランキューブ１９Ｆ",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "3010001170243"
-    },
-    {
       "edinet_code": "E38322",
       "sec_code": null,
       "ticker": null,
@@ -158854,9 +158798,9 @@
       "edinet_code": "E38415",
       "sec_code": null,
       "ticker": null,
-      "name": "ＶＩＮＴＡＧＥ　ＣＡＶＥ　ＴＯＫＹＯ　株式会社",
+      "name": "ＶＩＮＴＡＧＥ　ＣＡＶＥ　ＣＡＰＩＴＡＬ　株式会社",
       "name_en": null,
-      "name_kana": "ヴィンテージケーブトーキョーカブシキカイシャ",
+      "name_kana": "ヴィンテージケーブキャピタルカブシキカイシャ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
