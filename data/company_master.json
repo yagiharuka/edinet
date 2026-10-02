@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T01:42:05.958102+00:00",
+    "generated_at": "2026-10-02T16:18:13.169885+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11393
+    "companies": 11402
   },
   "companies": [
     {
@@ -21156,7 +21156,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "名古屋市中区東桜二丁目１８番３１号",
+      "location": "名古屋市中区新栄町２丁目１３番地栄トリッドスクエア",
       "industry": "サービス業",
       "corporate_number": "5180001041871"
     },
@@ -31300,9 +31300,9 @@
       "edinet_code": "E02403",
       "sec_code": "64120",
       "ticker": "6412",
-      "name": "株式会社平和",
-      "name_en": "Heiwa Corporation",
-      "name_kana": "カブシキガイシャヘイワ",
+      "name": "株式会社平和ホールディングス",
+      "name_en": "HEIWA HOLDINGS INC.",
+      "name_kana": "カブシキガイシャヘイワホールディングス",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
@@ -54621,6 +54621,20 @@
       "corporate_number": "7140001128258"
     },
     {
+      "edinet_code": "E42257",
+      "sec_code": null,
+      "ticker": null,
+      "name": "アセアン・チャイナ・インベストメント・ファンド・スリー・エルピー",
+      "name_en": null,
+      "name_kana": "アセアン　チャイナ　インベストメント　ファンド　スリー　エルピー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ケイマン諸島、グランド・ケイマンＫＹ１ー１００１、クリケットスクウェア、ウィロウハウス１０００８",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E10677",
       "sec_code": null,
       "ticker": null,
@@ -68701,6 +68715,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "ニューヨーク州　１００１７　ニューヨーク郡　サード　アヴェニュー　６８５　２７０２号室（２７階）",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E38173",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ヴァサンタ　マスター　ファンド　ピーティーイー　エルティディ",
+      "name_en": null,
+      "name_kana": "ヴァサンタ　マスター　ファンド　ピーティーイー　エルティディ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "テロック・エア通り１３７番地　０３－０７　シンガポール",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
@@ -111890,7 +111918,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "渋谷区東１－３２－１２",
+      "location": "品川区大崎１－２０－３",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1011001039711"
     },
@@ -136171,6 +136199,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E24926",
+      "sec_code": null,
+      "ticker": null,
+      "name": "福田勝",
+      "name_en": null,
+      "name_kana": "フクダマサル",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E07948",
       "sec_code": null,
       "ticker": null,
@@ -142331,6 +142373,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42154",
+      "sec_code": null,
+      "ticker": null,
+      "name": "辻林　由行",
+      "name_en": null,
+      "name_kana": "ツジバヤシ　ヨシユキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E38408",
       "sec_code": null,
       "ticker": null,
@@ -144249,6 +144305,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42197",
+      "sec_code": null,
+      "ticker": null,
+      "name": "鈴木　健",
+      "name_en": null,
+      "name_kana": "スズキ　ケン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E37365",
       "sec_code": null,
       "ticker": null,
@@ -146153,6 +146223,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42248",
+      "sec_code": null,
+      "ticker": null,
+      "name": "青木　友紀",
+      "name_en": null,
+      "name_kana": "アオキ　ユキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E11365",
       "sec_code": null,
       "ticker": null,
@@ -146655,6 +146739,20 @@
       "location": null,
       "industry": "個人（組合発行者を除く）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E06254",
+      "sec_code": null,
+      "ticker": null,
+      "name": "飯島興産株式会社",
+      "name_en": null,
+      "name_kana": "イイジマコウサンカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区岩本町三丁目１０番１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4010001010588"
     },
     {
       "edinet_code": "E24095",
@@ -151347,6 +151445,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E41989",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ｄａｎｉｅｌ　Ｊ．　Ｅｄｅｌｍａｎ，　Ｉｎｃ．",
+      "name_en": null,
+      "name_kana": "ダニエル　ジェイ　エデルマン　インク",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "アメリカ合衆国、デラウェア州１９８０１、ウィルミントン、オレンジストリート１２０９（１２０９　Ｏｒａｎｇｅ　Ｓｔｒｅｅｔ，　Ｗｉｌｍｉｎｇｔｏｎ，　ＤＥ　１９８０１，　ＵＳＡ）",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E36396",
       "sec_code": null,
       "ticker": null,
@@ -155447,6 +155559,20 @@
       "location": "１３１４　Ｄｏｕｇｌａｓ　Ｓｔｒｅｅｔ，　Ｓｕｉｔｅ　１４００，Ｏｍａｈａ，　Ｎｅｂｒａｓｋａ，　Ｕｎｉｔｅｄ　Ｓｔａｔｅｓ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42252",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ｎｅｘａｉ　株式会社",
+      "name_en": null,
+      "name_kana": "ネクサイ　カブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "中央区勝どき四丁目６番２ー２４２２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "3010001249707"
     },
     {
       "edinet_code": "E05094",
