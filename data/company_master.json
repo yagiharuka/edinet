@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T00:58:03.089809+00:00",
+    "generated_at": "2026-10-05T19:20:25.052405+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11402
+    "companies": 11404
   },
   "companies": [
     {
@@ -8886,7 +8886,7 @@
       "edinet_code": "E00543",
       "sec_code": "31040",
       "ticker": "3104",
-      "name": "富士紡ホールディングス株式会社",
+      "name": "フジボウホールディングス株式会社",
       "name_en": "Fujibo Holdings, Inc.",
       "name_kana": "フジボウホールディングスカブシキガイシャ",
       "listing": "上場",
@@ -13663,7 +13663,7 @@
       "name": "株式会社テクノマセマティカル",
       "name_en": "Techno Mathematical Co.,Ltd.",
       "name_kana": "カブシキガイシャテクノマセマティカル",
-      "listing": "上場",
+      "listing": "非上場",
       "has_consolidated": "無",
       "fiscal_year_end": "3月31日",
       "location": "品川区西五反田二丁目１２番１９号",
@@ -48758,9 +48758,9 @@
       "edinet_code": "E37740",
       "sec_code": "92270",
       "ticker": "9227",
-      "name": "マイクロ波化学株式会社",
-      "name_en": "Microwave Chemical Co., Ltd.",
-      "name_kana": "マイクロハカガクカブシキガイシャ",
+      "name": "ＭＷＣＣ株式会社",
+      "name_en": "MWCC Inc.",
+      "name_kana": "エムダブリューシーシーカブシキガイシャ",
       "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "6月30日",
@@ -57878,7 +57878,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "新宿区西新宿２－１－１新宿三井ビル４３階",
+      "location": "港区虎ノ門２－４－７　Ｔ－ＬＩＴＥ　１３階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3011101070093"
     },
@@ -78013,6 +78013,20 @@
       "location": "奈良市中登美ケ丘２丁目１９８４－４０",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "2150005002537"
+    },
+    {
+      "edinet_code": "E26981",
+      "sec_code": null,
+      "ticker": null,
+      "name": "公益財団法人業務スーパージャパンドリーム財団",
+      "name_en": null,
+      "name_kana": "コウエキザイダンホウジンギョウムスーパージャパンドリームザイダン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "加古川市加古川町平野１２５番１",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "8140005020476"
     },
     {
       "edinet_code": "E40097",
@@ -105268,7 +105282,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "ソウル特別市江南区テヘラン７７ギル７　４階",
+      "location": "ソウル特別市江南区テヘラン１３ギル３１－１、　３階",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
@@ -122169,6 +122183,20 @@
       "location": "名古屋市中村区名駅五丁目３８番５号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "5180001102707"
+    },
+    {
+      "edinet_code": "E41779",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＤａＩ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャディーエーアイ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "新潟市西区五十嵐三の町南３－２６",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "3110001035915"
     },
     {
       "edinet_code": "E39282",
