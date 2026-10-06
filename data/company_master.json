@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T02:19:33.351437+00:00",
+    "generated_at": "2026-10-06T16:51:46.462222+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11398
+    "companies": 11401
   },
   "companies": [
     {
@@ -65270,7 +65270,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "中華人民共和国広東省深セン市福田区益田路５０３３号平安金融センター１４、１５、１６、３７、４１、４４、４５、４６、５４、５８、５９階",
+      "location": "中華人民共和国広東省深セン市福田区福田街道益田路５０３３号平安金融センター１４、１５、１６、３７０１、４１、４４、４５、４６階",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
@@ -82367,6 +82367,20 @@
       "location": "千代田区大手町一丁目２番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010003046668"
+    },
+    {
+      "edinet_code": "E42241",
+      "sec_code": null,
+      "ticker": null,
+      "name": "合同会社Ｔ＆ＣＯ",
+      "name_en": null,
+      "name_kana": "ゴウドウガイシャティーアンドコー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "江東区豊洲四丁目９番１３号４１４",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010003029772"
     },
     {
       "edinet_code": "E35848",
@@ -116291,20 +116305,6 @@
       "corporate_number": "6100001021260"
     },
     {
-      "edinet_code": "E42117",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社倉敷ロイヤルアートホテル",
-      "name_en": null,
-      "name_kana": "カブシキカイシャクラシキロイヤルアートホテル",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "倉敷市阿知三丁目２１番１９号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "4130001048294"
-    },
-    {
       "edinet_code": "E34777",
       "sec_code": null,
       "ticker": null,
@@ -122507,6 +122507,20 @@
       "corporate_number": "7120001211908"
     },
     {
+      "edinet_code": "E42117",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社Ｇａｌａｘｙ　Ｒｉｄｅｒｓ",
+      "name_en": null,
+      "name_kana": "カブシキカイシャギャラクシーライダーズ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "中央区日本橋室町四丁目６番２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4130001048294"
+    },
+    {
       "edinet_code": "E36938",
       "sec_code": null,
       "ticker": null,
@@ -124297,6 +124311,20 @@
       "location": "岐阜市菅生２丁目６番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4010001251471"
+    },
+    {
+      "edinet_code": "E42192",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＲＥＣＥＰＴＩＯＮＩＳＴ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャレセプショニスト",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "10月31日",
+      "location": "目黒区青葉台三丁目６番２８号",
+      "industry": "情報・通信業",
+      "corporate_number": "4011001109271"
     },
     {
       "edinet_code": "E39253",
@@ -146943,6 +146971,20 @@
       "name": "馬場　利明",
       "name_en": null,
       "name_kana": "ババ　トシアキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E27134",
+      "sec_code": null,
+      "ticker": null,
+      "name": "馬場　功淳",
+      "name_en": null,
+      "name_kana": "ババ　ナルアツ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
