@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T19:20:25.052405+00:00",
+    "generated_at": "2026-10-06T02:19:33.351437+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11404
+    "companies": 11398
   },
   "companies": [
     {
@@ -70889,20 +70889,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E30799",
-      "sec_code": null,
-      "ticker": null,
-      "name": "下出　啓介",
-      "name_en": null,
-      "name_kana": "シモイデ　ケイスケ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E34088",
       "sec_code": null,
       "ticker": null,
@@ -75255,20 +75241,6 @@
       "location": "大阪市中央区城見二丁目２番２２号",
       "industry": "卸売業",
       "corporate_number": "2120001077362"
-    },
-    {
-      "edinet_code": "E10202",
-      "sec_code": null,
-      "ticker": null,
-      "name": "伊藤範久",
-      "name_en": null,
-      "name_kana": "イトウノリヒサ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
     },
     {
       "edinet_code": "E20947",
@@ -81515,6 +81487,20 @@
       "corporate_number": "4010403025218"
     },
     {
+      "edinet_code": "E42239",
+      "sec_code": null,
+      "ticker": null,
+      "name": "合同会社インテグリティ",
+      "name_en": null,
+      "name_kana": "ゴウドウガイシャインテグリティ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "渋谷区道玄坂一丁目１０番８号　渋谷道玄坂東急ビル２Ｆ－Ｃ",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4010903009422"
+    },
+    {
       "edinet_code": "E34453",
       "sec_code": null,
       "ticker": null,
@@ -82529,6 +82515,20 @@
       "name": "吉原直樹",
       "name_en": null,
       "name_kana": "ヨシハラ　　ナオキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42269",
+      "sec_code": null,
+      "ticker": null,
+      "name": "吉居　大希",
+      "name_en": null,
+      "name_kana": "ヨシイ　ヒロキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -93891,20 +93891,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E26277",
-      "sec_code": null,
-      "ticker": null,
-      "name": "川崎　まり",
-      "name_en": null,
-      "name_kana": "カワサキ　マリ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E00813",
       "sec_code": null,
       "ticker": null,
@@ -103453,20 +103439,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E30202",
-      "sec_code": null,
-      "ticker": null,
-      "name": "松尾　幸一郎",
-      "name_en": null,
-      "name_kana": "マツオ　コウイチロウ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E39614",
       "sec_code": null,
       "ticker": null,
@@ -104929,20 +104901,6 @@
       "name": "柴田　高幸",
       "name_en": null,
       "name_kana": "シバタ　タカユキ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E32355",
-      "sec_code": null,
-      "ticker": null,
-      "name": "柿内　和徳",
-      "name_en": null,
-      "name_kana": "カキウチ　カズノリ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -145649,20 +145607,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E35185",
-      "sec_code": null,
-      "ticker": null,
-      "name": "関戸　智行",
-      "name_en": null,
-      "name_kana": "セキド　トモユキ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E07465",
       "sec_code": null,
       "ticker": null,
@@ -148503,20 +148447,6 @@
       "location": "千葉市花見川区横戸町１５０１番地",
       "industry": "不動産業",
       "corporate_number": "5040001004289"
-    },
-    {
-      "edinet_code": "E30494",
-      "sec_code": null,
-      "ticker": null,
-      "name": "鷹野保雄",
-      "name_en": null,
-      "name_kana": "タカノヤスオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
     },
     {
       "edinet_code": "E39187",
@@ -154677,20 +154607,6 @@
       "location": "Ｆｌａｔ　Ｅ４，２０Ｆ　Ｓｕｎｗａｙ　Ｇａｒｄｅｎ９８９　Ｋｉｎｇｓ　Ｒｏａｄ　ＱｕａｒｒｙＢａｙ　ＨｏｎｇＫｏｎｇ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
-    },
-    {
-      "edinet_code": "E36907",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＭＥＴＡ　Ｃａｐｉｔａｌ株式会社",
-      "name_en": null,
-      "name_kana": "メタキャピタルカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区赤坂９丁目７番２号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "2010401078062"
     },
     {
       "edinet_code": "E36701",
