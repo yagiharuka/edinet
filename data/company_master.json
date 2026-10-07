@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T16:51:46.462222+00:00",
+    "generated_at": "2026-10-07T01:34:45.304740+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
     "companies": 11401
@@ -55349,20 +55349,6 @@
       "corporate_number": "2120901022467"
     },
     {
-      "edinet_code": "E35724",
-      "sec_code": null,
-      "ticker": null,
-      "name": "アレッツ・シーオーイー・リミテッド",
-      "name_en": null,
-      "name_kana": "アレッツシーオーイーリミテッド",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "英国ブロムスグローブＢ６０　４ＤＪ、ストーク・プライヤー、ハンブリー・ロード、ハリス・ビジネス・パーク、ザ・コートヤード３",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E32382",
       "sec_code": null,
       "ticker": null,
@@ -64993,6 +64979,20 @@
       "location": "スイス、チューリッヒ、ＣＨ‐８００１、ジルシュトラーセ３７",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E11480",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ビーエヌピーパリバセキュリティーズジャパンリミテッド",
+      "name_en": null,
+      "name_kana": "ビーエヌピーパリバセキュリティーズジャパンリミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区丸の内１－９－１　グラントウキョウノースタワー",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "3010001135007"
     },
     {
       "edinet_code": "E05757",
@@ -131873,20 +131873,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E08131",
-      "sec_code": null,
-      "ticker": null,
-      "name": "熊谷　正寿",
-      "name_en": null,
-      "name_kana": "クマガイ　マサトシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E41453",
       "sec_code": null,
       "ticker": null,
@@ -150223,6 +150209,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "ＩＴＡＬＹ　ＣＡＳＳＯＬＮＯＶＯ　（ＰＶ）　ＶＩＡ　ＣＩＲＣＯＮＶＡＬＬＡＺＩＯＮＥ　ＥＳＴ，　２－４－６　ＣＡＰ　２７０２３",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42260",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＢＬＵＥ　ＣＯＡＳＴ　ＣＡＰＩＴＡＬ　ＬＩＭＩＴＥＤ",
+      "name_en": null,
+      "name_kana": "ブルーコーストキャピタルリミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ＦＬＡＴ／ＲＭ　３８　１１／Ｆ　ＭＥＥＣＯ　ＩＮＤＵＳＴＲＩＡＬ　ＢＵＩＬＤＩＮＧ　５３－５５　ＡＵ　ＰＵＩ　ＷＡＮ　ＳＴＲＥＥＴ　ＦＯＴＡＮ　ＳＨＡＴＩＮ　ＮＴ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
