@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T01:34:45.304740+00:00",
+    "generated_at": "2026-10-07T17:28:09.926601+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11401
+    "companies": 11405
   },
   "companies": [
     {
@@ -58247,6 +58247,20 @@
       "corporate_number": "7430001004883"
     },
     {
+      "edinet_code": "E10290",
+      "sec_code": null,
+      "ticker": null,
+      "name": "キャヴェンディッシュ・スクエア・ホールディングス・ビー・ヴィー",
+      "name_en": null,
+      "name_kana": "キャヴェンディッシュスクエアホールディングスビーヴィー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "オランダ王国ロッテルダム３０７２ＤＢ、ラーン・オプ・ザイト１６７",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E02301",
       "sec_code": null,
       "ticker": null,
@@ -68437,6 +68451,20 @@
       "location": "Ｈ３Ｃ　３Ａ９　カナダ　ケベック州モントリオール　プレイス・ヴィル・マリー１",
       "industry": "外国法人・組合",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42169",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ロジスティードホールディングス株式会社",
+      "name_en": "LOGISTEED Holdings, Ltd.",
+      "name_kana": "ロジスティードホールディングスカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "中央区京橋二丁目９番２号",
+      "industry": "陸運業",
+      "corporate_number": "5010001226241"
     },
     {
       "edinet_code": "E38031",
@@ -99922,7 +99950,7 @@
       "fiscal_year_end": null,
       "location": "佐伯市長島町２丁目２２番１２号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
+      "corporate_number": "9320002017002"
     },
     {
       "edinet_code": "E15702",
@@ -133469,6 +133497,20 @@
       "corporate_number": "3120001102037"
     },
     {
+      "edinet_code": "E42272",
+      "sec_code": null,
+      "ticker": null,
+      "name": "田澤　悟郎",
+      "name_en": null,
+      "name_kana": "タザワ　ゴロウ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E11575",
       "sec_code": null,
       "ticker": null,
@@ -144353,6 +144395,20 @@
       "name": "鈴木　勇人",
       "name_en": null,
       "name_kana": "スズキ　ハヤト",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E09966",
+      "sec_code": null,
+      "ticker": null,
+      "name": "鈴木　勝喜",
+      "name_en": null,
+      "name_kana": "スズキ　カツヨシ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
