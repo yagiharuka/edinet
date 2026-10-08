@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T01:58:31.927995+00:00",
+    "generated_at": "2026-10-08T17:27:12.646675+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11405
+    "companies": 11406
   },
   "companies": [
     {
@@ -2287,20 +2287,6 @@
       "location": "名古屋市中区栄一丁目３１番２３号",
       "industry": "建設業",
       "corporate_number": "8180001038758"
-    },
-    {
-      "edinet_code": "E02569",
-      "sec_code": "19480",
-      "ticker": "1948",
-      "name": "株式会社弘電社",
-      "name_en": "The Kodensha,Co.,Ltd.",
-      "name_kana": "カブシキガイシャコウデンシャ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "中央区銀座５丁目１１番１０号",
-      "industry": "建設業",
-      "corporate_number": "3010001034778"
     },
     {
       "edinet_code": "E39640",
@@ -6190,7 +6176,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "横浜市西区北幸一丁目１番８号",
+      "location": "横浜市西区みなとみらい二丁目２番１号ランドマークタワー１２階",
       "industry": "小売業",
       "corporate_number": "9012401020674"
     },
@@ -20540,7 +20526,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "大阪市中央区南船場１－１８－１１",
+      "location": "大阪市中央区平野町４－２－３",
       "industry": "化学",
       "corporate_number": "1120001026551"
     },
@@ -21929,20 +21915,6 @@
       "location": "品川区東五反田３－２０－１４住友不動産高輪パークタワー１２Ｆ",
       "industry": "情報・通信業",
       "corporate_number": "3011001091842"
-    },
-    {
-      "edinet_code": "E05143",
-      "sec_code": "48000",
-      "ticker": "4800",
-      "name": "オリコン株式会社",
-      "name_en": "Oricon Inc.",
-      "name_kana": "オリコンカブシキガイシャ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "港区六本木六丁目８番１０号",
-      "industry": "情報・通信業",
-      "corporate_number": "5010401038988"
     },
     {
       "edinet_code": "E05145",
@@ -29685,6 +29657,20 @@
       "location": "蒲生郡日野町大字大谷４４６番地の１",
       "industry": "機械",
       "corporate_number": "5160001009813"
+    },
+    {
+      "edinet_code": "E42099",
+      "sec_code": "622A0",
+      "ticker": "622A",
+      "name": "株式会社テクノクラフト",
+      "name_en": "Techno Craft Corporation",
+      "name_kana": "カブシキガイシャテクノクラフト",
+      "listing": "上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "9月30日",
+      "location": "新潟市西蒲区越前浜字浜手６９８５番地２",
+      "industry": "サービス業",
+      "corporate_number": "8110001008288"
     },
     {
       "edinet_code": "E35587",
@@ -57559,6 +57545,20 @@
       "location": "板橋区小豆沢三丁目６番１０号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7011401001273"
+    },
+    {
+      "edinet_code": "E05143",
+      "sec_code": null,
+      "ticker": null,
+      "name": "オリコン株式会社",
+      "name_en": "Oricon Inc.",
+      "name_kana": "オリコンカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "港区六本木六丁目８番１０号",
+      "industry": "情報・通信業",
+      "corporate_number": "5010401038988"
     },
     {
       "edinet_code": "E03302",
@@ -111573,20 +111573,6 @@
       "corporate_number": "4120001039195"
     },
     {
-      "edinet_code": "E42099",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社テクノクラフト",
-      "name_en": "Techno Craft Corporation",
-      "name_kana": "カブシキガイシャテクノクラフト",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "9月30日",
-      "location": "新潟市西蒲区越前浜字浜手６９８５番地２",
-      "industry": "サービス業",
-      "corporate_number": "8110001008288"
-    },
-    {
       "edinet_code": "E26079",
       "sec_code": null,
       "ticker": null,
@@ -118123,6 +118109,20 @@
       "location": "芦屋市楠町３番３号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9140001000324"
+    },
+    {
+      "edinet_code": "E02569",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社弘電社",
+      "name_en": "The Kodensha,Co.,Ltd.",
+      "name_kana": "カブシキガイシャコウデンシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "中央区銀座５丁目１１番１０号",
+      "industry": "建設業",
+      "corporate_number": "3010001034778"
     },
     {
       "edinet_code": "E27035",
@@ -149973,6 +149973,20 @@
       "location": "港区北青山三丁目６番７号青山パラシオタワー１１階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6010403033219"
+    },
+    {
+      "edinet_code": "E41809",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ａｒａｍｃｏ　Ｄｏｗｎｓｔｒｅａｍ　Ａｓｉａ　Ｐｔｅ．　Ｌｔｄ．",
+      "name_en": null,
+      "name_kana": "アラムコダウンストリームアジアプライベートリミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "シンガポール０４９３２１、ＯＵＥベイフロント、コーラーキー５０、１３－０１号",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
     },
     {
       "edinet_code": "E35898",
