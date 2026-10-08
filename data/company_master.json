@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T17:28:09.926601+00:00",
+    "generated_at": "2026-10-08T01:58:31.927995+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
     "companies": 11405
@@ -38855,20 +38855,6 @@
       "location": "名古屋市中区錦二丁目１４番２１号",
       "industry": "卸売業",
       "corporate_number": "2180001039869"
-    },
-    {
-      "edinet_code": "E02798",
-      "sec_code": "74260",
-      "ticker": "7426",
-      "name": "株式会社　山大",
-      "name_en": "Yamadai Corporation",
-      "name_kana": "カブシキガイシャ　ヤマダイ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "石巻市潮見町２番地の３",
-      "industry": "卸売業",
-      "corporate_number": "6370301001357"
     },
     {
       "edinet_code": "E02801",
@@ -105623,6 +105609,20 @@
       "corporate_number": "2070001006905"
     },
     {
+      "edinet_code": "E02798",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社　山大",
+      "name_en": "Yamadai Corporation",
+      "name_kana": "カブシキガイシャ　ヤマダイ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "石巻市潮見町２番地の３",
+      "industry": "卸売業",
+      "corporate_number": "6370301001357"
+    },
+    {
       "edinet_code": "E03024",
       "sec_code": null,
       "ticker": null,
@@ -126755,6 +126755,20 @@
       "name": "森西　淳",
       "name_en": null,
       "name_kana": "モリニシ　ジュン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42227",
+      "sec_code": null,
+      "ticker": null,
+      "name": "森谷　誠司",
+      "name_en": null,
+      "name_kana": "モリヤ　セイジ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -154285,20 +154299,6 @@
       "location": "港区赤坂九丁目７番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4011101084679"
-    },
-    {
-      "edinet_code": "E36414",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＬＩＮＥ株式会社",
-      "name_en": null,
-      "name_kana": "ラインカブシキカイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "新宿区新宿四丁目１番６号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "2011101089911"
     },
     {
       "edinet_code": "E21778",
