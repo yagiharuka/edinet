@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T02:12:43.780113+00:00",
+    "generated_at": "2026-10-09T17:04:38.079907+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11407
+    "companies": 11410
   },
   "companies": [
     {
@@ -5988,9 +5988,9 @@
       "edinet_code": "E03367",
       "sec_code": "26810",
       "ticker": "2681",
-      "name": "株式会社ゲオホールディングス",
-      "name_en": "GEO HOLDINGS CORPORATION",
-      "name_kana": "カブシキガイシャゲオホールディングス",
+      "name": "株式会社セカンドリテイリング",
+      "name_en": "2nd RETAILING Co., Ltd.",
+      "name_kana": "カブシキガイシャセカンドリテイリング",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
@@ -36093,7 +36093,7 @@
       "name_kana": "キョウエイセキュリティーサービスカブシキカイシャ",
       "listing": "上場",
       "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
+      "fiscal_year_end": "7月31日",
       "location": "千代田区九段南一丁目６番１７号千代田会館",
       "industry": "サービス業",
       "corporate_number": "8010001088704"
@@ -55192,6 +55192,20 @@
       "fiscal_year_end": "12月31日",
       "location": null,
       "industry": "外国政府等",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42268",
+      "sec_code": null,
+      "ticker": null,
+      "name": "アルテミス・アドバイザリー・パートナーズ・リミテッド",
+      "name_en": null,
+      "name_kana": "アルテミスアドバイザリーパートナーズリミテッド",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "6月30日",
+      "location": "ケイマン諸島、グランド・ケイマンＫＹ１ー１２０７、ジョージ・タウン、フォート・ストリート６８、私書箱３１７２６号、ＨＳＭコーポレート・サービスィズ気付",
+      "industry": "外国法人・組合",
       "corporate_number": null
     },
     {
@@ -88095,6 +88109,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E08245",
+      "sec_code": null,
+      "ticker": null,
+      "name": "安達　一彦",
+      "name_en": null,
+      "name_kana": "アダチ　カズヒコ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E41929",
       "sec_code": null,
       "ticker": null,
@@ -118165,6 +118193,20 @@
       "location": "大田区久が原六丁目２番１５号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010801020312"
+    },
+    {
+      "edinet_code": "E42275",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社惻隠坊",
+      "name_en": null,
+      "name_kana": "カブシキガイシャソクインボウ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "宝塚市寿楽荘１－３３",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5140001141758"
     },
     {
       "edinet_code": "E03651",
