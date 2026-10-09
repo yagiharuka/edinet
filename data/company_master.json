@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T17:27:12.646675+00:00",
+    "generated_at": "2026-10-09T02:12:43.780113+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11406
+    "companies": 11407
   },
   "companies": [
     {
@@ -6554,7 +6554,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "8月31日",
-      "location": "千代田区内神田一丁目１４番８号　ＫＡＮＤＡＳＱＵＡＲＥＧＡＴＥ",
+      "location": "中央区八重洲一丁目６番１号",
       "industry": "不動産業",
       "corporate_number": "2010001202336"
     },
@@ -58443,6 +58443,20 @@
       "corporate_number": "6030001017472"
     },
     {
+      "edinet_code": "E42254",
+      "sec_code": null,
+      "ticker": null,
+      "name": "クランチロール株式会社",
+      "name_en": null,
+      "name_kana": "クランチロールカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "渋谷区渋谷一丁目１７番４号　ＰＭＯ渋谷１２階",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5010001120163"
+    },
+    {
       "edinet_code": "E36480",
       "sec_code": null,
       "ticker": null,
@@ -64629,6 +64643,20 @@
       "location": "千代田区大手町一丁目３番１号　ＪＡビル",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8010001011855"
+    },
+    {
+      "edinet_code": "E35577",
+      "sec_code": null,
+      "ticker": null,
+      "name": "パシフィックコンサルタンツ株式会社",
+      "name_en": null,
+      "name_kana": "パシフィックコンサルタンツカブシキカイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区神田錦町三丁目２２番地",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "8013401001509"
     },
     {
       "edinet_code": "E05687",
@@ -157883,20 +157911,6 @@
       "location": "港区芝五丁目３６番７号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1010401064261"
-    },
-    {
-      "edinet_code": "E20969",
-      "sec_code": null,
-      "ticker": null,
-      "name": "Ｔ．Ｇ．アセット有限会社",
-      "name_en": null,
-      "name_kana": "ティジーアセットユウゲンガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "市川市鬼高二丁目１０番１０号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "3040002038858"
     },
     {
       "edinet_code": "E20816",
