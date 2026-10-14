@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T17:40:40.070094+00:00",
+    "generated_at": "2026-10-14T01:14:42.015952+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11414
+    "companies": 11412
   },
   "companies": [
     {
@@ -65877,20 +65877,6 @@
       "corporate_number": "4011101018760"
     },
     {
-      "edinet_code": "E36914",
-      "sec_code": null,
-      "ticker": null,
-      "name": "フーリハン・ローキー・インク",
-      "name_en": null,
-      "name_kana": "フーリハンローキーインク",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "アメリカ合衆国デラウェア州ニューキャッスル・カウンティ、ウィルミントン、リトル・フォールス・ドライブ２５１",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E03430",
       "sec_code": null,
       "ticker": null,
@@ -96229,20 +96215,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E10675",
-      "sec_code": null,
-      "ticker": null,
-      "name": "折田　譲治",
-      "name_en": null,
-      "name_kana": "オリタ　ジョウジ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E05986",
       "sec_code": null,
       "ticker": null,
@@ -121177,20 +121149,6 @@
       "corporate_number": "6030001089545"
     },
     {
-      "edinet_code": "E35222",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社髙井企画",
-      "name_en": null,
-      "name_kana": "カブシキカイシャタカイキカク",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "伊勢原市高森６丁目１５番地の１",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "5021001065810"
-    },
-    {
       "edinet_code": "E04576",
       "sec_code": null,
       "ticker": null,
@@ -142875,6 +142833,20 @@
       "location": null,
       "industry": "個人（組合発行者を除く）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42262",
+      "sec_code": null,
+      "ticker": null,
+      "name": "道嘉Ｈｏｌｄｉｎｇ株式会社",
+      "name_en": null,
+      "name_kana": "ミチヨシホールディングカブシキカイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "品川区東品川二丁目６番１７－７０１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010701039585"
     },
     {
       "edinet_code": "E04667",
