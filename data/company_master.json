@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T15:15:41.014540+00:00",
+    "generated_at": "2026-10-15T00:33:09.683008+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11412
+    "companies": 11411
   },
   "companies": [
     {
@@ -28533,7 +28533,7 @@
       "name_kana": "アーキテクツスタジオジャパンカブシキガイシャ",
       "listing": "上場",
       "has_consolidated": "有",
-      "fiscal_year_end": "3月末日",
+      "fiscal_year_end": "2月末日",
       "location": "千代田区丸の内三丁目４番２号",
       "industry": "サービス業",
       "corporate_number": "7010401074016"
@@ -58887,20 +58887,6 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "アメリカ合衆国イリノイ州６００４５、レーク・フォレスト、グレンジャー・パークウェイ１００",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E34038",
-      "sec_code": null,
-      "ticker": null,
-      "name": "グレート・フォーチュン・インターナショナル・ディベロップメント・リミテッド",
-      "name_en": null,
-      "name_kana": "グレートフォーチュンインターナショナルディベロップメントリミテッド",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "ケイマン諸島、グランド・ケイマン　ＫＹ１－１２０５、ウェスト・ベイ・ロード８０２、ハイビスカス・ウェイ、グランド・パビリオン、私書箱３１１１９",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
