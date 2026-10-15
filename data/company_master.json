@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T00:33:09.683008+00:00",
+    "generated_at": "2026-10-15T15:09:08.850666+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11411
+    "companies": 11414
   },
   "companies": [
     {
@@ -11529,20 +11529,6 @@
       "corporate_number": "7010001105955"
     },
     {
-      "edinet_code": "E25148",
-      "sec_code": "34800",
-      "ticker": "3480",
-      "name": "株式会社ジェイ・エス・ビー",
-      "name_en": "J.S.B.Co.,Ltd.",
-      "name_kana": "カブシキガイシャジェイエスビー",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "10月31日",
-      "location": "京都市下京区因幡堂町６５５番地",
-      "industry": "不動産業",
-      "corporate_number": "2130001017499"
-    },
-    {
       "edinet_code": "E32779",
       "sec_code": "34820",
       "ticker": "3482",
@@ -22457,7 +22443,7 @@
       "name_kana": "カブシキカイシャティムス",
       "listing": "上場",
       "has_consolidated": "無",
-      "fiscal_year_end": "2月末日",
+      "fiscal_year_end": "12月31日",
       "location": "府中市府中町一丁目９番地京王府中１丁目ビル１１階",
       "industry": "医薬品",
       "corporate_number": "5013401006469"
@@ -26087,20 +26073,6 @@
       "location": "大阪市中央区高麗橋四丁目１番１号",
       "industry": "鉄鋼",
       "corporate_number": "2120001093269"
-    },
-    {
-      "edinet_code": "E01282",
-      "sec_code": "56600",
-      "ticker": "5660",
-      "name": "神鋼鋼線工業株式会社",
-      "name_en": "KOBELCO WIRE COMPANY, LTD.",
-      "name_kana": "シンコウコウセンコウギョウカブシキガイシャ",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "尼崎市中浜町１０番地１",
-      "industry": "鉄鋼",
-      "corporate_number": "2140001049112"
     },
     {
       "edinet_code": "E01294",
@@ -43752,7 +43724,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "名古屋市西区那古野一丁目１番１２号",
+      "location": "名古屋市中区丸の内一丁目１７番１９号",
       "industry": "卸売業",
       "corporate_number": "7180001025105"
     },
@@ -83699,6 +83671,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42302",
+      "sec_code": null,
+      "ticker": null,
+      "name": "品香事業有限公司",
+      "name_en": null,
+      "name_kana": "ヒンコウジギョウユウゲンコウシ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "台湾臺中市神岡區庄前里神林路１６之５號１樓",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E32072",
       "sec_code": null,
       "ticker": null,
@@ -85679,6 +85665,20 @@
       "name": "大塚　一郎",
       "name_en": null,
       "name_kana": "オオツカ　イチロウ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42243",
+      "sec_code": null,
+      "ticker": null,
+      "name": "大塚　文彦",
+      "name_en": null,
+      "name_kana": "オオツカ　フミヒコ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -110565,6 +110565,20 @@
       "corporate_number": "3010401039955"
     },
     {
+      "edinet_code": "E25148",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ジェイ・エス・ビー",
+      "name_en": "J.S.B.Co.,Ltd.",
+      "name_kana": "カブシキガイシャジェイエスビー",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "10月31日",
+      "location": "京都市下京区因幡堂町６５５番地",
+      "industry": "不動産業",
+      "corporate_number": "2130001017499"
+    },
+    {
       "edinet_code": "E38021",
       "sec_code": null,
       "ticker": null,
@@ -130893,6 +130907,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42249",
+      "sec_code": null,
+      "ticker": null,
+      "name": "渡邉　剛",
+      "name_en": null,
+      "name_kana": "ワタナベ　ツヨシ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E21497",
       "sec_code": null,
       "ticker": null,
@@ -135763,6 +135791,20 @@
       "location": null,
       "industry": "個人（組合発行者を除く）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E01282",
+      "sec_code": null,
+      "ticker": null,
+      "name": "神鋼鋼線工業株式会社",
+      "name_en": "KOBELCO WIRE COMPANY, LTD.",
+      "name_kana": "シンコウコウセンコウギョウカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "尼崎市中浜町１０番地１",
+      "industry": "鉄鋼",
+      "corporate_number": "2140001049112"
     },
     {
       "edinet_code": "E22222",
