@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T15:09:08.850666+00:00",
+    "generated_at": "2026-10-16T00:25:51.754050+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11414
+    "companies": 11415
   },
   "companies": [
     {
@@ -142141,6 +142141,20 @@
       "name": "赤羽　斉子",
       "name_en": null,
       "name_kana": "アカハネ　ナリコ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42185",
+      "sec_code": null,
+      "ticker": null,
+      "name": "赤羽根　康男",
+      "name_en": null,
+      "name_kana": "アカバネ　ヤスオ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
