@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T00:25:51.754050+00:00",
+    "generated_at": "2026-10-16T14:55:54.266546+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11415
+    "companies": 11423
   },
   "companies": [
     {
@@ -65947,6 +65947,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42277",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ブルースカイエナジー株式会社",
+      "name_en": null,
+      "name_kana": "ブルースカイエナジーカブシキカイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "中央区日本橋三丁目９番１号日本橋三丁目スクエア２階",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "8010001149464"
+    },
+    {
       "edinet_code": "E41582",
       "sec_code": null,
       "ticker": null,
@@ -82481,6 +82495,20 @@
       "corporate_number": "3011103003142"
     },
     {
+      "edinet_code": "E42247",
+      "sec_code": null,
+      "ticker": null,
+      "name": "合同会社ＴＹアセットマネジメント",
+      "name_en": null,
+      "name_kana": "ゴウドウガイシャティーワイアセットマネジメント",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区赤坂九丁目７番１号ミッドタウン・タワー",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "9010401174706"
+    },
+    {
       "edinet_code": "E38223",
       "sec_code": null,
       "ticker": null,
@@ -90131,6 +90159,20 @@
       "name": "小栗　洋行",
       "name_en": null,
       "name_kana": "オグリ　ヒロユキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E24272",
+      "sec_code": null,
+      "ticker": null,
+      "name": "小森　伸昭",
+      "name_en": null,
+      "name_kana": "コモリ　ノブアキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -100779,6 +100821,20 @@
       "corporate_number": "7040002088081"
     },
     {
+      "edinet_code": "E25628",
+      "sec_code": null,
+      "ticker": null,
+      "name": "有限会社Ｆｉｇｈｔ＆Ｓｔｅｐ",
+      "name_en": null,
+      "name_kana": "ユウゲンガイシャファイトアンドステップ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "目黒区三田一丁目４番３号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "6013202011469"
+    },
+    {
       "edinet_code": "E30804",
       "sec_code": null,
       "ticker": null,
@@ -100791,6 +100847,20 @@
       "location": "佐賀市高木瀬東二丁目２番３６号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4300002005649"
+    },
+    {
+      "edinet_code": "E25629",
+      "sec_code": null,
+      "ticker": null,
+      "name": "有限会社ＭＡＳＴＥＲ　ＭＩＮＤ",
+      "name_en": null,
+      "name_kana": "ユウゲンガイシャマスターマインド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "目黒区三田一丁目４番３号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4013202011470"
     },
     {
       "edinet_code": "E36633",
@@ -104789,6 +104859,20 @@
       "name": "柳井　正",
       "name_en": null,
       "name_kana": "ヤナイ　タダシ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E25625",
+      "sec_code": null,
+      "ticker": null,
+      "name": "柳井　照代",
+      "name_en": null,
+      "name_kana": "ヤナイ　テルヨ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -125195,6 +125279,20 @@
       "corporate_number": "4020001116954"
     },
     {
+      "edinet_code": "E42255",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＴＯＫＩＵＭ",
+      "name_en": "TOKIUM Inc.",
+      "name_kana": "カブシキガイシャトキウム",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "5月31日",
+      "location": "中央区銀座六丁目１８番２号",
+      "industry": "情報・通信業",
+      "corporate_number": "7050001034556"
+    },
+    {
       "edinet_code": "E38179",
       "sec_code": null,
       "ticker": null,
@@ -139033,6 +139131,20 @@
       "name": "荻田　剛大",
       "name_en": null,
       "name_kana": "オギタ　タケヒロ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E30627",
+      "sec_code": null,
+      "ticker": null,
+      "name": "荻野　利浩",
+      "name_en": null,
+      "name_kana": "オギノ　トシヒロ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
