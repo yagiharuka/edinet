@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T01:06:04.915834+00:00",
+    "generated_at": "2026-10-20T15:12:50.095909+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11420
+    "companies": 11423
   },
   "companies": [
     {
@@ -10272,8 +10272,8 @@
       "edinet_code": "E00558",
       "sec_code": "33060",
       "ticker": "3306",
-      "name": "日本製麻株式会社",
-      "name_en": "THE NIHON SEIMA CO.,LTD",
+      "name": "ＳＥＩＭＡホールディングス株式会社",
+      "name_en": "THE SEIMA HOLDINGS CO.,LTD.",
       "name_kana": "ニホンセイマカブシキガイシャ",
       "listing": "上場",
       "has_consolidated": "無",
@@ -31238,7 +31238,7 @@
       "fiscal_year_end": "3月31日",
       "location": "名古屋市中区錦三丁目２５番１号　ザ・ランドマーク名古屋栄２９階",
       "industry": "サービス業",
-      "corporate_number": null
+      "corporate_number": "9180001173760"
     },
     {
       "edinet_code": "E02403",
@@ -37519,7 +37519,7 @@
       "name": "ＮＯＫ株式会社",
       "name_en": "NOK CORPORATION",
       "name_kana": "エヌオーケーカブシキガイシャ",
-      "listing": "上場",
+      "listing": "非上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
       "location": "港区芝大門１丁目１２番１５号",
@@ -55811,6 +55811,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42196",
+      "sec_code": null,
+      "ticker": null,
+      "name": "インテグラルホールディングス株式会社",
+      "name_en": null,
+      "name_kana": "インテグラルホールディングスカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "東京都千代田区丸の内一丁目９番２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "6010001260314"
+    },
+    {
       "edinet_code": "E33924",
       "sec_code": null,
       "ticker": null,
@@ -56055,7 +56069,7 @@
       "name": "インベスコＱＱＱトラスト　シリーズ１",
       "name_en": null,
       "name_kana": "インベスコキューキューキュートラスト　シリーズワン",
-      "listing": "非上場",
+      "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "9月30日",
       "location": "アメリカ合衆国、イリノイ州６０５１５、ダウナーズ・グローブ、スイート７００、レイシー・ロード３５００",
@@ -125111,20 +125125,6 @@
       "corporate_number": "7010001254067"
     },
     {
-      "edinet_code": "E42206",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ＴＨＥ　ＣＡＥＬＵＳ",
-      "name_en": "THE CAELUS Inc.",
-      "name_kana": "カブシキガイシャザカイラス",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月31日",
-      "location": "成田市堀之内３８７－４",
-      "industry": "サービス業",
-      "corporate_number": "4040001142544"
-    },
-    {
       "edinet_code": "E40444",
       "sec_code": null,
       "ticker": null,
@@ -143899,6 +143899,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42186",
+      "sec_code": null,
+      "ticker": null,
+      "name": "野澤　幸弘",
+      "name_en": null,
+      "name_kana": "ノザワ　ユキヒロ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E21911",
       "sec_code": null,
       "ticker": null,
@@ -154091,6 +154105,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42261",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＫＤＸ　Ｋｏｌｅｔ投資法人",
+      "name_en": null,
+      "name_kana": "ケイディーエックスコレットトウシホウジン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区内幸町二丁目１番６号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "6010005042171"
+    },
+    {
       "edinet_code": "E14109",
       "sec_code": null,
       "ticker": null,
@@ -159857,6 +159885,20 @@
       "location": "千代田区霞が関三丁目２番５号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "2010003051260"
+    },
+    {
+      "edinet_code": "E42263",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ｒｅｎｇａ第４号合同会社",
+      "name_en": null,
+      "name_kana": "レンガダイヨンゴウゴウドウガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区霞が関三丁目２番５号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "2010003052647"
     },
     {
       "edinet_code": "E41377",
