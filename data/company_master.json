@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T17:02:40.093267+00:00",
+    "generated_at": "2026-10-20T01:06:04.915834+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11423
+    "companies": 11420
   },
   "companies": [
     {
@@ -72793,20 +72793,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E26577",
-      "sec_code": null,
-      "ticker": null,
-      "name": "中西　浩一",
-      "name_en": null,
-      "name_kana": "ナカニシ　コウイチ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E32051",
       "sec_code": null,
       "ticker": null,
@@ -141491,20 +141477,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E35025",
-      "sec_code": null,
-      "ticker": null,
-      "name": "観音堂　靖",
-      "name_en": null,
-      "name_kana": "カンノウドウ　ヤスシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E36522",
       "sec_code": null,
       "ticker": null,
@@ -142743,20 +142715,6 @@
       "name": "近藤　シゲ",
       "name_en": null,
       "name_kana": "コンドウ　シゲ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E33771",
-      "sec_code": null,
-      "ticker": null,
-      "name": "近藤　保",
-      "name_en": null,
-      "name_kana": "コンドウ　タモツ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
