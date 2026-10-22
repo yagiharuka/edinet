@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T00:41:54.506861+00:00",
+    "generated_at": "2026-10-22T15:24:19.179881+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11426
+    "companies": 11428
   },
   "companies": [
     {
@@ -65009,20 +65009,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E11480",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ビーエヌピーパリバセキュリティーズジャパンリミテッド",
-      "name_en": null,
-      "name_kana": "ビーエヌピーパリバセキュリティーズジャパンリミテッド",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "千代田区丸の内１－９－１　グラントウキョウノースタワー",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "3010001135007"
-    },
-    {
       "edinet_code": "E05757",
       "sec_code": null,
       "ticker": null,
@@ -100891,6 +100877,20 @@
       "corporate_number": "4190002012277"
     },
     {
+      "edinet_code": "E42271",
+      "sec_code": null,
+      "ticker": null,
+      "name": "有馬　弘進",
+      "name_en": null,
+      "name_kana": "アリマ　ヒロノブ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E04741",
       "sec_code": null,
       "ticker": null,
@@ -112733,6 +112733,20 @@
       "location": "京都市東山区新宮川町通松原下る西御門町４５６番地",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "5040001042891"
+    },
+    {
+      "edinet_code": "E38817",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ハウズ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャハウズ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "京都市右京区西院巽町３２番地ヴィヴァーチェ西院３０１号室",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4130001022118"
     },
     {
       "edinet_code": "E31587",
@@ -150603,6 +150617,20 @@
       "location": "千代田区丸の内一丁目９番１号グラントウキョウノースタワー",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4010401061149"
+    },
+    {
+      "edinet_code": "E11480",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＢＮＰパリバ証券株式会社",
+      "name_en": null,
+      "name_kana": "ビーエヌピーパリバショウケンカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区丸の内１－９－１　グラントウキョウノースタワー",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "3010001135007"
     },
     {
       "edinet_code": "E15214",
