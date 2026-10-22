@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T15:25:06.165441+00:00",
+    "generated_at": "2026-10-22T00:41:54.506861+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
     "companies": 11426
@@ -76929,20 +76929,6 @@
       "name": "保木　博子",
       "name_en": null,
       "name_kana": "ホキ　ヒロコ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E07015",
-      "sec_code": null,
-      "ticker": null,
-      "name": "保木　將夫",
-      "name_en": null,
-      "name_kana": "ホキマサオ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -158193,16 +158179,30 @@
       "corporate_number": "3010001022246"
     },
     {
+      "edinet_code": "E42266",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＴＡＫ株式会社",
+      "name_en": null,
+      "name_kana": "ティーエーケーカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区外神田４－１４－２－３６０１",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "6010001209402"
+    },
+    {
       "edinet_code": "E36402",
       "sec_code": null,
       "ticker": null,
       "name": "ＴＢ１株式会社",
       "name_en": null,
-      "name_kana": "ティービーワンカブシキガイシャ",
+      "name_kana": "ティービーワン",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "中央区銀座四丁目９番８号",
+      "location": "別府市上人仲町９番２４号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3010001213290"
     },
