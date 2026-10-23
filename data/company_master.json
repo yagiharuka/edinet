@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T00:42:01.619500+00:00",
+    "generated_at": "2026-10-23T15:14:26.742725+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11426
+    "companies": 11427
   },
   "companies": [
     {
@@ -152913,6 +152913,20 @@
       "location": "千代田区丸の内二丁目１番１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7010003036629"
+    },
+    {
+      "edinet_code": "E42220",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＨＨＨ１合同会社",
+      "name_en": null,
+      "name_kana": "エイチエイチエイチワンゴウドウガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "中央区日本橋室町四丁目３番９号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "9010003047070"
     },
     {
       "edinet_code": "E27873",
