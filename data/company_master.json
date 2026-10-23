@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T15:24:19.179881+00:00",
+    "generated_at": "2026-10-23T00:42:01.619500+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11428
+    "companies": 11426
   },
   "companies": [
     {
@@ -84665,20 +84665,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E10906",
-      "sec_code": null,
-      "ticker": null,
-      "name": "堂山道生",
-      "name_en": null,
-      "name_kana": "ドウヤマミチオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E40137",
       "sec_code": null,
       "ticker": null,
@@ -120433,20 +120419,6 @@
       "location": "杉並区阿佐谷南３丁目３５番２１号",
       "industry": "建設業",
       "corporate_number": "6011301006506"
-    },
-    {
-      "edinet_code": "E36931",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社紳士服中西",
-      "name_en": null,
-      "name_kana": "カブシキカイシャシンシフクナカニシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "京都市下京区松原通烏丸西入ル玉津島町３０３番地",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "4130001069811"
     },
     {
       "edinet_code": "E39396",
