@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T16:50:16.728263+00:00",
+    "generated_at": "2026-10-27T01:29:49.055268+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11432
+    "companies": 11430
   },
   "companies": [
     {
@@ -92449,20 +92449,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E36899",
-      "sec_code": null,
-      "ticker": null,
-      "name": "山田マーケティング株式会社",
-      "name_en": null,
-      "name_kana": "ヤマダマーケティングカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "大阪市城東区今福西二丁目１１番１７号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "7120001237242"
-    },
-    {
       "edinet_code": "E07645",
       "sec_code": null,
       "ticker": null,
@@ -120057,20 +120043,6 @@
       "corporate_number": "6360001012960"
     },
     {
-      "edinet_code": "E30425",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社研創エンタープライズ",
-      "name_en": null,
-      "name_kana": "カブシキガイシャケンソウエンタープライズ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "広島市安佐北区上深川町４４８番地",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "4240001003123"
-    },
-    {
       "edinet_code": "E03672",
       "sec_code": null,
       "ticker": null,
@@ -131193,20 +131165,6 @@
       "name": "渡邉　正礼",
       "name_en": null,
       "name_kana": "ワタナベ　マサノリ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E06630",
-      "sec_code": null,
-      "ticker": null,
-      "name": "渡邉　浩",
-      "name_en": null,
-      "name_kana": "ワタナベ　ヒロシ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -149407,6 +149365,20 @@
       "name": "齋藤　邦彦",
       "name_en": null,
       "name_kana": "サイトウ　クニヒコ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E35357",
+      "sec_code": null,
+      "ticker": null,
+      "name": "齋藤　陽介",
+      "name_en": null,
+      "name_kana": "サイトウ　ヨウスケ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
