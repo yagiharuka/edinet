@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T01:25:09.725978+00:00",
+    "generated_at": "2026-10-28T16:43:44.652443+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11432
+    "companies": 11433
   },
   "companies": [
     {
@@ -14122,9 +14122,9 @@
       "edinet_code": "E05694",
       "sec_code": "38500",
       "ticker": "3850",
-      "name": "株式会社エヌ・ティ・ティ・データ・イントラマート",
-      "name_en": "NTT DATA INTRAMART CORPORATION",
-      "name_kana": "カブシキガイシャエヌティティデータイントラマート",
+      "name": "株式会社イントラマート",
+      "name_en": "INTRAMART CORPORATION",
+      "name_kana": "カブシキガイシャイントラマート",
       "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "3月31日",
@@ -37023,20 +37023,6 @@
       "corporate_number": "5010001112730"
     },
     {
-      "edinet_code": "E31905",
-      "sec_code": "71830",
-      "ticker": "7183",
-      "name": "あんしん保証株式会社",
-      "name_en": "Anshin Guarantor Service Co.,Ltd.",
-      "name_kana": "アンシンホショウカブシキガイシャ",
-      "listing": "上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月末日",
-      "location": "品川区東品川四丁目１２番４号",
-      "industry": "その他金融業",
-      "corporate_number": "9010401049214"
-    },
-    {
       "edinet_code": "E03646",
       "sec_code": "71840",
       "ticker": "7184",
@@ -53485,6 +53471,20 @@
       "location": "千代田区内神田二丁目１５番９号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4010501022769"
+    },
+    {
+      "edinet_code": "E31905",
+      "sec_code": null,
+      "ticker": null,
+      "name": "あんしん保証株式会社",
+      "name_en": "Anshin Guarantor Service Co.,Ltd.",
+      "name_kana": "アンシンホショウカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月末日",
+      "location": "品川区東品川四丁目１２番４号",
+      "industry": "その他金融業",
+      "corporate_number": "9010401049214"
     },
     {
       "edinet_code": "E40299",
@@ -71105,6 +71105,20 @@
       "name": "下田　寛二",
       "name_en": null,
       "name_kana": "シモダ　カンジ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E21274",
+      "sec_code": null,
+      "ticker": null,
+      "name": "下田　英樹",
+      "name_en": null,
+      "name_kana": "シモダ　ヒデキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -113822,7 +113836,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "渋谷区渋谷２丁目１９番１５号　宮益坂ビルディング６０９",
+      "location": "渋谷区渋谷二丁目１９番１５号　宮益坂ビルディング６０９",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9020001129852"
     },
