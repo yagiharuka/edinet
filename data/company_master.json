@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T15:55:21.215111+00:00",
+    "generated_at": "2026-10-28T01:25:09.725978+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11433
+    "companies": 11432
   },
   "companies": [
     {
@@ -88557,20 +88557,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E37041",
-      "sec_code": null,
-      "ticker": null,
-      "name": "宮田　あや",
-      "name_en": null,
-      "name_kana": "ミヤタ　アヤ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E06519",
       "sec_code": null,
       "ticker": null,
@@ -88605,20 +88591,6 @@
       "name": "宮田　敏男",
       "name_en": null,
       "name_kana": "ミヤタ　トシオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E37040",
-      "sec_code": null,
-      "ticker": null,
-      "name": "宮田　萌美",
-      "name_en": null,
-      "name_kana": "ミヤタ　メグミ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -143429,6 +143401,20 @@
       "name": "酒井　雅美",
       "name_en": null,
       "name_kana": "サカイ　マサミ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E35476",
+      "sec_code": null,
+      "ticker": null,
+      "name": "酒本　徹",
+      "name_en": null,
+      "name_kana": "サカモト　トオル",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
