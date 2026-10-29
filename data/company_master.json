@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T01:49:31.891507+00:00",
+    "generated_at": "2026-10-29T16:59:38.726547+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11431
+    "companies": 11432
   },
   "companies": [
     {
@@ -22780,7 +22780,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "12月31日",
-      "location": "渋谷区桜丘町２６－１セルリアンタワー５Ｆ",
+      "location": "千代田区紀尾井町４番１号　ニューオータニガーデンコート１７階",
       "industry": "化学",
       "corporate_number": "4011001034965"
     },
@@ -154887,6 +154887,20 @@
       "location": "米国、ニューヨーク州、ニューヨーク、タイムズ・スクエア７、４３階",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42285",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ｍ＆Ａロイヤルアドバイザリー株式会社",
+      "name_en": null,
+      "name_kana": "エムアンドエーロイヤルアドバイザリーカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "10月末日",
+      "location": "東京都千代田区丸の内一丁目８ー３丸の内トラストタワー本館２０階",
+      "industry": "サービス業",
+      "corporate_number": "2010001222945"
     },
     {
       "edinet_code": "E31893",
