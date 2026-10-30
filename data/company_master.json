@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T01:58:41.688952+00:00",
+    "generated_at": "2026-10-30T16:44:25.933322+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11431
+    "companies": 11432
   },
   "companies": [
     {
@@ -32207,6 +32207,20 @@
       "corporate_number": "7020001107604"
     },
     {
+      "edinet_code": "E42195",
+      "sec_code": "652A0",
+      "ticker": "652A",
+      "name": "トグルホールディングス株式会社",
+      "name_en": null,
+      "name_kana": "トグルホールディングスカイブシキガイシャ",
+      "listing": "上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "9月30日",
+      "location": "港区六本木１－６－１",
+      "industry": "不動産業",
+      "corporate_number": "8010401153446"
+    },
+    {
       "edinet_code": "E32549",
       "sec_code": "65320",
       "ticker": "6532",
@@ -63131,20 +63145,6 @@
       "location": "板橋区幸町３９－５",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "2011401004495"
-    },
-    {
-      "edinet_code": "E42195",
-      "sec_code": null,
-      "ticker": null,
-      "name": "トグルホールディングス株式会社",
-      "name_en": null,
-      "name_kana": "トグルホールディングスカイブシキガイシャ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "9月30日",
-      "location": "港区六本木１－６－１",
-      "industry": "不動産業",
-      "corporate_number": "8010401153446"
     },
     {
       "edinet_code": "E02956",
@@ -124059,6 +124059,20 @@
       "location": "渋谷区東四丁目４番１３－４０１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "5010601064413"
+    },
+    {
+      "edinet_code": "E42307",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＮＳＳＫ－ＥＰＳＩＬＯＮ１",
+      "name_en": null,
+      "name_kana": "カブシキガイシャエヌエスエスケーイプシロンワン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区愛宕二丁目５番１号愛宕グリーンヒルズＭＯＲＩタワー",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010401201767"
     },
     {
       "edinet_code": "E40740",
