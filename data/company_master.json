@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T16:59:38.726547+00:00",
+    "generated_at": "2026-10-30T01:58:41.688952+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11432
+    "companies": 11431
   },
   "companies": [
     {
@@ -93513,20 +93513,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E23890",
-      "sec_code": null,
-      "ticker": null,
-      "name": "岩波　清久",
-      "name_en": null,
-      "name_kana": "イワナミ　キヨヒサ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E35419",
       "sec_code": null,
       "ticker": null,
@@ -95059,20 +95045,6 @@
       "name": "平良　真人",
       "name_en": null,
       "name_kana": "タイラ　マサト",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E35921",
-      "sec_code": null,
-      "ticker": null,
-      "name": "平野　俊博",
-      "name_en": null,
-      "name_kana": "ヒラノ　トシヒロ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -126629,6 +126601,20 @@
       "name": "森上　和樹",
       "name_en": null,
       "name_kana": "モリガミ　カズキ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42347",
+      "sec_code": null,
+      "ticker": null,
+      "name": "森下　和広",
+      "name_en": null,
+      "name_kana": "モリシタ　カズヒロ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -159582,13 +159568,13 @@
       "edinet_code": "E31245",
       "sec_code": null,
       "ticker": null,
-      "name": "ＷｉＬ　Ｆｕｎｄ　Ｉ　Ｌ．Ｐ．",
+      "name": "ＷｉＬ　Ｆｕｎｄ　Ｉ，　Ｌ．Ｐ．",
       "name_en": null,
-      "name_kana": "ウィルファンドワン　エルピー",
+      "name_kana": "ウィルファンドワンエルピー",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "１０２　Ｕｎｉｖｅｒｓｉｔｙ　Ａｖｅ．，　Ｓｕｉｔｅ　１Ａ　Ｐａｌｏ　Ａｌｔｏ，　ＣＡ　９４３０１",
+      "location": "ケイマン諸島ＫＹ１－１１０４グランド・ケイマン、ジョージ・タウン、サウス・チャーチ・ストリート、アグランド・ハウス私書箱３０９メープルズ・コーポレート・サービシズ・リミテッド気付",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
