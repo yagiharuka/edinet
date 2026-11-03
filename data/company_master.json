@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T20:25:28.559071+00:00",
+    "generated_at": "2026-11-03T03:28:43.426884+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11438
+    "companies": 11433
   },
   "companies": [
     {
@@ -55797,20 +55797,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E37121",
-      "sec_code": null,
-      "ticker": null,
-      "name": "インターステラテクノロジズ株式会社",
-      "name_en": null,
-      "name_kana": "インターステラテクノロジズカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "広尾郡大樹町字芽武６９０番地４",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "5010401080445"
-    },
-    {
       "edinet_code": "E05748",
       "sec_code": null,
       "ticker": null,
@@ -68787,20 +68773,6 @@
       "location": "ヴィストラコーポレートサービスセンター、グラウンドフロア　エヌピーエフ　ビルディング、ビーチロード、アピア、サモア",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
-    },
-    {
-      "edinet_code": "E07879",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ワールド・キャピタル株式会社",
-      "name_en": null,
-      "name_kana": "ワールドキャピタルカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "神奈川県横浜市旭区中希望が丘１６９－３２",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "8013401002275"
     },
     {
       "edinet_code": "E21414",
@@ -96271,20 +96243,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E34313",
-      "sec_code": null,
-      "ticker": null,
-      "name": "持塚　朗",
-      "name_en": null,
-      "name_kana": "モチヅカ　アキラ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E15743",
       "sec_code": null,
       "ticker": null,
@@ -97753,20 +97711,6 @@
       "location": "台東区上野５丁目２番１号",
       "industry": "電気・ガス業",
       "corporate_number": "2010001033087"
-    },
-    {
-      "edinet_code": "E00817",
-      "sec_code": null,
-      "ticker": null,
-      "name": "日本合成化学工業株式会社",
-      "name_en": null,
-      "name_kana": "ニッポンゴウセイカガクコウギョウカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "大阪市北区小松原町２番４号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "9120001059676"
     },
     {
       "edinet_code": "E00078",
@@ -140559,20 +140503,6 @@
       "name": "藤田　昌子",
       "name_en": null,
       "name_kana": "フジタ　マサコ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E31188",
-      "sec_code": null,
-      "ticker": null,
-      "name": "藤田　正一",
-      "name_en": null,
-      "name_kana": "フジタ　マサカズ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
