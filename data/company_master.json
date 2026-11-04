@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T17:55:53.443764+00:00",
+    "generated_at": "2026-11-04T02:21:46.722939+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11433
+    "companies": 11435
   },
   "companies": [
     {
@@ -93541,6 +93541,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E23890",
+      "sec_code": null,
+      "ticker": null,
+      "name": "岩波　清久",
+      "name_en": null,
+      "name_kana": "イワナミ　キヨヒサ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E35419",
       "sec_code": null,
       "ticker": null,
@@ -145151,6 +145165,20 @@
       "name": "鈴木崇英",
       "name_en": null,
       "name_kana": "スズキタカヒデ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E11622",
+      "sec_code": null,
+      "ticker": null,
+      "name": "鈴木敏雄",
+      "name_en": null,
+      "name_kana": "スズキトシオ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
