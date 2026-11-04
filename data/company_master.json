@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T02:21:46.722939+00:00",
+    "generated_at": "2026-11-04T18:06:02.897574+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11435
+    "companies": 11437
   },
   "companies": [
     {
@@ -51575,7 +51575,7 @@
       "name": "株式会社両毛システムズ",
       "name_en": "RYOMO SYSTEMS CO.,LTD.",
       "name_kana": "カブシキガイシャリョウモウシステムズ",
-      "listing": "上場",
+      "listing": "非上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
       "location": "桐生市広沢町三丁目４０２５番地",
@@ -142499,6 +142499,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42235",
+      "sec_code": null,
+      "ticker": null,
+      "name": "農中信託銀行株式会社",
+      "name_en": null,
+      "name_kana": "ノウチュウシンタクギンコウカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区神田錦町二丁目２番地１",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7010001008729"
+    },
+    {
       "edinet_code": "E08480",
       "sec_code": null,
       "ticker": null,
@@ -159627,6 +159641,20 @@
       "name": "ＷｉＬ　Ｆｕｎｄ　Ｉ，　Ｌ．Ｐ．",
       "name_en": null,
       "name_kana": "ウィルファンドワンエルピー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ケイマン諸島ＫＹ１－１１０４グランド・ケイマン、ジョージ・タウン、サウス・チャーチ・ストリート、アグランド・ハウス私書箱３０９メープルズ・コーポレート・サービシズ・リミテッド気付",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42374",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＷｉＬ　Ｆｕｎｄ　ＩＩ，　Ｌ．Ｐ．",
+      "name_en": null,
+      "name_kana": "ウィルファンドツーエルピー",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
