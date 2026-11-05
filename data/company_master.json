@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T02:30:09.473616+00:00",
+    "generated_at": "2026-11-05T18:07:25.817082+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11435
+    "companies": 11436
   },
   "companies": [
     {
@@ -14598,9 +14598,9 @@
       "edinet_code": "E31640",
       "sec_code": "39180",
       "ticker": "3918",
-      "name": "ＰＣＩホールディングス株式会社",
-      "name_en": "PCI Holdings, Inc.",
-      "name_kana": "ピーシーアイホールディングスカブシキガイシャ",
+      "name": "ＰＣＩソリューションズ株式会社",
+      "name_en": "PCI Solutions Inc.",
+      "name_kana": "ピーシーアイソリューションズカブシキガイシャ",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月末日",
@@ -32527,6 +32527,20 @@
       "location": "大阪市北区芝田２丁目７番１８号",
       "industry": "サービス業",
       "corporate_number": "7120001128193"
+    },
+    {
+      "edinet_code": "E42211",
+      "sec_code": "655A0",
+      "ticker": "655A",
+      "name": "株式会社ＬＴＶ－Ｘ",
+      "name_en": null,
+      "name_kana": "カブシキカイシャエルティーブイエックス",
+      "listing": "上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月31日",
+      "location": "港区芝５－１３－８",
+      "industry": "情報・通信業",
+      "corporate_number": "6120001146122"
     },
     {
       "edinet_code": "E33588",
@@ -123627,20 +123641,6 @@
       "corporate_number": "8010401049314"
     },
     {
-      "edinet_code": "E42211",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ＬＴＶ－Ｘ",
-      "name_en": null,
-      "name_kana": "カブシキカイシャエルティーブイエックス",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月31日",
-      "location": "港区芝５－１３－８",
-      "industry": "情報・通信業",
-      "corporate_number": "6120001146122"
-    },
-    {
       "edinet_code": "E34322",
       "sec_code": null,
       "ticker": null,
@@ -142617,6 +142617,20 @@
       "name": "辻本　久和",
       "name_en": null,
       "name_kana": "ツジモト　ヒサカズ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E32974",
+      "sec_code": null,
+      "ticker": null,
+      "name": "辻本　大輔",
+      "name_en": null,
+      "name_kana": "ツジモト　ダイスケ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
