@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T18:06:02.897574+00:00",
+    "generated_at": "2026-11-05T02:30:09.473616+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11437
+    "companies": 11435
   },
   "companies": [
     {
@@ -32641,6 +32641,20 @@
       "corporate_number": "3140001022497"
     },
     {
+      "edinet_code": "E42118",
+      "sec_code": "656A0",
+      "ticker": "656A",
+      "name": "Ａｌｌｇａｎｉｚｅ　Ｈｏｌｄｉｎｇｓ株式会社",
+      "name_en": null,
+      "name_kana": "オルガナイズホールディングスカブシキカイシャ",
+      "listing": "上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "9月30日",
+      "location": "東京都渋谷区広尾１－３－１",
+      "industry": "情報・通信業",
+      "corporate_number": "8010701041763"
+    },
+    {
       "edinet_code": "E33822",
       "sec_code": "65700",
       "ticker": "6570",
@@ -54229,20 +54243,6 @@
       "corporate_number": "2010001125578"
     },
     {
-      "edinet_code": "E30401",
-      "sec_code": null,
-      "ticker": null,
-      "name": "アキュセラ・インク（Ａｃｕｃｅｌａ　Ｉｎｃ．）",
-      "name_en": null,
-      "name_kana": "アキュセラインク",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "12月31日",
-      "location": "アメリカ合衆国、９８１０１ワシントン州、シアトル市、セカンド・アベニュー１３０１、スイート４２００",
-      "industry": "外国法人・組合",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E41366",
       "sec_code": null,
       "ticker": null,
@@ -59463,6 +59463,20 @@
       "location": "鹿児島市伊敷五丁目１７番５号",
       "industry": "建設業",
       "corporate_number": "8340001001600"
+    },
+    {
+      "edinet_code": "E08734",
+      "sec_code": null,
+      "ticker": null,
+      "name": "コーズウェイキャピタルマネジメントエルエルシー",
+      "name_en": null,
+      "name_kana": "コーズウェイキャピタルマネジメントエルエルシー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "アメリカ合衆国、カリフォルニア州　９００２５、ロサンジェルス、サンタモニカ・ブルバード　１１１１１、１５階",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
     },
     {
       "edinet_code": "E22528",
@@ -67149,20 +67163,6 @@
       "location": "名古屋市北区平安二丁目１５番５６号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "8180001013562"
-    },
-    {
-      "edinet_code": "E01785",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ミツミ電機株式会社",
-      "name_en": "MITSUMI ELECTRIC CO.,LTD.",
-      "name_kana": "ミツミデンキカブシキガイシャ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "多摩市鶴牧二丁目１１番地２",
-      "industry": "電気機器",
-      "corporate_number": "4013401002485"
     },
     {
       "edinet_code": "E38804",
@@ -96691,6 +96691,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42349",
+      "sec_code": null,
+      "ticker": null,
+      "name": "新庄　勝浩",
+      "name_en": null,
+      "name_kana": "シンジョウ　カツヒロ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E31718",
       "sec_code": null,
       "ticker": null,
@@ -100833,20 +100847,6 @@
       "location": "目黒区三田一丁目４番３号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4013202011470"
-    },
-    {
-      "edinet_code": "E36633",
-      "sec_code": null,
-      "ticker": null,
-      "name": "有限会社ＳＰＣトラスト",
-      "name_en": null,
-      "name_kana": "ユウゲンガイシャエスピーシートラスト",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区赤坂四丁目２番６号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "9010402025296"
     },
     {
       "edinet_code": "E25035",
@@ -137011,20 +137011,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E34235",
-      "sec_code": null,
-      "ticker": null,
-      "name": "立石　直孝",
-      "name_en": null,
-      "name_kana": "タテイシ　ナオタカ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E37467",
       "sec_code": null,
       "ticker": null,
@@ -150155,20 +150141,6 @@
       "location": "千代田区丸の内二丁目４番１号　丸の内ビルディング９階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3120001266699"
-    },
-    {
-      "edinet_code": "E42118",
-      "sec_code": null,
-      "ticker": null,
-      "name": "Ａｌｌｇａｎｉｚｅ　Ｈｏｌｄｉｎｇｓ株式会社",
-      "name_en": null,
-      "name_kana": "オルガナイズホールディングスカブシキカイシャ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "9月30日",
-      "location": "東京都渋谷区広尾１－３－１",
-      "industry": "情報・通信業",
-      "corporate_number": "8010701041763"
     },
     {
       "edinet_code": "E42026",
