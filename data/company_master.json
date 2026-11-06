@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T18:07:25.817082+00:00",
+    "generated_at": "2026-11-06T02:29:46.468054+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
     "companies": 11436
@@ -19176,9 +19176,9 @@
       "edinet_code": "E34974",
       "sec_code": "44440",
       "ticker": "4444",
-      "name": "株式会社インフォネット",
-      "name_en": "infoNet inc.",
-      "name_kana": "カブシキガイシャインフォネット",
+      "name": "株式会社インフォネットグループ",
+      "name_en": "INFONET GROUP inc.",
+      "name_kana": "カブシキガイシャインフォネットグループ",
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
@@ -32835,6 +32835,20 @@
       "location": "品川区大崎一丁目１１番１号",
       "industry": "電気機器",
       "corporate_number": "8010701016022"
+    },
+    {
+      "edinet_code": "E42190",
+      "sec_code": "658A0",
+      "ticker": "658A",
+      "name": "株式会社ｅｓｔｉｅ",
+      "name_en": "estie, inc.",
+      "name_kana": "カブシキガイシャエスティ",
+      "listing": "上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "12月31日",
+      "location": "港区赤坂９－７－２",
+      "industry": "情報・通信業",
+      "corporate_number": "9010001197108"
     },
     {
       "edinet_code": "E01757",
@@ -57615,6 +57629,34 @@
       "location": "港区六本木六丁目８番１０号",
       "industry": "情報・通信業",
       "corporate_number": "5010401038988"
+    },
+    {
+      "edinet_code": "E42365",
+      "sec_code": null,
+      "ticker": null,
+      "name": "オリジン取引先持株会　理事長　八巻　一公",
+      "name_en": null,
+      "name_kana": "オリジントリヒキサキモチカブカイ　リジチョウ　ヤマキ　カズヒト",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E34226",
+      "sec_code": null,
+      "ticker": null,
+      "name": "オリジン取引先持株会　理事長　山本　勢",
+      "name_en": null,
+      "name_kana": "オリジントリヒキサキモチカブカイ　リジチョウ　ヤマモト　セイ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
     },
     {
       "edinet_code": "E03302",
@@ -111867,20 +111909,6 @@
       "corporate_number": "9290801002463"
     },
     {
-      "edinet_code": "E35997",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社テラスホールディングス",
-      "name_en": null,
-      "name_kana": "カブシキガイシャテラスホールディングス",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区赤坂４－１３－１３",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "4013201012817"
-    },
-    {
       "edinet_code": "E02970",
       "sec_code": null,
       "ticker": null,
@@ -122633,20 +122661,6 @@
       "corporate_number": "3010401061174"
     },
     {
-      "edinet_code": "E31820",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ＧＥＮＥＳＩＳ",
-      "name_en": null,
-      "name_kana": "カブシキガイシャジェネシス",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "京都市中京区烏丸通御池下る虎屋町５６６－１　井門明治安田生命ビル",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "4130001053856"
-    },
-    {
       "edinet_code": "E41384",
       "sec_code": null,
       "ticker": null,
@@ -125851,20 +125865,6 @@
       "location": "大阪市天王寺区堂ケ芝１－１１－３　ＤＳｔ桃谷ビルディング４Ｆ",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3120001225928"
-    },
-    {
-      "edinet_code": "E42190",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ｅｓｔｉｅ",
-      "name_en": "estie, inc.",
-      "name_kana": "カブシキガイシャエスティ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "12月31日",
-      "location": "港区赤坂９－７－２",
-      "industry": "情報・通信業",
-      "corporate_number": "9010001197108"
     },
     {
       "edinet_code": "E38746",
