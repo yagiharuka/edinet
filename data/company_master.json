@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T02:29:46.468054+00:00",
+    "generated_at": "2026-11-06T17:35:06.428297+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11436
+    "companies": 11445
   },
   "companies": [
     {
@@ -23410,7 +23410,7 @@
       "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "3月31日",
-      "location": "福岡市中央区大名一丁目８番６号",
+      "location": "福岡市中央区天神一丁目１１番１号",
       "industry": "サービス業",
       "corporate_number": "7290001026389"
     },
@@ -68635,6 +68635,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42232",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ロングブラックパートナーズ株式会社",
+      "name_en": null,
+      "name_kana": "ロングブラックパートナーズカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区麻布台１－７－２　神谷町麻布台ビル",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5010001114826"
+    },
+    {
       "edinet_code": "E05277",
       "sec_code": null,
       "ticker": null,
@@ -73927,6 +73941,20 @@
       "corporate_number": "9130001032599"
     },
     {
+      "edinet_code": "E42372",
+      "sec_code": null,
+      "ticker": null,
+      "name": "五内川　拡史",
+      "name_en": null,
+      "name_kana": "ゴナイカワ　ヒロシ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E22444",
       "sec_code": null,
       "ticker": null,
@@ -77299,6 +77327,20 @@
       "location": "港区芝大門二丁目５番１号",
       "industry": "その他金融業",
       "corporate_number": "6010401009781"
+    },
+    {
+      "edinet_code": "E42207",
+      "sec_code": null,
+      "ticker": null,
+      "name": "光田　順一",
+      "name_en": null,
+      "name_kana": "ミツダ　ジュンイチ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
     },
     {
       "edinet_code": "E35239",
@@ -81185,6 +81227,20 @@
       "name": "古川國久",
       "name_en": null,
       "name_kana": "フルカワクニヒサ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42294",
+      "sec_code": null,
+      "ticker": null,
+      "name": "古後　淳",
+      "name_en": null,
+      "name_kana": "コゴ　ジュン",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -90377,6 +90433,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42321",
+      "sec_code": null,
+      "ticker": null,
+      "name": "小泉　信一",
+      "name_en": null,
+      "name_kana": "コイズミ　シンイチ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E37377",
       "sec_code": null,
       "ticker": null,
@@ -93057,6 +93127,20 @@
       "name": "岡村　邦彦",
       "name_en": null,
       "name_kana": "オカムラ　クニヒコ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E10982",
+      "sec_code": null,
+      "ticker": null,
+      "name": "岡村　陽久",
+      "name_en": null,
+      "name_kana": "オカムラ　ハルヒサ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -102017,6 +102101,20 @@
       "name": "杉山　博一",
       "name_en": null,
       "name_kana": "スギヤマ　ヒロカズ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42279",
+      "sec_code": null,
+      "ticker": null,
+      "name": "杉山　友紀",
+      "name_en": null,
+      "name_kana": "スギヤマ　トモキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -143647,6 +143745,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42305",
+      "sec_code": null,
+      "ticker": null,
+      "name": "野口　学夫",
+      "name_en": null,
+      "name_kana": "ノグチ　マナブ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E08406",
       "sec_code": null,
       "ticker": null,
@@ -151235,20 +151347,6 @@
       "corporate_number": "9010001226782"
     },
     {
-      "edinet_code": "E39827",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＣＩＴＩＣ　ＣＡＰＩＴＡＬ　ＪＡＰＡＮ　ＰＡＲＴＮＥＲＳ　ＩＩＩ、Ｌ．Ｐ．",
-      "name_en": null,
-      "name_kana": "シティック　キャピタル　ジャパン　パートナーズ　スリー　エル　ピー",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "ＷＡＬＫＥＲＳ　ＣＯＲＰＯＲＡＴＥ　ＬＩＭＩＴＥＤ，１９０　ＥＬＧＩＮ　ＡＶＥＮＵＥ、　ＧＥＯＲＧＥ　ＴＯＷＮ、　ＧＲＡＮＤ　ＣＡＹＭＡＮ、ＫＹ１－９００８　ＣＡＹＭＡＮ　ＩＳＬＡＮＤＳ",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E40528",
       "sec_code": null,
       "ticker": null,
@@ -155757,6 +155855,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42312",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＮＯＴＡ株式会社",
+      "name_en": null,
+      "name_kana": "ノタカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "中央区晴海４丁目７番４号",
+      "industry": "サービス業",
+      "corporate_number": "3010401152097"
+    },
+    {
       "edinet_code": "E39734",
       "sec_code": null,
       "ticker": null,
@@ -158722,6 +158834,20 @@
       "fiscal_year_end": null,
       "location": null,
       "industry": "個人（非居住者）（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E39827",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＴＲＵＳＴＡＲ　ＣＡＰＩＴＡＬ　ＪＡＰＡＮ　ＰＡＲＴＮＥＲＳ　ＩＩＩ、Ｌ．Ｐ．",
+      "name_en": null,
+      "name_kana": "トラスター　キャピタル　ジャパン　パートナーズ　スリー　エル　ピー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "ＷＡＬＫＥＲＳ　ＣＯＲＰＯＲＡＴＥ　ＬＩＭＩＴＥＤ，１９０　ＥＬＧＩＮ　ＡＶＥＮＵＥ、　ＧＥＯＲＧＥ　ＴＯＷＮ、　ＧＲＡＮＤ　ＣＡＹＭＡＮ、ＫＹ１－９００８　ＣＡＹＭＡＮ　ＩＳＬＡＮＤＳ",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
     {
