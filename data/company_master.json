@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T01:44:44.984181+00:00",
+    "generated_at": "2026-11-09T20:52:23.555543+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11447
+    "companies": 11454
   },
   "companies": [
     {
@@ -35408,7 +35408,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "川口市並木２丁目３０番１号",
+      "location": "さいたま市大宮区北袋町１丁目６０２番地２",
       "industry": "電気機器",
       "corporate_number": "5030001074060"
     },
@@ -71981,6 +71981,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42329",
+      "sec_code": null,
+      "ticker": null,
+      "name": "中川　祥太",
+      "name_en": null,
+      "name_kana": "ナカガワ　ショウタ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E38586",
       "sec_code": null,
       "ticker": null,
@@ -85169,6 +85183,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E32390",
+      "sec_code": null,
+      "ticker": null,
+      "name": "境　正博",
+      "name_en": null,
+      "name_kana": "サカイ　マサヒロ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E38252",
       "sec_code": null,
       "ticker": null,
@@ -90263,6 +90291,20 @@
       "location": null,
       "industry": "個人（組合発行者を除く）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E27222",
+      "sec_code": null,
+      "ticker": null,
+      "name": "小林鋳造有限会社",
+      "name_en": null,
+      "name_kana": "コバヤシチュウゾウユウゲンガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "桑名市中央町一丁目４７番地",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "1190002016594"
     },
     {
       "edinet_code": "E32122",
@@ -118811,6 +118853,20 @@
       "corporate_number": "3010001033086"
     },
     {
+      "edinet_code": "E38963",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社日本総険",
+      "name_en": "Nippon Souken Co., Ltd.",
+      "name_kana": "ニホンソウケン",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "11月30日",
+      "location": "高松市サンポート２番１号",
+      "industry": "保険業",
+      "corporate_number": "3470001003159"
+    },
+    {
       "edinet_code": "E30164",
       "sec_code": null,
       "ticker": null,
@@ -121359,6 +121415,20 @@
       "corporate_number": "6030001089545"
     },
     {
+      "edinet_code": "E42355",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社髙橋企画",
+      "name_en": null,
+      "name_kana": "カブシキカイシャタカハシキカク",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "上川郡東神楽町十四号北１番地",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4450001015080"
+    },
+    {
       "edinet_code": "E04576",
       "sec_code": null,
       "ticker": null,
@@ -122941,6 +123011,20 @@
       "corporate_number": "8430001022439"
     },
     {
+      "edinet_code": "E35524",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＨＣＡ",
+      "name_en": null,
+      "name_kana": "カブシキカイシャエイチシーエー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区内神田錦町二丁目１１番地三洋安田ビル２階",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "8010401136459"
+    },
+    {
       "edinet_code": "E37384",
       "sec_code": null,
       "ticker": null,
@@ -123961,6 +124045,20 @@
       "location": "墨田区両国四丁目３１番１１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1010401083204"
+    },
+    {
+      "edinet_code": "E39213",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＭＳＥ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャエムエスイー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区麹町三丁目１番地",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "3010001239303"
     },
     {
       "edinet_code": "E23167",
@@ -152299,6 +152397,20 @@
       "corporate_number": "1120001011859"
     },
     {
+      "edinet_code": "E42395",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＦＧＡ　ＴＲＵＳＴ　Ｌｉｍｉｔｅｄ",
+      "name_en": null,
+      "name_kana": "エフジーエー　トラスト　リミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "１７Ｆ、ＳＭＬ　ＴＯＷＥＲ、１６５ＨＯＩ　ＢＵＮ　ＲＯＡＤ、ＫＷＵＮ　ＴＯＮＧ、ＨＯＮＧ　ＫＯＮＧ",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E36534",
       "sec_code": null,
       "ticker": null,
@@ -154341,20 +154453,6 @@
       "location": "３階、ハーバーマスター・プレイス２、Ｉｆｓｃダブリン１、ダブリン１、ダブリン、アイルランド",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
-    },
-    {
-      "edinet_code": "E42261",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＫＤＸ　Ｋｏｌｅｔ投資法人",
-      "name_en": null,
-      "name_kana": "ケイディーエックスコレットトウシホウジン",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "千代田区内幸町二丁目１番６号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "6010005042171"
     },
     {
       "edinet_code": "E14109",
