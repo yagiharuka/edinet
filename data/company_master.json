@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T01:27:45.772451+00:00",
+    "generated_at": "2026-11-09T01:44:44.984181+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11445
+    "companies": 11447
   },
   "companies": [
     {
@@ -74997,6 +74997,20 @@
       "name": "伊藤　喜代子",
       "name_en": null,
       "name_kana": "イトウ　キヨコ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42229",
+      "sec_code": null,
+      "ticker": null,
+      "name": "伊藤　嘉盛",
+      "name_en": null,
+      "name_kana": "イトウ　ヨシモリ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -159071,6 +159085,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "９　ＰＥＮＡＮＧ　ＲＯＡＤ　ＰＡＲＫ　ＭＡＬＬ　ＳＩＮＧＡＰＯＲＥ",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E31934",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＵＢＳ　ＳＷＩＴＺＥＲＬＡＮＤ　ＡＧ",
+      "name_en": null,
+      "name_kana": "ユービーエス　スイス　エイジー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "Ｂａｈｎｈｏｆｓｔｒａｓｓｅ　４５　Ｚｕｒｉｃｈ　Ｓｗｉｔｚｅｒｌａｎｄ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
