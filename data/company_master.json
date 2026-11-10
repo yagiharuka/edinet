@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T04:08:39.858996+00:00",
+    "generated_at": "2026-11-10T17:59:29.068557+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11449
+    "companies": 11454
   },
   "companies": [
     {
@@ -75764,9 +75764,9 @@
       "edinet_code": "E09828",
       "sec_code": null,
       "ticker": null,
-      "name": "住吉食品有限会社",
+      "name": "住吉食品株式会社",
       "name_en": null,
-      "name_kana": "スミヨシショクヒンユウゲンガイシャ",
+      "name_kana": "スミヨシショクヒンカブシキガイシャ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -82173,6 +82173,20 @@
       "corporate_number": "4020003019874"
     },
     {
+      "edinet_code": "E42335",
+      "sec_code": null,
+      "ticker": null,
+      "name": "合同会社広大",
+      "name_en": null,
+      "name_kana": "ゴウドウガイシャコウダイ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区神田和泉町１番地６－１６ヤマトビル４０５",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "9010003052491"
+    },
+    {
       "edinet_code": "E38717",
       "sec_code": null,
       "ticker": null,
@@ -82753,6 +82767,20 @@
       "name": "吉井　伸一郎",
       "name_en": null,
       "name_kana": "ヨシイ　シンイチロウ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E09052",
+      "sec_code": null,
+      "ticker": null,
+      "name": "吉井　唯",
+      "name_en": null,
+      "name_kana": "ヨシイユイ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -89977,6 +90005,20 @@
       "name": "小杉　圭一",
       "name_en": null,
       "name_kana": "コスギ　ケイイチ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42296",
+      "sec_code": null,
+      "ticker": null,
+      "name": "小村　富士夫",
+      "name_en": null,
+      "name_kana": "コムラ　フジオ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -111625,7 +111667,7 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "千代田区丸の内一丁目７番１２号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "industry": "サービス業",
       "corporate_number": "5010001228626"
     },
     {
@@ -113433,6 +113475,20 @@
       "location": "西宮市丸橋町４－８",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "9140001134460"
+    },
+    {
+      "edinet_code": "E22636",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ビー・エッチ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャビーエッチ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "新潟市南区北田中７８０番地６",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
     },
     {
       "edinet_code": "E00512",
@@ -122197,6 +122253,20 @@
       "location": "千代田区神田和泉町一番地６番１６号　ヤマトビル４０５号室",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3010001245227"
+    },
+    {
+      "edinet_code": "E42325",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社Ｂｅｙｏｎｔ",
+      "name_en": "Byont.Ltd",
+      "name_kana": "カブシキガイシャビヨント",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "11月30日",
+      "location": "千代田区神田神保町２－４０－５",
+      "industry": "情報・通信業",
+      "corporate_number": "2011001122086"
     },
     {
       "edinet_code": "E41748",
@@ -138364,7 +138434,7 @@
       "listing": "非上場",
       "has_consolidated": "無",
       "fiscal_year_end": "12月31日",
-      "location": "熊本市中央区下通１丁目９番９号",
+      "location": "熊本市中央区上通町３番３１号",
       "industry": "その他金融業",
       "corporate_number": null
     },
