@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T17:59:29.068557+00:00",
+    "generated_at": "2026-11-11T01:57:29.280229+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11454
+    "companies": 11453
   },
   "companies": [
     {
@@ -32331,6 +32331,20 @@
       "location": "千代田区富士見２－１０－２　飯田橋グラン・ブルーム",
       "industry": "サービス業",
       "corporate_number": "9120001111949"
+    },
+    {
+      "edinet_code": "E42213",
+      "sec_code": "653A0",
+      "ticker": "653A",
+      "name": "ＭａｂＧｅｎｅｓｉｓ株式会社",
+      "name_en": "MabGenesis Inc.",
+      "name_kana": "マブジェネシスカブシキガイシャ",
+      "listing": "上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月末日",
+      "location": "横浜市港北区新横浜３－７－１８",
+      "industry": "医薬品",
+      "corporate_number": "5010001201475"
     },
     {
       "edinet_code": "E32796",
@@ -111265,6 +111279,20 @@
       "corporate_number": "5220001022512"
     },
     {
+      "edinet_code": "E08547",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社スミノホールディングス",
+      "name_en": null,
+      "name_kana": "カブシキガイシャスミノホールディングス",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "世田谷区成城五丁目１０番１０号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5011002030384"
+    },
+    {
       "edinet_code": "E38544",
       "sec_code": null,
       "ticker": null,
@@ -112887,20 +112915,6 @@
       "location": "横須賀市小川町１４番地－１",
       "industry": "卸売業",
       "corporate_number": "3021001040906"
-    },
-    {
-      "edinet_code": "E05616",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ノバレーゼ",
-      "name_en": "NOVARESE Inc.",
-      "name_kana": "カブシキガイシャノバレーゼ",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "12月31日",
-      "location": "中央区銀座１－８－１４",
-      "industry": "サービス業",
-      "corporate_number": "1010001177471"
     },
     {
       "edinet_code": "E37838",
@@ -116849,20 +116863,6 @@
       "location": "いなべ市北勢町大字阿下喜字北谷３２９０番地",
       "industry": "サービス業",
       "corporate_number": "8190001012159"
-    },
-    {
-      "edinet_code": "E04860",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社共成レンテム",
-      "name_en": "KYOSEI RENTEMU CO.,Ltd.",
-      "name_kana": "カブシキガイシャキョウセイレンテム",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月31日",
-      "location": "帯広市西１８条北１丁目１４番地",
-      "industry": "サービス業",
-      "corporate_number": "6460101000459"
     },
     {
       "edinet_code": "E40706",
@@ -155629,20 +155629,6 @@
       "location": "中野区若宮三丁目１２番２号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "5011201025425"
-    },
-    {
-      "edinet_code": "E42213",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ＭａｂＧｅｎｅｓｉｓ株式会社",
-      "name_en": "MabGenesis Inc.",
-      "name_kana": "マブジェネシスカブシキガイシャ",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "3月末日",
-      "location": "横浜市港北区新横浜３－７－１８",
-      "industry": "医薬品",
-      "corporate_number": "5010001201475"
     },
     {
       "edinet_code": "E38953",
