@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-11T01:57:29.280229+00:00",
+    "generated_at": "2026-11-11T17:57:05.354794+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11453
+    "companies": 11463
   },
   "companies": [
     {
@@ -5182,7 +5182,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "大阪市中央区久太郎町４丁目１番３号",
+      "location": "大阪市中央区平野町２丁目５番８号",
       "industry": "サービス業",
       "corporate_number": "1120001089458"
     },
@@ -55881,6 +55881,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42414",
+      "sec_code": null,
+      "ticker": null,
+      "name": "インターベスト・ディープテック・ファンド",
+      "name_en": null,
+      "name_kana": "インターベスト　ディープテック　ファンド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "大韓民国ソウル特別市江南区永東大路５１１　トレードタワー１７０１号室（三成洞）",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E10112",
       "sec_code": null,
       "ticker": null,
@@ -56801,6 +56815,20 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": "忠清北道清州市興徳区五松邑五松生命二路２３９",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42413",
+      "sec_code": null,
+      "ticker": null,
+      "name": "エイティナム・グロース・ファンド・２０２０",
+      "name_en": null,
+      "name_kana": "エイティナム　グロース　ファンド　ニセンニジュウ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "大韓民国ソウル特別市江南区テヘラン路１０３ギル９",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
@@ -71763,6 +71791,20 @@
       "name": "中山田　明",
       "name_en": null,
       "name_kana": "ナカヤマダ　アキラ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E11867",
+      "sec_code": null,
+      "ticker": null,
+      "name": "中山義人",
+      "name_en": null,
+      "name_kana": "ナカヤマヨシヒト",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -94969,6 +95011,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42327",
+      "sec_code": null,
+      "ticker": null,
+      "name": "平井　瑛",
+      "name_en": null,
+      "name_kana": "ヒライ　エイ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E35887",
       "sec_code": null,
       "ticker": null,
@@ -110943,6 +110999,20 @@
       "corporate_number": "4011101053428"
     },
     {
+      "edinet_code": "E42318",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ジェイ・グロース",
+      "name_en": null,
+      "name_kana": "カブシキカイシャジェイグロース",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区有楽町一丁目７番１号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "4010001248740"
+    },
+    {
       "edinet_code": "E34106",
       "sec_code": null,
       "ticker": null,
@@ -111263,6 +111333,20 @@
       "location": "文京区湯島二丁目４番３号",
       "industry": "ガラス・土石製品",
       "corporate_number": "9010001004016"
+    },
+    {
+      "edinet_code": "E36291",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社スピネカ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャスピネカ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区南麻布４丁目１１番４６－４０５号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "9010401051236"
     },
     {
       "edinet_code": "E34109",
@@ -122029,6 +122113,20 @@
       "location": "千代田区丸の内一丁目１番１号パレスビル５階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4010001266040"
+    },
+    {
+      "edinet_code": "E42361",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＢＣＪ－１１６",
+      "name_en": null,
+      "name_kana": "カブシキカイシャビーシージェイワンハンドレッドシックスティーン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区丸の内一丁目１番１号パレスビル５階",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "8010001269956"
     },
     {
       "edinet_code": "E37208",
@@ -148645,6 +148743,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E10293",
+      "sec_code": null,
+      "ticker": null,
+      "name": "髙橋　巖",
+      "name_en": null,
+      "name_kana": "タカハシイワオ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E21218",
       "sec_code": null,
       "ticker": null,
@@ -151583,6 +151695,20 @@
       "location": "シンガポール　０１８９６０　マリーナ・ビュー８　アジア・スクエア・タワー１　＃３６－０５",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
+    },
+    {
+      "edinet_code": "E42331",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＣＳＲＩ１７号株式会社",
+      "name_en": null,
+      "name_kana": "シーエスアールアイジュウナナゴウカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区大手町二丁目２番１号新大手町ビル８階",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "8010001269601"
     },
     {
       "edinet_code": "E41289",
@@ -154831,6 +154957,20 @@
       "location": "前橋市問屋町２－１３－６",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3070001032149"
+    },
+    {
+      "edinet_code": "E42384",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＬＥＥ　ＣＨＡＮＧＳＵ",
+      "name_en": null,
+      "name_kana": "イチャンス",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（非居住者）（組合発行者を除く）",
+      "corporate_number": null
     },
     {
       "edinet_code": "E38230",
