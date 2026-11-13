@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-12T18:27:33.501569+00:00",
+    "generated_at": "2026-11-13T02:38:45.365501+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11468
+    "companies": 11464
   },
   "companies": [
     {
@@ -7057,7 +7057,7 @@
       "name_kana": "カブシキガイシャニチレイ",
       "listing": "上場",
       "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
+      "fiscal_year_end": "12月31日",
       "location": "中央区築地六丁目１９番２０号",
       "industry": "食料品",
       "corporate_number": "8010001034889"
@@ -25681,20 +25681,6 @@
       "location": "大阪市中央区高麗橋三丁目３番１１号淀屋橋フレックスタワー２階",
       "industry": "情報・通信業",
       "corporate_number": "1120001146779"
-    },
-    {
-      "edinet_code": "E38785",
-      "sec_code": "55810",
-      "ticker": "5581",
-      "name": "株式会社カイテクノロジー",
-      "name_en": null,
-      "name_kana": "カブシキガイシャカイテクノロジー",
-      "listing": "上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "8月31日",
-      "location": "新宿区内藤町８７",
-      "industry": "情報・通信業",
-      "corporate_number": "2010401122225"
     },
     {
       "edinet_code": "E38683",
@@ -96453,20 +96439,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E32626",
-      "sec_code": null,
-      "ticker": null,
-      "name": "慶キャピタル株式会社",
-      "name_en": null,
-      "name_kana": "ヨシキャピタルカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区港南２丁目５番３号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "9011001102263"
-    },
-    {
       "edinet_code": "E40327",
       "sec_code": null,
       "ticker": null,
@@ -133301,20 +133273,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E37016",
-      "sec_code": null,
-      "ticker": null,
-      "name": "田中　幸子",
-      "name_en": null,
-      "name_kana": "タナカ　サチコ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E38262",
       "sec_code": null,
       "ticker": null,
@@ -149743,20 +149701,6 @@
       "name": "齋藤　國春",
       "name_en": null,
       "name_kana": "サイトウ　クニハル",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E37014",
-      "sec_code": null,
-      "ticker": null,
-      "name": "齋藤　徳子",
-      "name_en": null,
-      "name_kana": "サイトウ　ノリコ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
