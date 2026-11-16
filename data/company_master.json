@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T02:11:49.301143+00:00",
+    "generated_at": "2026-11-16T20:34:43.753958+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11467
+    "companies": 11474
   },
   "companies": [
     {
@@ -5339,6 +5339,20 @@
       "location": "港区六本木六丁目２番３１号",
       "industry": "サービス業",
       "corporate_number": "5010001111724"
+    },
+    {
+      "edinet_code": "E42373",
+      "sec_code": "249A0",
+      "ticker": "249A",
+      "name": "株式会社ヒューマンアジャスト",
+      "name_en": null,
+      "name_kana": "カブシキガイシャヒューマンアジャスト",
+      "listing": "上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "新宿区西新宿二丁目７番１号",
+      "industry": "サービス業",
+      "corporate_number": "9030001028871"
     },
     {
       "edinet_code": "E00393",
@@ -59237,7 +59251,7 @@
       "has_consolidated": null,
       "fiscal_year_end": null,
       "location": null,
-      "industry": "個人（組合発行者を除く）",
+      "industry": "個人（非居住者）（組合発行者を除く）",
       "corporate_number": null
     },
     {
@@ -65987,6 +66001,20 @@
       "location": "新宿区西新宿六丁目２５番１３号",
       "industry": "機械",
       "corporate_number": "4011101018760"
+    },
+    {
+      "edinet_code": "E37276",
+      "sec_code": null,
+      "ticker": null,
+      "name": "フローバル株式会社",
+      "name_en": null,
+      "name_kana": "フローバルカブシキカイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "大阪市西区西本町１－１５－１０",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "5120001034550"
     },
     {
       "edinet_code": "E03430",
@@ -110061,6 +110089,20 @@
       "corporate_number": "5011801031475"
     },
     {
+      "edinet_code": "E42314",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社コスモルート",
+      "name_en": "COSMOROOT Co., Ltd.",
+      "name_kana": "カブシキガイシャコスモルート",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "12月31日",
+      "location": "名古屋市熱田区金山町一丁目７番５号",
+      "industry": "情報・通信業",
+      "corporate_number": "5180001021832"
+    },
+    {
       "edinet_code": "E41726",
       "sec_code": null,
       "ticker": null,
@@ -110073,6 +110115,20 @@
       "location": "渋谷区大山町３５番１８―２０７号グランドメゾン渋谷大山町",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "1011001176678"
+    },
+    {
+      "edinet_code": "E41461",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社コネクティ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャコネクティ",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月末日",
+      "location": "新宿区西新宿２－１－１　新宿三井ビルディング１６階",
+      "industry": "情報・通信業",
+      "corporate_number": "9010401087098"
     },
     {
       "edinet_code": "E38871",
@@ -123375,6 +123431,20 @@
       "corporate_number": "4180001126921"
     },
     {
+      "edinet_code": "E42390",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＩＧホールディングス",
+      "name_en": null,
+      "name_kana": "カブシキガイシャアイジーホールディングス",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月末日",
+      "location": "川崎市幸区堀川町５８０番地ソリッドスクエア",
+      "industry": "卸売業",
+      "corporate_number": "4020001148782"
+    },
+    {
       "edinet_code": "E21005",
       "sec_code": null,
       "ticker": null,
@@ -125890,7 +125960,7 @@
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
-      "location": "渋谷区恵比寿１丁目２３番地１３号アルカイビル５階",
+      "location": "渋谷区恵比寿１丁目５番９号　ＳＧ恵比寿ビル５階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7010401068100"
     },
@@ -126117,6 +126187,20 @@
       "location": "千葉市中央区祐光四丁目２５番１７号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4040001126852"
+    },
+    {
+      "edinet_code": "E42389",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社Ｗｉｓｄｏｍ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャウィズダム",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "大田区萩中二丁目１６番１２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "3010801037815"
     },
     {
       "edinet_code": "E39994",
@@ -155110,6 +155194,20 @@
       "fiscal_year_end": null,
       "location": null,
       "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42273",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＬＫＳ　ＰＴＥ　ＬＴＤ",
+      "name_en": null,
+      "name_kana": "エルケーエス　ピーティーイー　リミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "１　ＫＡＫＩ　ＢＵＫＩＴ　ＲＯＡＤ　１，　＃０３－１５，　ＥＮＴＥＲＰＲＩＳＥ　ＯＮＥ，　ＳＩＮＧＡＰＯＬＥ",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": null
     },
     {
