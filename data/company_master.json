@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T04:31:01.304120+00:00",
+    "generated_at": "2026-11-17T19:14:53.462745+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
     "companies": 11469
@@ -62923,6 +62923,20 @@
       "corporate_number": "7010401063398"
     },
     {
+      "edinet_code": "E40900",
+      "sec_code": null,
+      "ticker": null,
+      "name": "テクノプロ・ホールディングス株式会社",
+      "name_en": null,
+      "name_kana": "テクノプロホールディングスカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "港区虎ノ門五丁目１番４号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "6010401191720"
+    },
+    {
       "edinet_code": "E36258",
       "sec_code": null,
       "ticker": null,
@@ -65231,20 +65245,6 @@
       "location": "ベルギー王国　１０００　ブリュッセル　サントル　モネ－マンサントラン",
       "industry": "外国法人・組合",
       "corporate_number": null
-    },
-    {
-      "edinet_code": "E40900",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ビー・エックス・ジェイ・イー・ツー・ホールディング株式会社",
-      "name_en": null,
-      "name_kana": "ビーエックスジェイイーツーホールディングカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区虎ノ門五丁目１番４号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "6010401191720"
     },
     {
       "edinet_code": "E41074",
