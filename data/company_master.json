@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T03:43:15.300212+00:00",
+    "generated_at": "2026-11-18T18:54:59.007770+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11469
+    "companies": 11471
   },
   "companies": [
     {
@@ -3054,7 +3054,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "大阪市中央区北浜二丁目１番１７号",
+      "location": "大阪市中央区北浜一丁目１番１４号",
       "industry": "サービス業",
       "corporate_number": "4120001048543"
     },
@@ -67837,6 +67837,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E42377",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ユニテックフーズ株式会社",
+      "name_en": null,
+      "name_kana": "ユニテックフーズカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "3月31日",
+      "location": "中央区日本橋小伝馬町１４番４号",
+      "industry": "食料品",
+      "corporate_number": "4010001096719"
+    },
+    {
       "edinet_code": "E01830",
       "sec_code": null,
       "ticker": null,
@@ -123065,6 +123079,20 @@
       "location": "港区南麻布三丁目１１番４１号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "7120001211908"
+    },
+    {
+      "edinet_code": "E42353",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社ＧＲＯＷＴＨ　ＶＥＲＳＥ",
+      "name_en": null,
+      "name_kana": "カブシキガイシャグロース　ヴァース",
+      "listing": "非上場",
+      "has_consolidated": "有",
+      "fiscal_year_end": "9月末日",
+      "location": "港区愛宕２－５－１　愛宕グリーンヒルズＭＯＲＩタワー３８階",
+      "industry": "情報・通信業",
+      "corporate_number": "4010401161023"
     },
     {
       "edinet_code": "E42117",
