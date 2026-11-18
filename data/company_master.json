@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T19:14:53.462745+00:00",
+    "generated_at": "2026-11-18T03:43:15.300212+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
     "companies": 11469
@@ -54523,20 +54523,6 @@
       "corporate_number": "9010601034809"
     },
     {
-      "edinet_code": "E36845",
-      "sec_code": null,
-      "ticker": null,
-      "name": "アジア電子工業株式会社",
-      "name_en": null,
-      "name_kana": "アジアデンシコウギョウカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "飯田市中村８０－１",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "2100001022205"
-    },
-    {
       "edinet_code": "E05874",
       "sec_code": null,
       "ticker": null,
@@ -70755,6 +70741,20 @@
       "name": "上原　昭二",
       "name_en": null,
       "name_kana": "ウエハラ　ショウジ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42426",
+      "sec_code": null,
+      "ticker": null,
+      "name": "上原　祐司",
+      "name_en": null,
+      "name_kana": "ウエハラ　ユウジ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
