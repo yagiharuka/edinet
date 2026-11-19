@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T18:54:59.007770+00:00",
+    "generated_at": "2026-11-19T03:32:38.615058+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11471
+    "companies": 11467
   },
   "companies": [
     {
@@ -93121,20 +93121,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E37285",
-      "sec_code": null,
-      "ticker": null,
-      "name": "岡　隆宏",
-      "name_en": null,
-      "name_kana": "オカタカヒロ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E33225",
       "sec_code": null,
       "ticker": null,
@@ -94569,20 +94555,6 @@
       "name": "川畑博士",
       "name_en": null,
       "name_kana": "カワハタヒロシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E32524",
-      "sec_code": null,
-      "ticker": null,
-      "name": "川端　久美子",
-      "name_en": null,
-      "name_kana": "カワバタ　クミコ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -96717,20 +96689,6 @@
       "location": "大阪市福島区野田六丁目２番３９号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3120001035377"
-    },
-    {
-      "edinet_code": "E08765",
-      "sec_code": null,
-      "ticker": null,
-      "name": "政木　喜三郎",
-      "name_en": null,
-      "name_kana": "マサキ　キサブロウ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
     },
     {
       "edinet_code": "E37179",
@@ -140363,20 +140321,6 @@
       "name": "藤井　太郎",
       "name_en": null,
       "name_kana": "フジイ　タロウ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E06318",
-      "sec_code": null,
-      "ticker": null,
-      "name": "藤井　宗徳",
-      "name_en": null,
-      "name_kana": "フジイ　ムネノリ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
