@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T19:03:28.184415+00:00",
+    "generated_at": "2026-11-20T03:21:05.608274+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11468
+    "companies": 11466
   },
   "companies": [
     {
@@ -53851,20 +53851,6 @@
       "corporate_number": "5140001020879"
     },
     {
-      "edinet_code": "E36489",
-      "sec_code": null,
-      "ticker": null,
-      "name": "みよし建設株式会社",
-      "name_en": null,
-      "name_kana": "ミヨシケンセツカブシキカイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "新宿区四谷３丁目１番地",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "2030001058033"
-    },
-    {
       "edinet_code": "E40656",
       "sec_code": null,
       "ticker": null,
@@ -86443,20 +86429,6 @@
       "corporate_number": "6010001049006"
     },
     {
-      "edinet_code": "E07422",
-      "sec_code": null,
-      "ticker": null,
-      "name": "大桑いく嗣",
-      "name_en": null,
-      "name_kana": "オオクワイクジ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E07423",
       "sec_code": null,
       "ticker": null,
@@ -106671,20 +106643,6 @@
       "location": "江東区潮見二丁目９番１５号",
       "industry": "証券、商品先物取引業",
       "corporate_number": "1010001139323"
-    },
-    {
-      "edinet_code": "E37270",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社でらゲー",
-      "name_en": null,
-      "name_kana": "カブシキカイシャデラゲー",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "渋谷区渋谷三丁目６番３号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "5013201018516"
     },
     {
       "edinet_code": "E37735",
@@ -130157,6 +130115,20 @@
       "name": "河端　真一",
       "name_en": null,
       "name_kana": "カワバタ　シンイチ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E11158",
+      "sec_code": null,
+      "ticker": null,
+      "name": "河端伸一郎",
+      "name_en": null,
+      "name_kana": "カワバタシンイチロウ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
