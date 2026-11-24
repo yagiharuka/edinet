@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T22:06:39.112709+00:00",
+    "generated_at": "2026-11-24T06:05:16.232665+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
     "companies": 11469
@@ -10446,7 +10446,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "港区東新橋一丁目１番１９号",
+      "location": "山武郡芝山町牧野字大山３７１番地１",
       "industry": "小売業",
       "corporate_number": "3010001067927"
     },
