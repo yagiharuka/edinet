@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T06:05:16.232665+00:00",
+    "generated_at": "2026-11-24T20:43:27.887467+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11469
+    "companies": 11470
   },
   "companies": [
     {
@@ -60975,6 +60975,20 @@
       "location": "渋谷区恵比寿４丁目１番１８号",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "4011005003801"
+    },
+    {
+      "edinet_code": "E42398",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ジャンボ株式会社",
+      "name_en": null,
+      "name_kana": "ジャンボカブシキガイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "千代田区丸の内一丁目９番２号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "2010001270077"
     },
     {
       "edinet_code": "E06470",
