@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T20:43:27.887467+00:00",
+    "generated_at": "2026-11-25T04:54:04.456853+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11470
+    "companies": 11468
   },
   "companies": [
     {
@@ -14926,7 +14926,7 @@
       "listing": "上場",
       "has_consolidated": "有",
       "fiscal_year_end": "3月31日",
-      "location": "豊島区西池袋５丁目１８番１１号",
+      "location": "豊島区西池袋３丁目２８番１３号",
       "industry": "パルプ・紙",
       "corporate_number": "8013301005766"
     },
@@ -22290,7 +22290,7 @@
       "listing": "上場",
       "has_consolidated": "無",
       "fiscal_year_end": "3月31日",
-      "location": "目黒区駒場四丁目７番６号",
+      "location": "中央区日本橋箱崎町３０番１号",
       "industry": "医薬品",
       "corporate_number": "1013201011111"
     },
@@ -79191,20 +79191,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E33380",
-      "sec_code": null,
-      "ticker": null,
-      "name": "前川　昌之",
-      "name_en": null,
-      "name_kana": "マエカワ　マサユキ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E39168",
       "sec_code": null,
       "ticker": null,
@@ -82907,20 +82893,6 @@
       "name": "吉岡　昌成",
       "name_en": null,
       "name_kana": "ヨシオカ　マサナリ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E37291",
-      "sec_code": null,
-      "ticker": null,
-      "name": "吉岡　裕之",
-      "name_en": null,
-      "name_kana": "ヨシオカ　ヒロユキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -89977,20 +89949,6 @@
       "name": "小川　穂波",
       "name_en": null,
       "name_kana": "オガワ　ホナミ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E25144",
-      "sec_code": null,
-      "ticker": null,
-      "name": "小川　義行",
-      "name_en": null,
-      "name_kana": "オガワ　ヨシユキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -112021,20 +111979,6 @@
       "corporate_number": "6040001030664"
     },
     {
-      "edinet_code": "E05392",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ティーガイア",
-      "name_en": "T-Gaia Corporation",
-      "name_kana": "カブシキガイシャティーガイア",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "渋谷区恵比寿四丁目１番１８号",
-      "industry": "情報・通信業",
-      "corporate_number": "5011001061661"
-    },
-    {
       "edinet_code": "E25019",
       "sec_code": null,
       "ticker": null,
@@ -126909,6 +126853,20 @@
       "name": "森　猛",
       "name_en": null,
       "name_kana": "モリ　タケシ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E33640",
+      "sec_code": null,
+      "ticker": null,
+      "name": "森　茂",
+      "name_en": null,
+      "name_kana": "モリ　シゲル",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -158989,6 +158947,20 @@
       "location": "品川区西五反田二丁目６番３号　東洋ビル１階",
       "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "3010701037733"
+    },
+    {
+      "edinet_code": "E05392",
+      "sec_code": null,
+      "ticker": null,
+      "name": "ＴＧペイメントサービス株式会社",
+      "name_en": null,
+      "name_kana": "ティージーペイメントサービスカブシキガイシャ",
+      "listing": "非上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "3月31日",
+      "location": "渋谷区恵比寿四丁目１番１８号",
+      "industry": "情報・通信業",
+      "corporate_number": "5011001061661"
     },
     {
       "edinet_code": "E40199",
