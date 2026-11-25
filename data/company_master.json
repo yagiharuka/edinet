@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T04:54:04.456853+00:00",
+    "generated_at": "2026-11-25T19:59:37.403497+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11468
+    "companies": 11469
   },
   "companies": [
     {
@@ -94689,6 +94689,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E06779",
+      "sec_code": null,
+      "ticker": null,
+      "name": "市川　周作",
+      "name_en": null,
+      "name_kana": "イチカワ　シュウサク",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E38783",
       "sec_code": null,
       "ticker": null,
@@ -94723,20 +94737,6 @@
       "name": "市川　聡",
       "name_en": null,
       "name_kana": "イチカワ　サトシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E06779",
-      "sec_code": null,
-      "ticker": null,
-      "name": "市川周作",
-      "name_en": null,
-      "name_kana": "イチカワシュウサク",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -151885,6 +151885,20 @@
       "name": "Ｃｈｅｕｎｇ　Ｙｕｋ　Ｓｈａｎ　Ｓｈｉｒｌｅｙ",
       "name_en": null,
       "name_kana": "チャン　ユク　シャン　シャーリー",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（非居住者）（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42311",
+      "sec_code": null,
+      "ticker": null,
+      "name": "Ｃｈｒｉｓｔｏｐｈｅｒ　Ｒｏｂｅｒｔ　Ｃａｒｇｉｌｌ",
+      "name_en": null,
+      "name_kana": "クリストファーロバートカーギル",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
