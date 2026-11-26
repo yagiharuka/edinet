@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T19:59:37.403497+00:00",
+    "generated_at": "2026-11-26T04:10:08.000914+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11469
+    "companies": 11468
   },
   "companies": [
     {
@@ -33285,6 +33285,20 @@
       "corporate_number": "4390001010708"
     },
     {
+      "edinet_code": "E42255",
+      "sec_code": "664A0",
+      "ticker": "664A",
+      "name": "株式会社ＴＯＫＩＵＭ",
+      "name_en": "TOKIUM Inc.",
+      "name_kana": "カブシキガイシャトキウム",
+      "listing": "上場",
+      "has_consolidated": "無",
+      "fiscal_year_end": "5月31日",
+      "location": "中央区銀座六丁目１８番２号",
+      "industry": "情報・通信業",
+      "corporate_number": "7050001034556"
+    },
+    {
       "edinet_code": "E01759",
       "sec_code": "66510",
       "ticker": "6651",
@@ -63749,20 +63763,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E35966",
-      "sec_code": null,
-      "ticker": null,
-      "name": "ニホン　グローバル　グロウス　パートナーズ　エルエルシー",
-      "name_en": null,
-      "name_kana": "ニホン　グローバル　グロウス　パートナーズ　エルエルシー",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "ケイマン諸島ＫＹ１－９００８、グランドケイマン、ジョージタウン、ホスピタル・ロード２７、ケイマン・コーポレート・センター、ウォーカーズ・コーポレート・リミテッド気付",
-      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E36669",
       "sec_code": null,
       "ticker": null,
@@ -67344,6 +67344,20 @@
       "fiscal_year_end": null,
       "location": "２，Ｋｉｎｇ　Ｅｄｗａｒｄ　Ｓｔｒｅｅｔ，Ｌｏｎｄｏｎ，ＥＣ１Ａ　１ＨＱ，Ｕｎｉｔｅｄ　Ｋｉｎｇｄｏｍ",
       "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42403",
+      "sec_code": null,
+      "ticker": null,
+      "name": "メンザス・スピリドン",
+      "name_en": null,
+      "name_kana": "メンザス　スピリドン",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
       "corporate_number": null
     },
     {
@@ -72911,6 +72925,20 @@
       "name": "中西　千代",
       "name_en": null,
       "name_kana": "ナカニシ　チヨ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E21884",
+      "sec_code": null,
+      "ticker": null,
+      "name": "中西　弘毅",
+      "name_en": null,
+      "name_kana": "ナカニシ　ヒロタケ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -79419,13 +79447,13 @@
       "sec_code": null,
       "ticker": null,
       "name": "前田道路株式会社",
-      "name_en": "MAEDA ROAD CONSTRUCTION CO.,LTD.",
+      "name_en": null,
       "name_kana": "マエダドウロカブシキガイシャ",
-      "listing": "非上場",
-      "has_consolidated": "有",
-      "fiscal_year_end": "3月31日",
-      "location": "品川区大崎１丁目１１番３号",
-      "industry": "建設業",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "品川区大崎一丁目１１番３号",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
       "corporate_number": "6010701009184"
     },
     {
@@ -102395,6 +102423,20 @@
       "name": "杉浦　求",
       "name_en": null,
       "name_kana": "スギウラ　モトム",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42470",
+      "sec_code": null,
+      "ticker": null,
+      "name": "杉浦　英和",
+      "name_en": null,
+      "name_kana": "スギウラ　ヒデカズ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -125671,20 +125713,6 @@
       "corporate_number": "4020001116954"
     },
     {
-      "edinet_code": "E42255",
-      "sec_code": null,
-      "ticker": null,
-      "name": "株式会社ＴＯＫＩＵＭ",
-      "name_en": "TOKIUM Inc.",
-      "name_kana": "カブシキガイシャトキウム",
-      "listing": "非上場",
-      "has_consolidated": "無",
-      "fiscal_year_end": "5月31日",
-      "location": "中央区銀座六丁目１８番２号",
-      "industry": "情報・通信業",
-      "corporate_number": "7050001034556"
-    },
-    {
       "edinet_code": "E38179",
       "sec_code": null,
       "ticker": null,
@@ -134091,20 +134119,6 @@
       "name": "田澤　悟郎",
       "name_en": null,
       "name_kana": "タザワ　ゴロウ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E11575",
-      "sec_code": null,
-      "ticker": null,
-      "name": "田澤　知志",
-      "name_en": null,
-      "name_kana": "タザワ　トモユキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -142625,20 +142639,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E09094",
-      "sec_code": null,
-      "ticker": null,
-      "name": "越山　勇",
-      "name_en": null,
-      "name_kana": "コシヤマ　イサム",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E39153",
       "sec_code": null,
       "ticker": null,
@@ -148281,20 +148281,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E36509",
-      "sec_code": null,
-      "ticker": null,
-      "name": "高谷コンサルティング株式会社",
-      "name_en": null,
-      "name_kana": "タカタニコンサルティングカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "吹田市垂水町一丁目２１番１６号",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "8120901042294"
-    },
-    {
       "edinet_code": "E11535",
       "sec_code": null,
       "ticker": null,
@@ -149051,20 +149037,6 @@
       "corporate_number": "4010001052143"
     },
     {
-      "edinet_code": "E37226",
-      "sec_code": null,
-      "ticker": null,
-      "name": "鳥海　裕二",
-      "name_en": null,
-      "name_kana": "トリウミ　ユウジ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E38193",
       "sec_code": null,
       "ticker": null,
@@ -149659,6 +149631,20 @@
       "name": "黒須　綾希子",
       "name_en": null,
       "name_kana": "クロス　アキコ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
+      "edinet_code": "E42383",
+      "sec_code": null,
+      "ticker": null,
+      "name": "黒﨑　賢一",
+      "name_en": null,
+      "name_kana": "クロサキ　ケンイチ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
