@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T19:42:53.633384+00:00",
+    "generated_at": "2026-11-27T04:16:56.679988+00:00",
     "source": "EDINETコードリスト",
     "source_url": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip",
-    "companies": 11473
+    "companies": 11470
   },
   "companies": [
     {
@@ -53389,20 +53389,6 @@
       "corporate_number": "3011001027739"
     },
     {
-      "edinet_code": "E11776",
-      "sec_code": null,
-      "ticker": null,
-      "name": "あいグローバル・アセット・マネジメント株式会社",
-      "name_en": null,
-      "name_kana": "アイグローバルアセットマネジメントカブシキガイシャ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": "港区六本木一丁目６番１号　泉ガーデンタワー７階",
-      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
-      "corporate_number": "9010001065933"
-    },
-    {
       "edinet_code": "E30689",
       "sec_code": null,
       "ticker": null,
@@ -59827,6 +59813,20 @@
       "location": "江東区木場一丁目５番２５号",
       "industry": "建設業",
       "corporate_number": "6010001096923"
+    },
+    {
+      "edinet_code": "E36342",
+      "sec_code": null,
+      "ticker": null,
+      "name": "サムスン・エレクトロニクス・シンガポール・ピーティーイー・リミテッド",
+      "name_en": null,
+      "name_kana": "サムスンエレクトロニクスシンガポールピーティーイーリミテッド",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "シンガポール共和国１１７４４０、パシルパンジャン・ロード３０、メープルツリー・ビジネスシティ＃１７－３１／３２",
+      "industry": "外国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": null
     },
     {
       "edinet_code": "E15404",
@@ -73549,40 +73549,12 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E31880",
-      "sec_code": null,
-      "ticker": null,
-      "name": "久保　千晶",
-      "name_en": null,
-      "name_kana": "クボ　チアキ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E07031",
       "sec_code": null,
       "ticker": null,
       "name": "久保　哲夫",
       "name_en": null,
       "name_kana": "クボ　テツオ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E23696",
-      "sec_code": null,
-      "ticker": null,
-      "name": "久保　泰子",
-      "name_en": null,
-      "name_kana": "クボ　ヤスコ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -102613,6 +102585,20 @@
       "corporate_number": null
     },
     {
+      "edinet_code": "E26047",
+      "sec_code": null,
+      "ticker": null,
+      "name": "村上　太郎",
+      "name_en": null,
+      "name_kana": "ムラカミ　タロウ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": null,
+      "industry": "個人（組合発行者を除く）",
+      "corporate_number": null
+    },
+    {
       "edinet_code": "E38828",
       "sec_code": null,
       "ticker": null,
@@ -103725,20 +103711,6 @@
       "name": "松下　明義",
       "name_en": null,
       "name_kana": "マツシタ　アキヨシ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E34830",
-      "sec_code": null,
-      "ticker": null,
-      "name": "松下　智樹",
-      "name_en": null,
-      "name_kana": "マツシタ　トモキ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
@@ -121135,6 +121107,20 @@
       "corporate_number": "3180301014273"
     },
     {
+      "edinet_code": "E24236",
+      "sec_code": null,
+      "ticker": null,
+      "name": "株式会社豊英社",
+      "name_en": null,
+      "name_kana": "カブシキガイシャホウエイシャ",
+      "listing": null,
+      "has_consolidated": null,
+      "fiscal_year_end": null,
+      "location": "静岡市駿河区見瀬１６２番地",
+      "industry": "内国法人・組合（有価証券報告書等の提出義務者以外）",
+      "corporate_number": "7080001004696"
+    },
+    {
       "edinet_code": "E21704",
       "sec_code": null,
       "ticker": null,
@@ -129409,20 +129395,6 @@
       "corporate_number": null
     },
     {
-      "edinet_code": "E32518",
-      "sec_code": null,
-      "ticker": null,
-      "name": "永野　祐司",
-      "name_en": null,
-      "name_kana": "ナガノ　ユウジ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
       "edinet_code": "E38801",
       "sec_code": null,
       "ticker": null,
@@ -137549,20 +137521,6 @@
       "name": "竹内　在",
       "name_en": null,
       "name_kana": "タケウチ　アリ",
-      "listing": null,
-      "has_consolidated": null,
-      "fiscal_year_end": null,
-      "location": null,
-      "industry": "個人（組合発行者を除く）",
-      "corporate_number": null
-    },
-    {
-      "edinet_code": "E09698",
-      "sec_code": null,
-      "ticker": null,
-      "name": "竹内　惠司",
-      "name_en": null,
-      "name_kana": "タケウチ　ケイジ",
       "listing": null,
       "has_consolidated": null,
       "fiscal_year_end": null,
